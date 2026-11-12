@@ -380,6 +380,7 @@
   // et on n'attend pas 150 ms quand la page écrase un texte déjà traduit.
   const pending = new Set();
   let flushTimer = null;
+  let syncTours = 0, syncRaz = null;
   function queue(mutations) {
     for (const m of mutations) {
       if (m.type === "characterData") {
@@ -419,7 +420,12 @@
     // paiement, recalcul des frais) avant notre passe. flushPending
     // ignore déjà nos propres écritures et reprend les mutations de la
     // page survenues pendant la passe (jusqu'à 6 tours).
-    flushPending();
+    // Garde anti-boucle : si un script de la page remet son texte à chaque
+    // écriture (ping-pong en microtâches), on repasse au différé après 50 tours.
+    if (syncTours++ < 50) {
+      if (!syncRaz) syncRaz = setTimeout(() => { syncTours = 0; syncRaz = null; }, 0);
+      flushPending();
+    } else if (!flushTimer) flushTimer = setTimeout(flushPending, 150);
   });
   observer.observe(document.documentElement || document, { childList: true, subtree: true, characterData: true });
 

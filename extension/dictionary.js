@@ -465,6 +465,7 @@ var EWONDO_DICT = {
   "transfert annulé": "lom mɔni təb",
   "transfert d'argent": "lom mɔni",
   "transfert effectué": "lom mɔni mana",
+  "transfert réussi": "lom mɔni mana",
   "transférer": "lom mɔni",
   "transmettre": "lom mɔni",
   "travailler": "sye",

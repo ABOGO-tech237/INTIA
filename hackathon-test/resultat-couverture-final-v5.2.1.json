@@ -1,0 +1,2452 @@
+{
+ "verdict": "RÉUSSITE",
+ "fichiers_modifies_pendant_la_mesure": [],
+ "regle": "une chaîne est couverte si son rendu ne contient aucun mot français (Hunspell fr) hors allowlist.json ; échec s'il en reste une dans ['extension', 'page']",
+ "couverture_globale_pct": 100.0,
+ "couverture_globale": {
+  "chaines_fr": 1425,
+  "chaines_couvertes": 1425,
+  "mots_fr_origine": 4548,
+  "mots_fr_restants": 0,
+  "chaines_sans_original": 8,
+  "couverture_pct": 100.0,
+  "couverture_mots_pct": 100.0
+ },
+ "couverture_par_portee": {
+  "page": {
+   "chaines_fr": 1425,
+   "chaines_couvertes": 1425,
+   "mots_fr_origine": 4548,
+   "mots_fr_restants": 0,
+   "chaines_sans_original": 8,
+   "couverture_pct": 100.0,
+   "couverture_mots_pct": 100.0
+  },
+  "extension": {
+   "chaines_fr": 0,
+   "chaines_couvertes": 0,
+   "mots_fr_origine": 0,
+   "mots_fr_restants": 0,
+   "chaines_sans_original": 0,
+   "couverture_pct": 100.0,
+   "couverture_mots_pct": 100.0
+  },
+  "jury": {
+   "chaines_fr": 494,
+   "chaines_couvertes": 445,
+   "mots_fr_origine": 1094,
+   "mots_fr_restants": 73,
+   "chaines_sans_original": 2,
+   "couverture_pct": 90.08,
+   "couverture_mots_pct": 93.33
+  }
+ },
+ "couverture_par_etat": {
+  "continu:c1-tableau-de-bord": {
+   "page": {
+    "chaines_fr": 34,
+    "chaines_couvertes": 34,
+    "mots_fr_origine": 97,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "continu:c2-frais-compte-safinum": {
+   "page": {
+    "chaines_fr": 30,
+    "chaines_couvertes": 30,
+    "mots_fr_origine": 96,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "continu:c2-frais-mobile-money": {
+   "page": {
+    "chaines_fr": 29,
+    "chaines_couvertes": 29,
+    "mots_fr_origine": 95,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "continu:c3-alerte-securite-non-verifie": {
+   "page": {
+    "chaines_fr": 30,
+    "chaines_couvertes": 30,
+    "mots_fr_origine": 124,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "continu:c3-beneficiaire": {
+   "page": {
+    "chaines_fr": 27,
+    "chaines_couvertes": 27,
+    "mots_fr_origine": 109,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "continu:c4-erreur-confirmation": {
+   "page": {
+    "chaines_fr": 33,
+    "chaines_couvertes": 33,
+    "mots_fr_origine": 102,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "continu:c4-recapitulatif": {
+   "page": {
+    "chaines_fr": 30,
+    "chaines_couvertes": 30,
+    "mots_fr_origine": 87,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "continu:c5-recu": {
+   "page": {
+    "chaines_fr": 27,
+    "chaines_couvertes": 27,
+    "mots_fr_origine": 76,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "continu:cd-erreur-montant-zero": {
+   "page": {
+    "chaines_fr": 33,
+    "chaines_couvertes": 33,
+    "mots_fr_origine": 108,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "continu:cd-erreur-solde-insuffisant": {
+   "page": {
+    "chaines_fr": 32,
+    "chaines_couvertes": 32,
+    "mots_fr_origine": 106,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "continu:cd-frais-autre-banque": {
+   "page": {
+    "chaines_fr": 29,
+    "chaines_couvertes": 29,
+    "mots_fr_origine": 95,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "continu:cd-frais-autre-banque-sous-minimum": {
+   "page": {
+    "chaines_fr": 29,
+    "chaines_couvertes": 29,
+    "mots_fr_origine": 95,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "continu:cd-frais-compte-safinum": {
+   "page": {
+    "chaines_fr": 30,
+    "chaines_couvertes": 30,
+    "mots_fr_origine": 96,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "continu:cd-frais-mobile-money": {
+   "page": {
+    "chaines_fr": 29,
+    "chaines_couvertes": 29,
+    "mots_fr_origine": 95,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "continu:cd-frais-mobile-money-sous-minimum": {
+   "page": {
+    "chaines_fr": 29,
+    "chaines_couvertes": 29,
+    "mots_fr_origine": 95,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "continu:cd-tableau-de-bord": {
+   "page": {
+    "chaines_fr": 34,
+    "chaines_couvertes": 34,
+    "mots_fr_origine": 97,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "continu:cj-contenu-injecte": {
+   "jury": {
+    "chaines_fr": 28,
+    "chaines_couvertes": 27,
+    "mots_fr_origine": 81,
+    "mots_fr_restants": 1,
+    "chaines_sans_original": 0,
+    "couverture_pct": 96.43,
+    "couverture_mots_pct": 98.77
+   },
+   "page": {
+    "chaines_fr": 36,
+    "chaines_couvertes": 36,
+    "mots_fr_origine": 107,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "continu:cj-erreur-reseau": {
+   "jury": {
+    "chaines_fr": 24,
+    "chaines_couvertes": 23,
+    "mots_fr_origine": 58,
+    "mots_fr_restants": 1,
+    "chaines_sans_original": 2,
+    "couverture_pct": 95.83,
+    "couverture_mots_pct": 98.28
+   },
+   "page": {
+    "chaines_fr": 19,
+    "chaines_couvertes": 19,
+    "mots_fr_origine": 42,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 8,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "continu:cj-panneau-controle": {
+   "jury": {
+    "chaines_fr": 26,
+    "chaines_couvertes": 26,
+    "mots_fr_origine": 73,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   },
+   "page": {
+    "chaines_fr": 34,
+    "chaines_couvertes": 34,
+    "mots_fr_origine": 97,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "par-etat:e1-consulter-les-frais": {
+   "page": {
+    "chaines_fr": 30,
+    "chaines_couvertes": 30,
+    "mots_fr_origine": 96,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "par-etat:e1-tableau-de-bord": {
+   "page": {
+    "chaines_fr": 34,
+    "chaines_couvertes": 34,
+    "mots_fr_origine": 97,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "par-etat:e2-erreur-fermee": {
+   "page": {
+    "chaines_fr": 30,
+    "chaines_couvertes": 30,
+    "mots_fr_origine": 96,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "par-etat:e2-erreur-montant-zero": {
+   "page": {
+    "chaines_fr": 33,
+    "chaines_couvertes": 33,
+    "mots_fr_origine": 108,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "par-etat:e2-erreur-solde-insuffisant": {
+   "page": {
+    "chaines_fr": 32,
+    "chaines_couvertes": 32,
+    "mots_fr_origine": 106,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "par-etat:e2-frais-autre-banque": {
+   "page": {
+    "chaines_fr": 29,
+    "chaines_couvertes": 29,
+    "mots_fr_origine": 95,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "par-etat:e2-frais-autre-banque-sous-minimum": {
+   "page": {
+    "chaines_fr": 29,
+    "chaines_couvertes": 29,
+    "mots_fr_origine": 95,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "par-etat:e2-frais-compte-safinum": {
+   "page": {
+    "chaines_fr": 30,
+    "chaines_couvertes": 30,
+    "mots_fr_origine": 96,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "par-etat:e2-frais-mobile-money": {
+   "page": {
+    "chaines_fr": 29,
+    "chaines_couvertes": 29,
+    "mots_fr_origine": 95,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "par-etat:e2-frais-mobile-money-sous-minimum": {
+   "page": {
+    "chaines_fr": 29,
+    "chaines_couvertes": 29,
+    "mots_fr_origine": 95,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "par-etat:e3-alerte-securite-non-verifie": {
+   "page": {
+    "chaines_fr": 30,
+    "chaines_couvertes": 30,
+    "mots_fr_origine": 124,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "par-etat:e3-beneficiaire": {
+   "page": {
+    "chaines_fr": 27,
+    "chaines_couvertes": 27,
+    "mots_fr_origine": 109,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "par-etat:e3-erreur-beneficiaire-vide": {
+   "page": {
+    "chaines_fr": 30,
+    "chaines_couvertes": 30,
+    "mots_fr_origine": 123,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "par-etat:e4-erreur-confirmation": {
+   "page": {
+    "chaines_fr": 33,
+    "chaines_couvertes": 33,
+    "mots_fr_origine": 102,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "par-etat:e4-modifier-retour": {
+   "page": {
+    "chaines_fr": 27,
+    "chaines_couvertes": 27,
+    "mots_fr_origine": 109,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "par-etat:e4-recapitulatif": {
+   "page": {
+    "chaines_fr": 30,
+    "chaines_couvertes": 30,
+    "mots_fr_origine": 87,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "par-etat:e5-recu": {
+   "page": {
+    "chaines_fr": 27,
+    "chaines_couvertes": 27,
+    "mots_fr_origine": 76,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "par-etat:j-alerte-securite-002": {
+   "jury": {
+    "chaines_fr": 26,
+    "chaines_couvertes": 26,
+    "mots_fr_origine": 73,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   },
+   "page": {
+    "chaines_fr": 37,
+    "chaines_couvertes": 37,
+    "mots_fr_origine": 114,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "par-etat:j-contenu-injecte": {
+   "jury": {
+    "chaines_fr": 28,
+    "chaines_couvertes": 27,
+    "mots_fr_origine": 81,
+    "mots_fr_restants": 1,
+    "chaines_sans_original": 0,
+    "couverture_pct": 96.43,
+    "couverture_mots_pct": 98.77
+   },
+   "page": {
+    "chaines_fr": 36,
+    "chaines_couvertes": 36,
+    "mots_fr_origine": 107,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "par-etat:j-erreur-reseau": {
+   "jury": {
+    "chaines_fr": 26,
+    "chaines_couvertes": 26,
+    "mots_fr_origine": 73,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   },
+   "page": {
+    "chaines_fr": 37,
+    "chaines_couvertes": 37,
+    "mots_fr_origine": 110,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "par-etat:j-mode-page-reelle": {
+   "page": {
+    "chaines_fr": 32,
+    "chaines_couvertes": 32,
+    "mots_fr_origine": 84,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "par-etat:j-onglet-couverture": {
+   "jury": {
+    "chaines_fr": 15,
+    "chaines_couvertes": 15,
+    "mots_fr_origine": 49,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   },
+   "page": {
+    "chaines_fr": 34,
+    "chaines_couvertes": 34,
+    "mots_fr_origine": 97,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "par-etat:j-onglet-soumissions": {
+   "jury": {
+    "chaines_fr": 122,
+    "chaines_couvertes": 101,
+    "mots_fr_origine": 202,
+    "mots_fr_restants": 33,
+    "chaines_sans_original": 0,
+    "couverture_pct": 82.79,
+    "couverture_mots_pct": 83.66
+   },
+   "page": {
+    "chaines_fr": 27,
+    "chaines_couvertes": 27,
+    "mots_fr_origine": 109,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "par-etat:j-panneau-controle": {
+   "jury": {
+    "chaines_fr": 26,
+    "chaines_couvertes": 26,
+    "mots_fr_origine": 73,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   },
+   "page": {
+    "chaines_fr": 34,
+    "chaines_couvertes": 34,
+    "mots_fr_origine": 97,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "par-etat:j-solde-insuffisant": {
+   "jury": {
+    "chaines_fr": 26,
+    "chaines_couvertes": 26,
+    "mots_fr_origine": 73,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   },
+   "page": {
+    "chaines_fr": 37,
+    "chaines_couvertes": 37,
+    "mots_fr_origine": 108,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "par-etat:j-soumission-detail": {
+   "jury": {
+    "chaines_fr": 135,
+    "chaines_couvertes": 111,
+    "mots_fr_origine": 221,
+    "mots_fr_restants": 36,
+    "chaines_sans_original": 0,
+    "couverture_pct": 82.22,
+    "couverture_mots_pct": 83.71
+   },
+   "page": {
+    "chaines_fr": 34,
+    "chaines_couvertes": 34,
+    "mots_fr_origine": 97,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  },
+  "par-etat:j-soumissions-vide": {
+   "jury": {
+    "chaines_fr": 12,
+    "chaines_couvertes": 11,
+    "mots_fr_origine": 37,
+    "mots_fr_restants": 1,
+    "chaines_sans_original": 0,
+    "couverture_pct": 91.67,
+    "couverture_mots_pct": 97.3
+   },
+   "page": {
+    "chaines_fr": 34,
+    "chaines_couvertes": 34,
+    "mots_fr_origine": 97,
+    "mots_fr_restants": 0,
+    "chaines_sans_original": 0,
+    "couverture_pct": 100.0,
+    "couverture_mots_pct": 100.0
+   }
+  }
+ },
+ "autotests": {
+  "A-juge-traduction-simulee": {
+   "couverture_pct": 50.0,
+   "attendu_pct": 50.0,
+   "ok": true,
+   "restants": [
+    [
+     "Protocole de test",
+     "Protocole de test"
+    ]
+   ]
+  },
+  "B-vraie-extension": {
+   "couverture_pct": 100.0,
+   "note": "informatif : dépend du lexique du moment (100 % si « Protocole de test » est désormais traduit)",
+   "restants": []
+  }
+ },
+ "jetons_rendus_a_confirmer": {
+  "jetons_ewondo_affiches": 5304,
+  "jetons_issus_d_entrees_a_confirmer": 3394,
+  "part_pct": 63.99,
+  "entrees_a_confirmer_affichees": [
+   [
+    "safinum pay — environnement de démonstration. ne saisissez aucune donnée personnelle réelle",
+    460
+   ],
+   [
+    "environnement de test — données fictives, aucune transaction réelle",
+    405
+   ],
+   [
+    "votre compte",
+    236
+   ],
+   [
+    "solde disponible",
+    236
+   ],
+   [
+    "frais",
+    210
+   ],
+   [
+    "choisissez le type de transfert et le montant. les frais sont calculés automatiquement",
+    198
+   ],
+   [
+    "retour au hackathon",
+    180
+   ],
+   [
+    "compte courant",
+    177
+   ],
+   [
+    "banque en ligne",
+    138
+   ],
+   [
+    "connexion sécurisée",
+    135
+   ],
+   [
+    "récapitulatif",
+    100
+   ],
+   [
+    "solde",
+    92
+   ],
+   [
+    "protocole de test",
+    90
+   ],
+   [
+    "transactions récentes",
+    84
+   ],
+   [
+    "ce bénéficiaire n'a jamais été utilisé sur ce compte. vérifiez le numéro avant de continuer",
+    84
+   ],
+   [
+    "total à débiter",
+    72
+   ],
+   [
+    "consulter les frais",
+    56
+   ],
+   [
+    "frais de transfert",
+    54
+   ],
+   [
+    "nov",
+    42
+   ],
+   [
+    "facture électricité",
+    42
+   ],
+   [
+    "autre banque",
+    36
+   ],
+   [
+    "frais de 1,5 % (min. 100 fcfa, max. 2 500 fcfa",
+    35
+   ],
+   [
+    "je confirme que les informations ci-dessus sont correctes",
+    32
+   ],
+   [
+    "frais de 2 % (min. 200 fcfa, max. 5 000 fcfa",
+    30
+   ],
+   [
+    "numéro de compte",
+    28
+   ],
+   [
+    "note (optionnel",
+    21
+   ],
+   [
+    "solde insuffisant pour effectuer ce transfert",
+    18
+   ],
+   [
+    "oct",
+    14
+   ],
+   [
+    "vous devez confirmer les informations avant de valider le transfert",
+    14
+   ],
+   [
+    "veuillez renseigner le nom et le numéro du bénéficiaire",
+    12
+   ],
+   [
+    "total débité",
+    12
+   ],
+   [
+    "référence",
+    12
+   ],
+   [
+    "votre transfert a été envoyé avec succès",
+    10
+   ],
+   [
+    "le montant doit être supérieur à zéro",
+    8
+   ],
+   [
+    "alerte de sécurité : ce bénéficiaire n'a jamais été utilisé sur ce compte",
+    8
+   ],
+   [
+    "erreur réseau : le service est temporairement indisponible. réessayez",
+    8
+   ],
+   [
+    "jury",
+    3
+   ],
+   [
+    "statut",
+    2
+   ]
+  ],
+  "note": "comptés par occurrence (état × nœud), portée page ; ces jetons comptent comme traduits"
+ },
+ "nb_mots_restants": 0,
+ "mots_restants_distincts": 0,
+ "mots_restants_par_frequence": [],
+ "chaines_restantes_distinctes": 0,
+ "chaines_restantes_par_frequence": [],
+ "restants": [],
+ "restants_hors_echec": [
+  {
+   "mot": "fr",
+   "original_complet": "fr",
+   "rendu": "fr",
+   "original_capture_avant_traduction": true,
+   "etat": "j-contenu-injecte",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>section:nth-of-type(1)>div:nth-of-type(2)>div>span::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "JSON",
+   "original_complet": "Exporter JSON",
+   "rendu": "Lom JSON",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(2)>button:nth-of-type(1)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "code",
+   "original_complet": "code: AMOUNT_002",
+   "rendu": "code: AMOUNT_002",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(3)>div:nth-of-type(2)>span::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "code",
+   "original_complet": "code: NETWORK_001",
+   "rendu": "code: NETWORK_001",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(4)>div:nth-of-type(2)>span::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "code",
+   "original_complet": "code: SECURITY_002",
+   "rendu": "code: SECURITY_002",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(5)>div:nth-of-type(2)>span::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "phone",
+   "original_complet": "phone: +237 6 99 12 34 56",
+   "rendu": "phone: +237 6 99 12 34 56",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(7)>div:nth-of-type(2)>span:nth-of-type(5)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "phone",
+   "original_complet": "phone: +237 6 99 12 34 56",
+   "rendu": "phone: +237 6 99 12 34 56",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(8)>div:nth-of-type(2)>span:nth-of-type(2)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "Paiement",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(8)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "de",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(8)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "services",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(8)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "phone",
+   "original_complet": "phone: +237 6 99 12 34 56",
+   "rendu": "phone: +237 6 99 12 34 56",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(10)>div:nth-of-type(2)>span:nth-of-type(2)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "Paiement",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(10)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "de",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(10)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "services",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(10)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "phone",
+   "original_complet": "phone: +237 6 99 12 34 56",
+   "rendu": "phone: +237 6 99 12 34 56",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(12)>div:nth-of-type(2)>span:nth-of-type(5)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "phone",
+   "original_complet": "phone: +237 6 99 12 34 56",
+   "rendu": "phone: +237 6 99 12 34 56",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(13)>div:nth-of-type(2)>span:nth-of-type(2)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "Paiement",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(13)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "de",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(13)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "services",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(13)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "phone",
+   "original_complet": "phone: +237 6 99 12 34 56",
+   "rendu": "phone: +237 6 99 12 34 56",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(15)>div:nth-of-type(2)>span:nth-of-type(2)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "Paiement",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(15)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "de",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(15)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "services",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(15)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "phone",
+   "original_complet": "phone: +237 6 99 12 34 56",
+   "rendu": "phone: +237 6 99 12 34 56",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(17)>div:nth-of-type(2)>span:nth-of-type(2)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "Paiement",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(17)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "de",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(17)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "services",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(17)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "phone",
+   "original_complet": "phone: +237 6 99 12 34 56",
+   "rendu": "phone: +237 6 99 12 34 56",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(19)>div:nth-of-type(2)>span:nth-of-type(2)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "Paiement",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(19)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "de",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(19)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "services",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(19)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "total",
+   "original_complet": "total: 0",
+   "rendu": "total: 0",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(22)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "total",
+   "original_complet": "total: 0",
+   "rendu": "total: 0",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(24)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "mobile",
+   "original_complet": "operation: mobile_money",
+   "rendu": "operation: mobile_money",
+   "original_capture_avant_traduction": true,
+   "etat": "j-onglet-soumissions",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(24)>div:nth-of-type(2)>span:nth-of-type(4)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "JSON",
+   "original_complet": "Exporter JSON",
+   "rendu": "Lom JSON",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(2)>button:nth-of-type(1)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "balance",
+   "original_complet": "{ \"balance\": 250000 }",
+   "rendu": "{ \"balance\": 250000 }",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(1)>div:nth-of-type(3)>div:nth-of-type(2)>div:nth-of-type(1)>pre::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "balance",
+   "original_complet": "{ \"balance\": \"250 000 FCFA\" }",
+   "rendu": "{ \"balance\": \"250 000 FCFA\" }",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(1)>div:nth-of-type(3)>div:nth-of-type(2)>div:nth-of-type(2)>pre::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "balance",
+   "original_complet": "{ \"balance\": 250000, \"account\": \"CM 001 2345 6789 01\" }",
+   "rendu": "{ \"balance\": 250000, \"account\": \"CM 001 2345 6789 01\" }",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(1)>div:nth-of-type(3)>div:nth-of-type(4)>pre::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "code",
+   "original_complet": "code: AMOUNT_002",
+   "rendu": "code: AMOUNT_002",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(4)>div:nth-of-type(2)>span::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "code",
+   "original_complet": "code: NETWORK_001",
+   "rendu": "code: NETWORK_001",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(5)>div:nth-of-type(2)>span::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "code",
+   "original_complet": "code: SECURITY_002",
+   "rendu": "code: SECURITY_002",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(6)>div:nth-of-type(2)>span::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "phone",
+   "original_complet": "phone: +237 6 99 12 34 56",
+   "rendu": "phone: +237 6 99 12 34 56",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(8)>div:nth-of-type(2)>span:nth-of-type(5)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "phone",
+   "original_complet": "phone: +237 6 99 12 34 56",
+   "rendu": "phone: +237 6 99 12 34 56",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(9)>div:nth-of-type(2)>span:nth-of-type(2)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "Paiement",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(9)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "de",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(9)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "services",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(9)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "phone",
+   "original_complet": "phone: +237 6 99 12 34 56",
+   "rendu": "phone: +237 6 99 12 34 56",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(11)>div:nth-of-type(2)>span:nth-of-type(2)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "Paiement",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(11)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "de",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(11)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "services",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(11)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "phone",
+   "original_complet": "phone: +237 6 99 12 34 56",
+   "rendu": "phone: +237 6 99 12 34 56",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(13)>div:nth-of-type(2)>span:nth-of-type(5)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "phone",
+   "original_complet": "phone: +237 6 99 12 34 56",
+   "rendu": "phone: +237 6 99 12 34 56",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(14)>div:nth-of-type(2)>span:nth-of-type(2)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "Paiement",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(14)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "de",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(14)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "services",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(14)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "phone",
+   "original_complet": "phone: +237 6 99 12 34 56",
+   "rendu": "phone: +237 6 99 12 34 56",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(16)>div:nth-of-type(2)>span:nth-of-type(2)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "Paiement",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(16)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "de",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(16)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "services",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(16)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "phone",
+   "original_complet": "phone: +237 6 99 12 34 56",
+   "rendu": "phone: +237 6 99 12 34 56",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(18)>div:nth-of-type(2)>span:nth-of-type(2)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "Paiement",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(18)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "de",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(18)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "services",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(18)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "phone",
+   "original_complet": "phone: +237 6 99 12 34 56",
+   "rendu": "phone: +237 6 99 12 34 56",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(20)>div:nth-of-type(2)>span:nth-of-type(2)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "Paiement",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(20)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "de",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(20)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "services",
+   "original_complet": "reason: Paiement de services",
+   "rendu": "reason: Paiement de services",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(20)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "total",
+   "original_complet": "total: 0",
+   "rendu": "total: 0",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(23)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "total",
+   "original_complet": "total: 0",
+   "rendu": "total: 0",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(25)>div:nth-of-type(2)>span:nth-of-type(3)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "mobile",
+   "original_complet": "operation: mobile_money",
+   "rendu": "operation: mobile_money",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumission-detail",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(3)>div:nth-of-type(25)>div:nth-of-type(2)>span:nth-of-type(4)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "JSON",
+   "original_complet": "Exporter JSON",
+   "rendu": "Lom JSON",
+   "original_capture_avant_traduction": true,
+   "etat": "j-soumissions-vide",
+   "mode": "par-etat",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>div:nth-of-type(2)>button:nth-of-type(1)::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "fr",
+   "original_complet": "fr",
+   "rendu": "fr",
+   "original_capture_avant_traduction": true,
+   "etat": "cj-contenu-injecte",
+   "mode": "continu",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>section:nth-of-type(1)>div:nth-of-type(2)>div>span::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  },
+  {
+   "mot": "fr",
+   "original_complet": "fr",
+   "rendu": "fr",
+   "original_capture_avant_traduction": false,
+   "etat": "cj-erreur-reseau",
+   "mode": "continu",
+   "cadre": {
+    "url": "https://safinum.cm/hackathon-test?jury=1",
+    "nom": "",
+    "haut": true
+   },
+   "selecteur": "html>body>div>div>aside>div>div>section:nth-of-type(1)>div:nth-of-type(2)>div>span::texte(0)",
+   "type": "texte",
+   "portee": "jury",
+   "ambigu_forme_ewondo": false
+  }
+ ],
+ "extension": {
+  "chemin": "extension/",
+  "version": "5.2.1",
+  "fichiers": [
+   {
+    "fichier": "background.js",
+    "sha256": "bebbbdc7946d0a1bfbe733eacb791b92aa4844beb40bd0e571146f5c3bec240f",
+    "taille": 2346,
+    "mtime": "2026-11-12T17:12:14+01:00"
+   },
+   {
+    "fichier": "content.js",
+    "sha256": "6569d9811a8dc0e6a77b33c04680b621096fd212d6827463049ffe298403f0c6",
+    "taille": 19998,
+    "mtime": "2026-11-12T20:40:09+01:00"
+   },
+   {
+    "fichier": "demo.css",
+    "sha256": "52bd27b68cf4691a184647fb3cd9b118bac2474308383c3882e6d550bd2419b5",
+    "taille": 16678,
+    "mtime": "2026-11-12T17:12:14+01:00"
+   },
+   {
+    "fichier": "demo.html",
+    "sha256": "59a6738a4074390a52c3042bf7eedc0f91d3498fe27cd40350481a3efd0e0bc7",
+    "taille": 18576,
+    "mtime": "2026-11-12T17:12:14+01:00"
+   },
+   {
+    "fichier": "demo.js",
+    "sha256": "ceb2ae5d8d0922f75bdd880bd7cfe2941cb8dfb9865b5b04acf10d33b19c28fb",
+    "taille": 14045,
+    "mtime": "2026-11-12T17:12:14+01:00"
+   },
+   {
+    "fichier": "dictionary.js",
+    "sha256": "2da8a5bbf6a9a16c1eb654897da4505c101a2fb071ee274d3038f99fe1b20690",
+    "taille": 27229,
+    "mtime": "2026-11-12T20:40:09+01:00"
+   },
+   {
+    "fichier": "engine.js",
+    "sha256": "d59fb7b99f50b61d0cc9b64115166014e8419c44a7bd5f3643995b52fb670c4c",
+    "taille": 38608,
+    "mtime": "2026-11-12T17:12:14+01:00"
+   },
+   {
+    "fichier": "ewondo_model.js",
+    "sha256": "691875665c32285983f706034e0560cea4d350678cb403d80782b6068b2a0c52",
+    "taille": 366083,
+    "mtime": "2026-11-12T20:40:09+01:00"
+   },
+   {
+    "fichier": "ewondo_model.json",
+    "sha256": "f32b36e37fd703d7717f357c7d44d4ddd6100ee36e772edb317b05092afdf777",
+    "taille": 365858,
+    "mtime": "2026-11-12T20:40:09+01:00"
+   },
+   {
+    "fichier": "icons/icon128.png",
+    "sha256": "0a1ea0d933ebbe1ac349cb09549716199d0fdc55e8fa8da74bab3683b86392fb",
+    "taille": 972,
+    "mtime": "2026-11-12T17:12:14+01:00"
+   },
+   {
+    "fichier": "icons/icon16.png",
+    "sha256": "4461bfc3fa4d04bac963cb34ea86d737ad1587886e3ab6f2c975d7fd04f52c64",
+    "taille": 195,
+    "mtime": "2026-11-12T17:12:14+01:00"
+   },
+   {
+    "fichier": "icons/icon48.png",
+    "sha256": "3b0fb67899ef218844c7b8b658bc4b9dc15413c0e572829fc934fa223b5409fe",
+    "taille": 395,
+    "mtime": "2026-11-12T17:12:14+01:00"
+   },
+   {
+    "fichier": "manifest.json",
+    "sha256": "adb7508e1a626f7bcc56b989ba39437c35790393b71dbd3cad91f73f744ae5ad",
+    "taille": 1346,
+    "mtime": "2026-11-12T20:01:26+01:00"
+   },
+   {
+    "fichier": "popup.html",
+    "sha256": "638bf7bb786080ed75da663bda1a48d50d011f5cd22aedb9b83bfe1986cab562",
+    "taille": 6501,
+    "mtime": "2026-11-12T17:12:14+01:00"
+   },
+   {
+    "fichier": "popup.js",
+    "sha256": "b3a1334f3f833b2d4e4f8ccd868a59b51a5aa232fa5fe29e6aa50c200326ef4d",
+    "taille": 6663,
+    "mtime": "2026-11-12T17:12:14+01:00"
+   }
+  ]
+ },
+ "execution": {
+  "debut": "2026-11-12T20:44:20+01:00",
+  "fin": "2026-11-12T20:47:13+01:00",
+  "fuseau": "Africa/Douala",
+  "page": "https://safinum.cm/hackathon-test",
+  "etats_exerces": [
+   "e1-consulter-les-frais",
+   "e1-tableau-de-bord",
+   "e2-erreur-fermee",
+   "e2-erreur-montant-zero",
+   "e2-erreur-solde-insuffisant",
+   "e2-frais-autre-banque",
+   "e2-frais-autre-banque-sous-minimum",
+   "e2-frais-compte-safinum",
+   "e2-frais-mobile-money",
+   "e2-frais-mobile-money-sous-minimum",
+   "e3-alerte-securite-non-verifie",
+   "e3-beneficiaire",
+   "e3-erreur-beneficiaire-vide",
+   "e4-erreur-confirmation",
+   "e4-modifier-retour",
+   "e4-recapitulatif",
+   "e5-recu",
+   "j-alerte-securite-002",
+   "j-contenu-injecte",
+   "j-erreur-reseau",
+   "j-mode-page-reelle",
+   "j-onglet-couverture",
+   "j-onglet-soumissions",
+   "j-panneau-controle",
+   "j-solde-insuffisant",
+   "j-soumission-detail",
+   "j-soumissions-vide",
+   "c1-tableau-de-bord",
+   "c2-frais-compte-safinum",
+   "c2-frais-mobile-money",
+   "c3-beneficiaire",
+   "c3-alerte-securite-non-verifie",
+   "c4-recapitulatif",
+   "c4-erreur-confirmation",
+   "c5-recu",
+   "cj-panneau-controle",
+   "cj-contenu-injecte",
+   "cj-erreur-reseau",
+   "cd-tableau-de-bord",
+   "cd-frais-compte-safinum",
+   "cd-frais-mobile-money",
+   "cd-frais-mobile-money-sous-minimum",
+   "cd-frais-autre-banque",
+   "cd-frais-autre-banque-sous-minimum",
+   "cd-erreur-montant-zero",
+   "cd-erreur-solde-insuffisant"
+  ],
+  "etats_non_exerces": [
+   {
+    "element": "bouton « EN » (bascule de langue)",
+    "raison": "fait passer la page en anglais : hors du corpus français à traduire."
+   },
+   {
+    "element": "liens « Protocole de test » et « Retour au hackathon »",
+    "raison": "quittent la page de test (autres pages du site) ; leurs libellés sont bien collectés."
+   },
+   {
+    "element": "panneau jury : « Appliquer » (modifier les valeurs canoniques)",
+    "raison": "falsifie volontairement montant/frais/bénéficiaire : contraire à la règle « ne pas changer les montants »."
+   },
+   {
+    "element": "panneau jury : « Exporter JSON », « Réinitialiser le test », « Effacer la base »",
+    "raison": "téléchargement de fichier ou remise à zéro, sans nouveau texte affiché (« Vider » est exercé : état j-soumissions-vide)."
+   },
+   {
+    "element": "panneau jury : soumission « Compromis » avec « Écarts détectés »",
+    "raison": "n'apparaît que si un montant affiché diffère du montant attendu, donc seulement via « Appliquer » (non exercé) ; ces libellés viennent de l'inventaire du code de la page et ne sont pas jugés à l'écran."
+   },
+   {
+    "element": "panneau jury : injection en anglais",
+    "raison": "le texte injecté est libre ; seule une phrase française reprise de la page est injectée (aucun texte inventé)."
+   },
+   {
+    "element": "« Confirmer le transfert »",
+    "raison": "EXERCÉ (état e5-recu) : la page est fictive et purement locale (aucune requête réseau ; garde-réseau actif, voir requetes_bloquees)."
+   }
+  ],
+  "reponses_extension": {
+   "e1-tableau-de-bord": {
+    "status": "translated",
+    "isTranslated": true,
+    "engine": "model",
+    "frame": "top"
+   },
+   "e1-consulter-les-frais": {
+    "status": "translated",
+    "isTranslated": true,
+    "engine": "model",
+    "frame": "top"
+   },
+   "e2-frais-compte-safinum": {
+    "status": "translated",
+    "isTranslated": true,
+    "engine": "model",
+    "frame": "top"
+   },
+   "e2-frais-mobile-money": {
+    "status": "translated",
+    "isTranslated": true,
+    "engine": "model",
+    "frame": "top"
+   },
+   "e2-frais-mobile-money-sous-minimum": {
+    "status": "translated",
+    "isTranslated": true,
+    "engine": "model",
+    "frame": "top"
+   },
+   "e2-frais-autre-banque": {
+    "status": "translated",
+    "isTranslated": true,
+    "engine": "model",
+    "frame": "top"
+   },
+   "e2-frais-autre-banque-sous-minimum": {
+    "status": "translated",
+    "isTranslated": true,
+    "engine": "model",
+    "frame": "top"
+   },
+   "e2-erreur-montant-zero": {
+    "status": "translated",
+    "isTranslated": true,
+    "engine": "model",
+    "frame": "top"
+   },
+   "e2-erreur-solde-insuffisant": {
+    "status": "translated",
+    "isTranslated": true,
+    "engine": "model",
+    "frame": "top"
+   },
+   "e2-erreur-fermee": {
+    "status": "translated",
+    "isTranslated": true,
+    "engine": "model",
+    "frame": "top"
+   },
+   "e3-beneficiaire": {
+    "status": "translated",
+    "isTranslated": true,
+    "engine": "model",
+    "frame": "top"
+   },
+   "e3-erreur-beneficiaire-vide": {
+    "status": "translated",
+    "isTranslated": true,
+    "engine": "model",
+    "frame": "top"
+   },
+   "e3-alerte-securite-non-verifie": {
+    "status": "translated",
+    "isTranslated": true,
+    "engine": "model",
+    "frame": "top"
+   },
+   "e4-recapitulatif": {
+    "status": "translated",
+    "isTranslated": true,
+    "engine": "model",
+    "frame": "top"
+   },
+   "e4-erreur-confirmation": {
+    "status": "translated",
+    "isTranslated": true,
+    "engine": "model",
+    "frame": "top"
+   },
+   "e4-modifier-retour": {
+    "status": "translated",
+    "isTranslated": true,
+    "engine": "model",
+    "frame": "top"
+   },
+   "e5-recu": {
+    "status": "translated",
+    "isTranslated": true,
+    "engine": "model",
+    "frame": "top"
+   },
+   "j-panneau-controle": {
+    "status": "translated",
+    "isTranslated": true,
+    "engine": "model",
+    "frame": "top"
+   },
+   "j-alerte-securite-002": {
+    "status": "translated",
+    "isTranslated": true,
+    "engine": "model",
+    "frame": "top"
+   },
+   "j-erreur-reseau": {
+    "status": "translated",
+    "isTranslated": true,
+    "engine": "model",
+    "frame": "top"
+   },
+   "j-solde-insuffisant": {
+    "status": "translated",
+    "isTranslated": true,
+    "engine": "model",
+    "frame": "top"
+   },
+   "j-contenu-injecte": {
+    "status": "translated",
+    "isTranslated": true,
+    "engine": "model",
+    "frame": "top"
+   },
+   "j-onglet-soumissions": {
+    "status": "translated",
+    "isTranslated": true,
+    "engine": "model",
+    "frame": "top"
+   },
+   "j-soumission-detail": {
+    "status": "translated",
+    "isTranslated": true,
+    "engine": "model",
+    "frame": "top"
+   },
+   "j-soumissions-vide": {
+    "status": "translated",
+    "isTranslated": true,
+    "engine": "model",
+    "frame": "top"
+   },
+   "j-onglet-couverture": {
+    "status": "translated",
+    "isTranslated": true,
+    "engine": "model",
+    "frame": "top"
+   },
+   "j-mode-page-reelle": {
+    "status": "translated",
+    "isTranslated": true,
+    "engine": "model",
+    "frame": "top"
+   },
+   "c1-tableau-de-bord": {
+    "status": "translated",
+    "isTranslated": true,
+    "engine": "model",
+    "frame": "top"
+   },
+   "cj-panneau-controle": {
+    "status": "translated",
+    "isTranslated": true,
+    "engine": "model",
+    "frame": "top"
+   },
+   "cd-tableau-de-bord": {
+    "status": "translated",
+    "isTranslated": true,
+    "engine": "model",
+    "frame": "top"
+   }
+  },
+  "erreurs_js": [],
+  "requetes_bloquees": [],
+  "pid": 2994438
+ }
+}

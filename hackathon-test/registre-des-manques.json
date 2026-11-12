@@ -1,0 +1,1270 @@
+{
+ "genere_le": "2026-11-12 (heure de Douala, UTC+1)",
+ "source_qui_resoudrait": "Tsala 1955, Dictionnaire ewondo-français (sous droits) + validation par un locuteur natif",
+ "manques_lexicaux": [
+  {
+   "fr": "frais",
+   "rendu": "mɔni ya lom",
+   "nature": "calque",
+   "certitude": "à confirmer",
+   "statut": "résolu « à confirmer » (décision d'Emmanuel, 12/11/2026 17:03) — à valider par un locuteur natif",
+   "remarque": "« argent de l'envoi » : mɔni (P p.101) + ya (P p.111) + lom (P p.100). Aucun nom attesté. Faux amis écartés : evovoe (fraîcheur), nlɔman (mission).",
+   "source_qui_resoudrait": "Tsala 1955, Dictionnaire ewondo-français (sous droits) + validation par un locuteur natif"
+  },
+  {
+   "fr": "compte (bancaire)",
+   "rendu": "mɔni a baŋ",
+   "nature": "calque + emprunt (baŋ)",
+   "certitude": "à confirmer",
+   "statut": "résolu « à confirmer » (décision d'Emmanuel, 12/11/2026 17:03) — à valider par un locuteur natif",
+   "remarque": "« argent à la banque » : baŋ = emprunt attesté NT Lc 19,23. Piste écartée : zitɔg (NT Mt 18,23 ; Lc 16,2) = reddition de comptes, pas un compte bancaire, non adoptée.",
+   "source_qui_resoudrait": "Tsala 1955, Dictionnaire ewondo-français (sous droits) + validation par un locuteur natif"
+  },
+  {
+   "fr": "solde",
+   "rendu": "mɔni wan",
+   "nature": "calque",
+   "certitude": "à confirmer",
+   "statut": "résolu « à confirmer » (décision d'Emmanuel, 12/11/2026 17:03) — à valider par un locuteur natif",
+   "remarque": "« votre argent » (P p.101 ; P p.43-44). Rien d'attesté (P p.118 « rester » ≠ solde).",
+   "source_qui_resoudrait": "Tsala 1955, Dictionnaire ewondo-français (sous droits) + validation par un locuteur natif"
+  },
+  {
+   "fr": "courant (compte courant)",
+   "rendu": "mɔni a baŋ",
+   "nature": "calque",
+   "certitude": "à confirmer",
+   "statut": "résolu « à confirmer » (décision d'Emmanuel, 12/11/2026 17:03) — à valider par un locuteur natif",
+   "remarque": "Type de compte non rendu.",
+   "source_qui_resoudrait": "Tsala 1955, Dictionnaire ewondo-français (sous droits) + validation par un locuteur natif"
+  },
+  {
+   "fr": "récapitulatif",
+   "rendu": "mam məsə",
+   "nature": "calque",
+   "certitude": "à confirmer",
+   "statut": "résolu « à confirmer » (décision d'Emmanuel, 12/11/2026 17:03) — à valider par un locuteur natif",
+   "remarque": "« toutes les choses » (NT 1 Th 5,21).",
+   "source_qui_resoudrait": "Tsala 1955, Dictionnaire ewondo-français (sous droits) + validation par un locuteur natif"
+  },
+  {
+   "fr": "protocole",
+   "rendu": "mbol (kiege)",
+   "nature": "calque",
+   "certitude": "à confirmer",
+   "statut": "résolu « à confirmer » (décision d'Emmanuel, 12/11/2026 17:03) — à valider par un locuteur natif",
+   "remarque": "« manière (d'essayer) » (P p.115 ; R p.213).",
+   "source_qui_resoudrait": "Tsala 1955, Dictionnaire ewondo-français (sous droits) + validation par un locuteur natif"
+  },
+  {
+   "fr": "facture",
+   "rendu": "kalara ekola",
+   "nature": "calque (+ emprunt kalara)",
+   "certitude": "à confirmer",
+   "statut": "résolu « à confirmer » (décision d'Emmanuel, 12/11/2026 17:03) — à valider par un locuteur natif",
+   "remarque": "« acte de dette » : NT Col 2,14 « kalara ekola » ; kalara P p.99.",
+   "source_qui_resoudrait": "Tsala 1955, Dictionnaire ewondo-français (sous droits) + validation par un locuteur natif"
+  },
+  {
+   "fr": "électricité",
+   "rendu": "mfie",
+   "nature": "calque",
+   "certitude": "à confirmer",
+   "statut": "résolu « à confirmer » (décision d'Emmanuel, 12/11/2026 17:03) — à valider par un locuteur natif",
+   "remarque": "« lumière, lampe » (R p.184 ; P p.114).",
+   "source_qui_resoudrait": "Tsala 1955, Dictionnaire ewondo-français (sous droits) + validation par un locuteur natif"
+  },
+  {
+   "fr": "en ligne / connexion / réseau",
+   "rendu": "nkoo",
+   "nature": "calque",
+   "certitude": "à confirmer",
+   "statut": "résolu « à confirmer » (décision d'Emmanuel, 12/11/2026 17:03) — à valider par un locuteur natif",
+   "remarque": "« ligne, corde ; téléphone » (R p.234).",
+   "source_qui_resoudrait": "Tsala 1955, Dictionnaire ewondo-français (sous droits) + validation par un locuteur natif"
+  },
+  {
+   "fr": "automatiquement",
+   "rendu": "(non rendu ; piste eben)",
+   "nature": "calque",
+   "certitude": "à confirmer",
+   "statut": "résolu « à confirmer » (décision d'Emmanuel, 12/11/2026 17:03) — à valider par un locuteur natif",
+   "remarque": "La phrase « Les frais sont calculés automatiquement » est rendue « Bayi laŋ mɔni ya lom » (on comptera l'argent de l'envoi) ; la piste eben « de soi-même » (NT Mc 4,28 ; R p.196) est au glossaire, non utilisée.",
+   "source_qui_resoudrait": "Tsala 1955, Dictionnaire ewondo-français (sous droits) + validation par un locuteur natif"
+  },
+  {
+   "fr": "référence",
+   "rendu": "taŋ / taŋ lom",
+   "nature": "calque",
+   "certitude": "à confirmer",
+   "statut": "résolu « à confirmer » (décision d'Emmanuel, 12/11/2026 17:03) — à valider par un locuteur natif",
+   "remarque": "« numéro (de l'envoi) » : taŋ (R p.243 ; P p.115). Piste ndɛm (R p.226) jugée faible.",
+   "source_qui_resoudrait": "Tsala 1955, Dictionnaire ewondo-français (sous droits) + validation par un locuteur natif"
+  },
+  {
+   "fr": "statut",
+   "rendu": "mbol",
+   "nature": "calque",
+   "certitude": "à confirmer",
+   "statut": "résolu « à confirmer » (décision d'Emmanuel, 12/11/2026 17:03) — à valider par un locuteur natif",
+   "remarque": "« manière, état » (P p.115).",
+   "source_qui_resoudrait": "Tsala 1955, Dictionnaire ewondo-français (sous droits) + validation par un locuteur natif"
+  },
+  {
+   "fr": "optionnel",
+   "rendu": "ngë wayi",
+   "nature": "calque",
+   "certitude": "à confirmer",
+   "statut": "résolu « à confirmer » (décision d'Emmanuel, 12/11/2026 17:03) — à valider par un locuteur natif",
+   "remarque": "« si tu veux » : ngë (P p.14) + wayi (P p.23).",
+   "source_qui_resoudrait": "Tsala 1955, Dictionnaire ewondo-français (sous droits) + validation par un locuteur natif"
+  },
+  {
+   "fr": "transactions récentes",
+   "rendu": "mɔni woe etetəg nyɔ ai mvus",
+   "nature": "calque",
+   "certitude": "à confirmer",
+   "statut": "résolu « à confirmer » (décision d'Emmanuel, 12/11/2026 17:03) — à valider par un locuteur natif",
+   "remarque": "Approximation « ton argent maintenant et après » ; pistes écartées : ndɛm « récemment » (R p.226), nkus « commerce » (N 1913), non adoptées.",
+   "source_qui_resoudrait": "Tsala 1955, Dictionnaire ewondo-français (sous droits) + validation par un locuteur natif"
+  },
+  {
+   "fr": "minimum / maximum",
+   "rendu": "abot / anen",
+   "nature": "calque",
+   "certitude": "à confirmer",
+   "statut": "résolu « à confirmer » (décision d'Emmanuel, 12/11/2026 17:03) — à valider par un locuteur natif",
+   "remarque": "« petitesse / grandeur » (P p.38).",
+   "source_qui_resoudrait": "Tsala 1955, Dictionnaire ewondo-français (sous droits) + validation par un locuteur natif"
+  },
+  {
+   "fr": "débiter / débité",
+   "rendu": "yan (mɔni osə ya yan) ; mɔni osə",
+   "nature": "calque",
+   "certitude": "à confirmer",
+   "statut": "résolu « à confirmer » (décision d'Emmanuel, 12/11/2026 17:03) — à valider par un locuteur natif",
+   "remarque": "« payer » (P p.116). Piste écartée : laŋa ekola (NT Phm 1,18), au glossaire.",
+   "source_qui_resoudrait": "Tsala 1955, Dictionnaire ewondo-français (sous droits) + validation par un locuteur natif"
+  },
+  {
+   "fr": "veuillez (politesse)",
+   "rendu": "makogəlan ai wa na …",
+   "nature": "calque (formule NT)",
+   "certitude": "à confirmer",
+   "statut": "résolu « à confirmer » (décision d'Emmanuel, 12/11/2026 17:03) — à valider par un locuteur natif",
+   "remarque": "NT Ac 21,39 « makogëlan ai wa na … » ; P p.117 « prier, kogelan ».",
+   "source_qui_resoudrait": "Tsala 1955, Dictionnaire ewondo-français (sous droits) + validation par un locuteur natif"
+  },
+  {
+   "fr": "fictif / fictives",
+   "rendu": "məsiki bəbəla",
+   "nature": "calque (périphrase)",
+   "certitude": "à confirmer",
+   "statut": "résolu « à confirmer » (décision d'Emmanuel, 12/11/2026 17:03) — à valider par un locuteur natif",
+   "remarque": "« ne sont pas vraies » : P p.19-20 + bəbəla (NT Ap 21,5).",
+   "source_qui_resoudrait": "Tsala 1955, Dictionnaire ewondo-français (sous droits) + validation par un locuteur natif"
+  },
+  {
+   "fr": "jury",
+   "rendu": "bod bə nkat",
+   "nature": "calque",
+   "certitude": "à confirmer",
+   "statut": "résolu « à confirmer » (décision d'Emmanuel, 12/11/2026 17:03) — à valider par un locuteur natif",
+   "remarque": "« les gens du jugement » : bod (NT Lc 19,45) + bə (P p.34) + nkat (P p.103).",
+   "source_qui_resoudrait": "Tsala 1955, Dictionnaire ewondo-français (sous droits) + validation par un locuteur natif"
+  },
+  {
+   "fr": "mois abrégés (nov., oct., …)",
+   "rendu": "ngɔn 11, ngɔn 10, …",
+   "nature": "calque",
+   "certitude": "à confirmer",
+   "statut": "résolu « à confirmer » (décision d'Emmanuel, 12/11/2026 17:03) — à valider par un locuteur natif",
+   "remarque": "« mois 11 » : ngɔn « mois » (P p.115 ; N 1913) + numéro (chiffre protégé). Aucun nom de mois attesté.",
+   "source_qui_resoudrait": "Tsala 1955, Dictionnaire ewondo-français (sous droits) + validation par un locuteur natif"
+  },
+  {
+   "fr": "hackathon (nom commun) ; page, extension, base, canoniques",
+   "rendu": "Hackathon SAFINUM Innovate (nom propre) ; base = mam ma osu ; canoniques = taŋ ; page/extension non rendus ; hook = nlɔb",
+   "nature": "nom propre / calque",
+   "certitude": "à confirmer",
+   "statut": "résolu « à confirmer » (décision d'Emmanuel, 12/11/2026 17:03) — à valider par un locuteur natif",
+   "remarque": "« Retour au hackathon » → « Dugan a Hackathon SAFINUM Innovate » ; hook = nlɔb « hameçon » (P p.113 ; NT Mt 17,27).",
+   "source_qui_resoudrait": "Tsala 1955, Dictionnaire ewondo-français (sous droits) + validation par un locuteur natif"
+  }
+ ],
+ "hors_lexique_bloquants_couverture": "tous corrigés dans engine.js et content.js (16:59) et dans le juge de couverture",
+ "entrees_a_confirmer": [
+  {
+   "fr": "(optionnel)",
+   "ewondo": "(ngë wayi)",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« si tu veux » : ngë « si » + wayi (futur 2e sg., P p.23) ; aucun mot attesté pour « optionnel ».",
+   "a_confirmer": []
+  },
+  {
+   "fr": "alerte de sécurité : ce bénéficiaire n'a jamais été utilisé sur ce compte",
+   "ewondo": "Boan okala : mod ayi bələ mɔni anə mkpamaŋ",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Prenez garde : la personne qui recevra l'argent est nouvelle. »",
+   "a_confirmer": [
+    "jamais utilisé : reformulé en « nouveau »"
+   ]
+  },
+  {
+   "fr": "août",
+   "ewondo": "ngɔn 8",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« mois 8 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": []
+  },
+  {
+   "fr": "aucun contenu injecté",
+   "ewondo": "Foe ziŋ kik",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "Mot à mot : Foe « nouvelle, message » (P p.116) ; ziŋ « quelque, un certain, autre » (NT Jn 16,24) ; kik « ne… pas (après le verbe) » (P p.20).",
+   "a_confirmer": []
+  },
+  {
+   "fr": "aucun écart détecté",
+   "ewondo": "Evus ziŋ kik",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "Mot à mot : Evus « faute, erreur » (P p.112) ; ziŋ « quelque, un certain, autre » (NT Jn 16,24) ; kik « ne… pas (après le verbe) » (P p.20).",
+   "a_confirmer": []
+  },
+  {
+   "fr": "aucune soumission enregistrée",
+   "ewondo": "Lom ziŋ kik",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "Mot à mot : Lom « envoyer » (P p.112) ; ziŋ « quelque, un certain, autre » (NT Jn 16,24) ; kik « ne… pas (après le verbe) » (P p.20).",
+   "a_confirmer": []
+  },
+  {
+   "fr": "autre banque",
+   "ewondo": "Baŋ ziŋ",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Une autre banque » (ziŋ = quelque, un certain).",
+   "a_confirmer": []
+  },
+  {
+   "fr": "avertissement de sécurité : tentative de connexion suspecte détectée sur votre compte",
+   "ewondo": "Boan okala : mod a kiege nyan a mɔni wan a baŋ",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "Chaîne de la démo CamFinance. « Prenez garde : quelqu'un essaie d'entrer dans votre argent à la banque » : boan okala (NT Mt 24,4) ; mod (P p.113) ; a + verbe = présent 3e sg. (P p.12 « a din ») ; kiege « essayer » (R p.213) ; nyan « entrer » (P p.112) ; mɔni wan a baŋ (P p.43-44 ; NT Lc 19,23).",
+   "a_confirmer": [
+    "suspecte, détectée : non rendus mot à mot (calque « quelqu'un essaie d'entrer »)"
+   ]
+  },
+  {
+   "fr": "avr",
+   "ewondo": "ngɔn 4",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« mois 4 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": []
+  },
+  {
+   "fr": "avril",
+   "ewondo": "ngɔn 4",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« mois 4 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": []
+  },
+  {
+   "fr": "balance",
+   "ewondo": "mɔni wan",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "Clé « balance » du journal des soumissions (= solde) : mɔni « argent » (P p.101) + wan « votre » (P p.43-44). Aucun mot attesté pour « solde ».",
+   "a_confirmer": [
+    "solde/balance : calque « votre argent »"
+   ]
+  },
+  {
+   "fr": "banque en ligne",
+   "ewondo": "Baŋ a nkoo",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Banque sur la ligne (téléphone) » ; nkoo = ligne, téléphone (R).",
+   "a_confirmer": [
+    "en ligne (internet) : rendu par nkoo « ligne, téléphone »"
+   ]
+  },
+  {
+   "fr": "capturer la base",
+   "ewondo": "Bi mam ma osu",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "Mot à mot : Bi « prendre » (P p.117) ; mam « choses, affaires (pluriel de dzam) » (NT 1 Th 5,21) ; ma « ces (démonstratif, accord de mam) ; je (pronom) » (NT Lc 19,11) ; osu « avant, devant » (P p.109).",
+   "a_confirmer": [
+    "base"
+   ]
+  },
+  {
+   "fr": "capturez la base sans extension, puis chargez votre extension et rescannez",
+   "ewondo": "Bi mam ma osu, ndò timi, ndò dugan bindi",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Prends ces choses d'abord, puis traduis, puis vérifie de nouveau. »",
+   "a_confirmer": [
+    "extension, base : approximés"
+   ]
+  },
+  {
+   "fr": "ce bénéficiaire n'a jamais été utilisé sur ce compte",
+   "ewondo": "Mod ayi bələ mɔni anə mkpamaŋ",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "Reformulé : « La personne qui recevra l'argent est nouvelle. Vérifiez le numéro avant de continuer. »",
+   "a_confirmer": [
+    "jamais utilisé sur ce compte : reformulé en « nouveau »"
+   ]
+  },
+  {
+   "fr": "ce bénéficiaire n'a jamais été utilisé sur ce compte. vérifiez le numéro avant de continuer",
+   "ewondo": "Mod ayi bələ mɔni anə mkpamaŋ. Bindigan taŋ, osu ya kə osu",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "Reformulé : « La personne qui recevra l'argent est nouvelle. Vérifiez le numéro avant de continuer. »",
+   "a_confirmer": [
+    "jamais utilisé sur ce compte : reformulé en « nouveau »"
+   ]
+  },
+  {
+   "fr": "choisissez le type de transfert et le montant",
+   "ewondo": "Tɔbɔgan akyaɛ lom ai taŋ mɔni",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Choisissez la sorte d'envoi et le nombre d'argent. On comptera l'argent de l'envoi. »",
+   "a_confirmer": [
+    "automatiquement : non rendu"
+   ]
+  },
+  {
+   "fr": "choisissez le type de transfert et le montant. les frais sont calculés automatiquement",
+   "ewondo": "Tɔbɔgan akyaɛ lom ai taŋ mɔni. Bayi laŋ mɔni ya lom",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Choisissez la sorte d'envoi et le nombre d'argent. On comptera l'argent de l'envoi. »",
+   "a_confirmer": [
+    "automatiquement : non rendu"
+   ]
+  },
+  {
+   "fr": "compare les valeurs attendues, affichées et soumises",
+   "ewondo": "Bindi taŋ məsə",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Examine tous les nombres ; s'il y a une faute, on le dira. »",
+   "a_confirmer": []
+  },
+  {
+   "fr": "compare les valeurs attendues, affichées et soumises. un écart est signalé comme compromis",
+   "ewondo": "Bindi taŋ məsə. Ngë evus ziŋ, bayi kad",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Examine tous les nombres ; s'il y a une faute, on le dira. »",
+   "a_confirmer": []
+  },
+  {
+   "fr": "compte courant",
+   "ewondo": "Mɔni a baŋ",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Argent à la banque ».",
+   "a_confirmer": [
+    "courant (type de compte) : non rendu"
+   ]
+  },
+  {
+   "fr": "connexion",
+   "ewondo": "nkoo",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« ligne, téléphone » (R p.234 ; N 1913).",
+   "a_confirmer": []
+  },
+  {
+   "fr": "connexion sécurisée",
+   "ewondo": "Nkoo ai mvɔɛ",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Ligne avec sûreté ».",
+   "a_confirmer": [
+    "connexion (internet) : rendu par nkoo « ligne »"
+   ]
+  },
+  {
+   "fr": "consultation des frais",
+   "ewondo": "Yənə mɔni ya lom",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "Mot à mot : Yənə « vois ! regarde ! (impératif de yen) » (NT Ap 21,5) ; mɔni « argent » (N 1913) ; ya « de (connectif) » (P p.111) ; lom « envoyer » (P p.112).",
+   "a_confirmer": [
+    "frais"
+   ]
+  },
+  {
+   "fr": "consulter",
+   "ewondo": "bebe",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "regarder (P p.118) ; à l'impératif l'NT a « yənə » (Ap 21,5).",
+   "a_confirmer": []
+  },
+  {
+   "fr": "consulter les frais",
+   "ewondo": "Yənə mɔni ya lom",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Regarde l'argent de l'envoi ».",
+   "a_confirmer": [
+    "frais : voir « Frais »"
+   ]
+  },
+  {
+   "fr": "couverture",
+   "ewondo": "Timi",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "timi = traduire (P p.64).",
+   "a_confirmer": [
+    "couverture : rendu par « traduire »"
+   ]
+  },
+  {
+   "fr": "couverture de traduction",
+   "ewondo": "Timi mam məsə",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "Mot à mot : Timi « traduire » (P p.64) ; mam « choses, affaires (pluriel de dzam) » (NT 1 Th 5,21) ; məsə « tous (accord de mam) » (NT 1 Th 5,21).",
+   "a_confirmer": [
+    "couverture"
+   ]
+  },
+  {
+   "fr": "données",
+   "ewondo": "mam",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« choses » (NT 1 Th 5,21).",
+   "a_confirmer": []
+  },
+  {
+   "fr": "déc",
+   "ewondo": "ngɔn 12",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« mois 12 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": []
+  },
+  {
+   "fr": "décembre",
+   "ewondo": "ngɔn 12",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« mois 12 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": []
+  },
+  {
+   "fr": "délai",
+   "ewondo": "abog",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« temps, moment » (NT 1 Th 5,16 ; P p.119).",
+   "a_confirmer": []
+  },
+  {
+   "fr": "délai de remboursement : 8 jours",
+   "ewondo": "Abog dugan mɔni : 8 amos",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "Chaîne de la démo CamFinance (tests/audit.py). « Temps de rendre l'argent : 8 jours » : abog « temps » (NT 1 Th 5,16) + dugan « rendre » (P p.118) + mɔni (P p.101) ; amos « jour » (R p.193 ; NT Lc 19,47). Le chiffre 8 est recopié tel quel.",
+   "a_confirmer": [
+    "délai : calque abog « temps »",
+    "remboursement : calque dugan mɔni « rendre l'argent »"
+   ]
+  },
+  {
+   "fr": "effacer la base",
+   "ewondo": "Fadi mam ma osu",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "Mot à mot : Fadi « enlever » (P p.112) ; mam « choses, affaires (pluriel de dzam) » (NT 1 Th 5,21) ; ma « ces (démonstratif, accord de mam) ; je (pronom) » (NT Lc 19,11) ; osu « avant, devant » (P p.109).",
+   "a_confirmer": [
+    "base"
+   ]
+  },
+  {
+   "fr": "en toute sécurité",
+   "ewondo": "ai mvɔɛ",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« avec paix, sûreté » : ai (P p.112) + mvɔɛ (P p.116 « paix »).",
+   "a_confirmer": []
+  },
+  {
+   "fr": "environnement",
+   "ewondo": "hom",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« endroit » (P p.112).",
+   "a_confirmer": []
+  },
+  {
+   "fr": "environnement de test — données fictives, aucune transaction réelle",
+   "ewondo": "Hom kiege — mam məsiki bəbəla, bayi ki lom mɔni",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "Littéralement : « Lieu d'essai — les choses ne sont pas vraies, on n'enverra pas d'argent. »",
+   "a_confirmer": []
+  },
+  {
+   "fr": "erreur réseau : le service est temporairement indisponible",
+   "ewondo": "Evus nkoo : esye esiki etetəg nyɔ",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Faute de ligne : le service n'est pas là maintenant. Essaie de nouveau. » (dugan + verbe = refaire, NT Jn 20,21).",
+   "a_confirmer": [
+    "réseau : rendu par nkoo « ligne »"
+   ]
+  },
+  {
+   "fr": "erreur réseau : le service est temporairement indisponible. réessayez",
+   "ewondo": "Evus nkoo : esye esiki etetəg nyɔ. Dugan kiege",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Faute de ligne : le service n'est pas là maintenant. Essaie de nouveau. » (dugan + verbe = refaire, NT Jn 20,21).",
+   "a_confirmer": [
+    "réseau : rendu par nkoo « ligne »"
+   ]
+  },
+  {
+   "fr": "ex. un message important pour les clients",
+   "ewondo": "Foe mfaŋ asu bod…",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Message important pour les gens… » (« ex. » omis).",
+   "a_confirmer": [
+    "ex. (par exemple) : omis"
+   ]
+  },
+  {
+   "fr": "facture",
+   "ewondo": "ekola",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« dette » (P ; NT Mt 18,28) — pas de mot attesté pour « facture ».",
+   "a_confirmer": []
+  },
+  {
+   "fr": "facture électricité",
+   "ewondo": "Kalara ekola mfie",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Acte de dette de la lumière » : kalara ekola (NT Col 2,14) + mfie « lumière » (R p.184 ; P p.114).",
+   "a_confirmer": [
+    "électricité : rendu par mfie « lumière, lampe »"
+   ]
+  },
+  {
+   "fr": "frais",
+   "ewondo": "Mɔni ya lom",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Argent de l'envoi » : aucun mot attesté pour « frais/commission ».",
+   "a_confirmer": [
+    "frais / commission : aucun mot attesté"
+   ]
+  },
+  {
+   "fr": "frais de",
+   "ewondo": "Mɔni ya lom",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« argent de l'envoi » : mɔni (P p.101) + ya (P p.111) + lom (P p.100) ; aucun mot attesté pour « frais » (faux ami evovoe = fraîcheur, écarté).",
+   "a_confirmer": []
+  },
+  {
+   "fr": "frais de 1,5 % (min. 100 fcfa, max. 2 500 fcfa",
+   "ewondo": "Mɔni ya lom 1,5 % (abot 100 FCFA, anen 2 500 FCFA",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "min./max. rendus par abot « petitesse » / anen « grandeur » (P p.38). Chiffres intacts.",
+   "a_confirmer": [
+    "minimum / maximum : rendus par petitesse / grandeur"
+   ]
+  },
+  {
+   "fr": "frais de 1,5 % (min. 100 fcfa, max. 2 500 fcfa)",
+   "ewondo": "Mɔni ya lom 1,5 % (abot 100 FCFA, anen 2 500 FCFA)",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "min./max. rendus par abot « petitesse » / anen « grandeur » (P p.38). Chiffres intacts.",
+   "a_confirmer": [
+    "minimum / maximum : rendus par petitesse / grandeur"
+   ]
+  },
+  {
+   "fr": "frais de 2 % (min. 200 fcfa, max. 5 000 fcfa",
+   "ewondo": "Mɔni ya lom 2 % (abot 200 FCFA, anen 5 000 FCFA",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "Idem.",
+   "a_confirmer": [
+    "minimum / maximum"
+   ]
+  },
+  {
+   "fr": "frais de 2 % (min. 200 fcfa, max. 5 000 fcfa)",
+   "ewondo": "Mɔni ya lom 2 % (abot 200 FCFA, anen 5 000 FCFA)",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "Idem.",
+   "a_confirmer": [
+    "minimum / maximum"
+   ]
+  },
+  {
+   "fr": "frais de transfert",
+   "ewondo": "Mɔni ya lom",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "Voir « Frais ».",
+   "a_confirmer": [
+    "frais : aucun mot attesté"
+   ]
+  },
+  {
+   "fr": "févr",
+   "ewondo": "ngɔn 2",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« mois 2 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": []
+  },
+  {
+   "fr": "février",
+   "ewondo": "ngɔn 2",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« mois 2 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": []
+  },
+  {
+   "fr": "janv",
+   "ewondo": "ngɔn 1",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« mois 1 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": []
+  },
+  {
+   "fr": "janvier",
+   "ewondo": "ngɔn 1",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« mois 1 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": []
+  },
+  {
+   "fr": "je confirme que les informations ci-dessus sont correctes",
+   "ewondo": "Makad na mam ma a yob mənə bəbəla",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Je dis que les choses en haut sont vraies » (NT Lc 19,26 « Makad mina na… »).",
+   "a_confirmer": []
+  },
+  {
+   "fr": "juil",
+   "ewondo": "ngɔn 7",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« mois 7 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": []
+  },
+  {
+   "fr": "juillet",
+   "ewondo": "ngɔn 7",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« mois 7 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": []
+  },
+  {
+   "fr": "juin",
+   "ewondo": "ngɔn 6",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« mois 6 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": []
+  },
+  {
+   "fr": "jury",
+   "ewondo": "Bod bə nkat",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« les gens du jugement » : bod (NT Lc 19,45) + bə connectif (P p.34) + nkat « jugement » (P p.103). Aucun mot attesté pour « jury ».",
+   "a_confirmer": []
+  },
+  {
+   "fr": "l'extension doit le traduire sans hook dédié",
+   "ewondo": "Bayi timi foe te tə ai nlɔb",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Message écrit après ; on traduira ce message sans hameçon. » Sans hook = tə ai nlɔb (P p.118 « sans, të ai » ; P p.113 « hameçon, nlòb »).",
+   "a_confirmer": [
+    "page, chargement, extension : termes techniques non attestés, approximés"
+   ]
+  },
+  {
+   "fr": "lancer",
+   "ewondo": "tari",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "au sens « commencer » (P p.111 ; NT Lc 19,45 « atari »).",
+   "a_confirmer": []
+  },
+  {
+   "fr": "le montant doit être supérieur à zéro",
+   "ewondo": "Mɔni ya lom odaŋ 0",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Le nombre d'argent doit dépasser 0 » (daŋ = dépasser, R).",
+   "a_confirmer": [
+    "devoir (obligation) : non rendu"
+   ]
+  },
+  {
+   "fr": "les frais sont calculés automatiquement",
+   "ewondo": "Bayi laŋ mɔni ya lom",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Choisissez la sorte d'envoi et le nombre d'argent. On comptera l'argent de l'envoi. »",
+   "a_confirmer": [
+    "automatiquement : non rendu"
+   ]
+  },
+  {
+   "fr": "mai",
+   "ewondo": "ngɔn 5",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« mois 5 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": []
+  },
+  {
+   "fr": "mars",
+   "ewondo": "ngɔn 3",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« mois 3 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": []
+  },
+  {
+   "fr": "max",
+   "ewondo": "anen",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« grandeur » (P p.38).",
+   "a_confirmer": []
+  },
+  {
+   "fr": "min",
+   "ewondo": "abot",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« petitesse » (P p.38).",
+   "a_confirmer": []
+  },
+  {
+   "fr": "mode page réelle",
+   "ewondo": "Mbol bəbəla",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Manière vraie ».",
+   "a_confirmer": [
+    "page : non rendu"
+   ]
+  },
+  {
+   "fr": "modifier les valeurs canoniques",
+   "ewondo": "Tsɛndɛ taŋ",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Changer les nombres ».",
+   "a_confirmer": [
+    "canoniques : non rendu"
+   ]
+  },
+  {
+   "fr": "ne saisissez aucune donnée personnelle réelle",
+   "ewondo": "Tə miatil dzom ziŋ ya bəbəla ya wamen",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Lieu pour montrer. N'écrivez aucune chose vraie de vous-même. »",
+   "a_confirmer": []
+  },
+  {
+   "fr": "note",
+   "ewondo": "Foe",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« nouvelle, message » : foe (P p.116 ; R p.204).",
+   "a_confirmer": []
+  },
+  {
+   "fr": "note (optionnel",
+   "ewondo": "Foe (ngë wayi",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Message (si tu veux) ».",
+   "a_confirmer": [
+    "optionnel : rendu par « si tu veux »"
+   ]
+  },
+  {
+   "fr": "note (optionnel)",
+   "ewondo": "Foe (ngë wayi)",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Message (si tu veux) ».",
+   "a_confirmer": [
+    "optionnel : rendu par « si tu veux »"
+   ]
+  },
+  {
+   "fr": "nov",
+   "ewondo": "ngɔn 11",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« mois 11 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": []
+  },
+  {
+   "fr": "novembre",
+   "ewondo": "ngɔn 11",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« mois 11 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": []
+  },
+  {
+   "fr": "numéro de compte",
+   "ewondo": "Taŋ baŋ",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Numéro de banque ».",
+   "a_confirmer": [
+    "compte : voir « Votre compte »"
+   ]
+  },
+  {
+   "fr": "oct",
+   "ewondo": "ngɔn 10",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« mois 10 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": []
+  },
+  {
+   "fr": "octobre",
+   "ewondo": "ngɔn 10",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« mois 10 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": []
+  },
+  {
+   "fr": "optionnel",
+   "ewondo": "ngë wayi",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« si tu veux » : ngë « si » + wayi (futur 2e sg., P p.23) — pas de mot attesté pour « optionnel ».",
+   "a_confirmer": []
+  },
+  {
+   "fr": "outil interne safinum — non fourni aux équipes",
+   "ewondo": "Esye Safinum — bayi ki və bod",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Travail de Safinum — on ne le donnera pas aux gens. »",
+   "a_confirmer": [
+    "outil interne / équipes : approximés"
+   ]
+  },
+  {
+   "fr": "panneau jury",
+   "ewondo": "Esye bod bə nkat",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Travail des gens du jugement » : esye (NT Ac 20,24) ; jury = bod bə nkat (voir « Jury »).",
+   "a_confirmer": [
+    "jury : aucun terme attesté"
+   ]
+  },
+  {
+   "fr": "protocole",
+   "ewondo": "mbol",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« manière » (P p.115).",
+   "a_confirmer": []
+  },
+  {
+   "fr": "protocole de test",
+   "ewondo": "Mbol kiege",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Manière d'essayer ».",
+   "a_confirmer": [
+    "protocole (pas de terme attesté ; rendu par mbol « manière »)"
+   ]
+  },
+  {
+   "fr": "remboursement",
+   "ewondo": "dugan mɔni",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« rendre l'argent » : dugan « rendre » (P lexique éwondo-français, pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:4892 « dugan, 1) rendre, revenir » ; NT Mt 18,28 « Dugan ma ekola dzama »).",
+   "a_confirmer": []
+  },
+  {
+   "fr": "retour au hackathon",
+   "ewondo": "Dugan a Hackathon SAFINUM Innovate",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Retourne au Hackathon SAFINUM Innovate » : le lien mène à la page de l'événement ; « hackathon » n'est gardé que dans le nom propre de l'événement (règle du projet). dugan « revenir » (P lexique ia-ocr.txt:4892) + a « à, dans » (P p.111).",
+   "a_confirmer": [
+    "hackathon (nom commun) : aucun terme attesté ; rendu par le nom propre de l'événement"
+   ]
+  },
+  {
+   "fr": "reçu de express union",
+   "ewondo": "bələ ya Express Union",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "Fragment de « Dépôt de 20 000 FCFA reçu de Express Union. » (le montant coupe la phrase). bələ « recevoir » (P p.118) + ya « de » (P p.111) ; Express Union = marque (nom propre, non traduit).",
+   "a_confirmer": []
+  },
+  {
+   "fr": "récapitulatif",
+   "ewondo": "Mam məsə",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Toutes les choses » (NT 1 Th 5,21 « mam mësë »).",
+   "a_confirmer": [
+    "récapitulatif (pas de terme attesté)"
+   ]
+  },
+  {
+   "fr": "réessayez",
+   "ewondo": "Dugan kiege",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Faute de ligne : le service n'est pas là maintenant. Essaie de nouveau. » (dugan + verbe = refaire, NT Jn 20,21).",
+   "a_confirmer": [
+    "réseau : rendu par nkoo « ligne »"
+   ]
+  },
+  {
+   "fr": "réf",
+   "ewondo": "Taŋ",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "Abréviation « Réf. » : taŋ « numéro » (R p.243 ; P p.115).",
+   "a_confirmer": [
+    "référence : calque taŋ « numéro »"
+   ]
+  },
+  {
+   "fr": "référence",
+   "ewondo": "Taŋ lom",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Numéro de l'envoi ».",
+   "a_confirmer": [
+    "référence : rendu par « numéro »"
+   ]
+  },
+  {
+   "fr": "safinum pay — environnement de démonstration",
+   "ewondo": "Safinum Pay — hom ledə",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Lieu pour montrer. N'écrivez aucune chose vraie de vous-même. »",
+   "a_confirmer": []
+  },
+  {
+   "fr": "safinum pay — environnement de démonstration. ne saisissez aucune donnée personnelle réelle",
+   "ewondo": "Safinum Pay — hom ledə. Tə miatil dzom ziŋ ya bəbəla ya wamen",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Lieu pour montrer. N'écrivez aucune chose vraie de vous-même. »",
+   "a_confirmer": []
+  },
+  {
+   "fr": "sept",
+   "ewondo": "ngɔn 9",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« mois 9 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": []
+  },
+  {
+   "fr": "septembre",
+   "ewondo": "ngɔn 9",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« mois 9 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": []
+  },
+  {
+   "fr": "solde",
+   "ewondo": "Mɔni wan",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Votre argent ».",
+   "a_confirmer": [
+    "solde (pas de terme comptable attesté)"
+   ]
+  },
+  {
+   "fr": "solde disponible",
+   "ewondo": "Mɔni wan etetəg nyɔ",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Votre argent maintenant ».",
+   "a_confirmer": [
+    "disponible : rendu par « maintenant »"
+   ]
+  },
+  {
+   "fr": "solde insuffisant",
+   "ewondo": "Mɔni wan osiki abui",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "Mot à mot : Mɔni « argent » (N 1913) ; wan « votre, notre (possessif, 1re/2e/6e classe sg.) » (P p.43-44) ; osiki « n'est pas (accord classe 3 o-, sujet mɔni) » (P p.19) ; abui « beaucoup » (P p.109).",
+   "a_confirmer": []
+  },
+  {
+   "fr": "solde insuffisant pour effectuer ce transfert",
+   "ewondo": "Mɔni wan osiki abui asu lom",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Votre argent n'est pas beaucoup pour envoyer. »",
+   "a_confirmer": []
+  },
+  {
+   "fr": "statut",
+   "ewondo": "Mbol",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Manière, état ».",
+   "a_confirmer": [
+    "statut : rendu par mbol « manière »"
+   ]
+  },
+  {
+   "fr": "sécurisé",
+   "ewondo": "ai mvɔɛ",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« avec paix/sûreté » (P p.116 mvɔɛ ; ai P p.112).",
+   "a_confirmer": []
+  },
+  {
+   "fr": "sécurisée",
+   "ewondo": "ai mvɔɛ",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« avec paix, sûreté » : ai (P p.112) + mvɔɛ (P p.116 « paix »).",
+   "a_confirmer": []
+  },
+  {
+   "fr": "tentative",
+   "ewondo": "kiege",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« essai » (R p.213).",
+   "a_confirmer": []
+  },
+  {
+   "fr": "test",
+   "ewondo": "kiege",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« essayer, éprouver » (R p.213 ; N 1911).",
+   "a_confirmer": []
+  },
+  {
+   "fr": "texte affiché dans la page après chargement",
+   "ewondo": "Foe ntilan a mvus",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Message écrit après ; on traduira ce message sans hameçon. » Sans hook = tə ai nlɔb (P p.118 « sans, të ai » ; P p.113 « hameçon, nlòb »).",
+   "a_confirmer": [
+    "page, chargement, extension : termes techniques non attestés, approximés"
+   ]
+  },
+  {
+   "fr": "texte affiché dans la page après chargement. l'extension doit le traduire sans hook dédié",
+   "ewondo": "Foe ntilan a mvus. Bayi timi foe te tə ai nlɔb",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Message écrit après ; on traduira ce message sans hameçon. » Sans hook = tə ai nlɔb (P p.118 « sans, të ai » ; P p.113 « hameçon, nlòb »).",
+   "a_confirmer": [
+    "page, chargement, extension : termes techniques non attestés, approximés"
+   ]
+  },
+  {
+   "fr": "textes suivis",
+   "ewondo": "Foe bayi bindi",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "Mot à mot : Foe « nouvelle, message » (P p.116) ; bayi « on (ils) va/vont… (futur, 3e pl.) » (NT Lc 19,26) ; bindi « examiner, vérifier » (NT 1 Th 5,21).",
+   "a_confirmer": []
+  },
+  {
+   "fr": "total",
+   "ewondo": "mɔni osə",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "Clé « total » du journal des soumissions : mɔni « argent » (P p.101) + osə « tout » (NT Lc 19,47 « amos osë »). Aucun mot attesté pour « total ».",
+   "a_confirmer": [
+    "total : calque « tout l'argent »"
+   ]
+  },
+  {
+   "fr": "total débité",
+   "ewondo": "Mɔni osə",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Tout l'argent ».",
+   "a_confirmer": [
+    "débité : non rendu"
+   ]
+  },
+  {
+   "fr": "total à débiter",
+   "ewondo": "Mɔni osə ya yan",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Tout l'argent à payer ».",
+   "a_confirmer": [
+    "débiter : rendu par yan « payer »"
+   ]
+  },
+  {
+   "fr": "transactions récentes",
+   "ewondo": "Mɔni woe etetəg nyɔ ai mvus",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "Approximation : « ton argent maintenant et après » — à revoir.",
+   "a_confirmer": [
+    "transactions récentes : aucun terme attesté"
+   ]
+  },
+  {
+   "fr": "un écart est signalé comme compromis",
+   "ewondo": "Ngë evus ziŋ, bayi kad",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Examine tous les nombres ; s'il y a une faute, on le dira. »",
+   "a_confirmer": []
+  },
+  {
+   "fr": "veuillez renseigner le nom et le numéro du bénéficiaire",
+   "ewondo": "Makogəlan ai wa na otilig dzoe ai taŋ mod ayi bələ mɔni",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Je te prie d'écrire le nom et le numéro… » : formule NT Ac 21,39 « makogëlan ai wa na … » + subjonctif (P p.62).",
+   "a_confirmer": []
+  },
+  {
+   "fr": "votre compte",
+   "ewondo": "Mɔni wan a baŋ",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Votre argent à la banque ».",
+   "a_confirmer": [
+    "compte : aucun mot attesté (mfɛ non attesté)"
+   ]
+  },
+  {
+   "fr": "votre transfert a été envoyé avec succès",
+   "ewondo": "Lom mɔni wan aman ya",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« Votre argent est achevé d'être envoyé. »",
+   "a_confirmer": []
+  },
+  {
+   "fr": "vous devez confirmer les informations avant de valider le transfert",
+   "ewondo": "Bindigan mam məsə osu ya lom mɔni",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "Même sens que l'invite du récapitulatif.",
+   "a_confirmer": [
+    "devoir : non rendu"
+   ]
+  },
+  {
+   "fr": "vérifier l'étape maintenant",
+   "ewondo": "Bindi etetəg nyɔ",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "Mot à mot : Bindi « examiner, vérifier » (NT 1 Th 5,21) ; etetəg « maintenant (avec nyɔ) » (P p.114) ; nyɔ « ce…-ci (dans etetəg nyɔ) » (P p.114).",
+   "a_confirmer": [
+    "étape : non rendu"
+   ]
+  },
+  {
+   "fr": "vérifiez le numéro avant de continuer",
+   "ewondo": "Bindigan taŋ, osu ya kə osu",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "Reformulé : « La personne qui recevra l'argent est nouvelle. Vérifiez le numéro avant de continuer. »",
+   "a_confirmer": [
+    "jamais utilisé sur ce compte : reformulé en « nouveau »"
+   ]
+  },
+  {
+   "fr": "· réf",
+   "ewondo": "· Taŋ",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "Abréviation « Réf. » (référence) dans « TXN-… · Réf. TXN-… » : taŋ « numéro » (R p.243 ; P p.115).",
+   "a_confirmer": [
+    "référence : calque taŋ « numéro »"
+   ]
+  },
+  {
+   "fr": "électricité",
+   "ewondo": "mfie",
+   "certitude": "à confirmer",
+   "statut": "résolu à confirmer (décision d'Emmanuel, 12/11/2026 17:03)",
+   "remarque": "« lumière, lampe » (R p.184 ; P p.114) — pas de mot attesté pour l'électricité.",
+   "a_confirmer": []
+  }
+ ],
+ "pistes_non_retenues_ou_retenues": {
+  "passé composé": "RETENU : P p.60 mə-nga- → « Məngabindi … » (j'ai vérifié)",
+  "veuillez": "RETENU : makogəlan ai wa na (NT Ac 21,39)",
+  "facture": "RETENU : kalara ekola (NT Col 2,14)",
+  "débiter": "glossaire : laŋa ekola (NT Phm 1,18), non utilisé dans les chaînes",
+  "automatiquement": "glossaire : eben (NT Mc 4,28), non utilisé",
+  "hook": "RETENU : nlɔb (P p.113)",
+  "compte": "zitɔg non retenu (sens « rendre des comptes »)",
+  "bonjour": "Ovuma (NT Lc 1,28) ; mbolo écarté"
+ },
+ "corrections_audit": "tan→taŋ, lan→laŋ, dan/odan→daŋ/odaŋ (OCR Redden), tɔ = R p.245, Succès et Alerte de sécurité en calque, certitude ajoutée au glossaire, doublons mbol/ma/kom fusionnés."
+}

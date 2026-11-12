@@ -3,9 +3,7 @@
 Extension Chrome de traduction français → éwondo, pour les services financiers numériques. Version 5.2.1, présentée par l’équipe Numerid au SAFINUM Innovate Challenge 2026.
 
 Fichier de l’extension : `release/safinum-ewondo-extension-v5.2.1.zip`  
-SHA-256 : `8cfd39fb3bfdd8f70ddfc773bb09051d2bb4ba98b7b6f12e4d225cc9fc1461de`
-
-La version 5.2.0 reste disponible, inchangée : `release/safinum-ewondo-extension-v5.2.zip`, SHA-256 `924acd0c9912ea2ad98cf6328a1213ee95ab2c27e40ab4cd5d1f5348bc08ffb6`.
+SHA-256 : `e2e99cf8ee79e3acad6cd7fa4479543704decb1ab021ca05829a32c26d83e14e`
 
 Page de test : [https://safinum.cm/hackathon-test](https://safinum.cm/hackathon-test)
 
@@ -35,25 +33,25 @@ L’extension n’est pas sur le Chrome Web Store. Il faut la charger en mode d�
 3. Activer le mode développeur, en haut à droite.
 4. Cliquer sur « Charger l’extension non empaquetée » et choisir le dossier qui contient directement `manifest.json`.
 5. Pour traduire aussi des fichiers locaux (`file://`), ouvrir les détails de l’extension et activer « Autoriser l’accès aux URL de fichier ».
-6. Recharger les onglets déjà ouverts (F5). Ce n’est plus obligatoire, l’extension peut réinjecter ses scripts, mais un rechargement est plus propre.
+6. Recharger les onglets déjà ouverts (F5).
 
 L’icône SAFINUM Éwondo apparaît ensuite dans la barre d’outils.
 
 ## 3. Utilisation
 
-Un clic sur l’icône ouvre le popup. Le bouton « Traduire cette page en Éwondo » lance la traduction de l’onglet actif. Le même bouton permet ensuite de revenir au texte original. On peut aussi cocher « Traduction automatique » pour que chaque nouvelle page soit traduite à l’ouverture.
+Un clic sur l’icône ouvre la fenêtre de l’extension. Le bouton « Traduire cette page en Éwondo » lance la traduction de l’onglet actif. Le même bouton permet ensuite de revenir au texte original. On peut aussi cocher « Traduction automatique » pour que chaque nouvelle page soit traduite à l’ouverture.
 
 Un clic droit sur la page propose les mêmes commandes : « Traduire cette page en Éwondo » et « Restaurer le texte original ».
 
-L’extension travaille sur n’importe quelle page, y compris dans les cadres, et sur le contenu qui arrive plus tard (étape suivante d’un parcours, message d’erreur, liste mise à jour, changement de mode de paiement). Une fois la traduction lancée, ce qui s’ajoute est traduit aussi. C’est précisément ce que la 5.2.1 corrige : en 5.2.0, la ligne « Frais de 1,5 % (min. 100 FCFA, max. 2 500 FCFA) » pouvait rester en français juste après le passage à Mobile Money, alors que le reste de l’écran était déjà en éwondo. Le lexique la connaissait déjà (mɔni ya lom, abot, anen, montants inchangés). Le trou venait de l’observateur, pas du dictionnaire.
+L’extension travaille sur n’importe quelle page, y compris dans les cadres, et sur le contenu qui arrive plus tard (étape suivante d’un parcours, message d’erreur, liste mise à jour, changement de mode de paiement). Une fois la traduction lancée, ce qui s’ajoute est traduit aussi. La version 5.2.1 corrige un cas où la ligne des frais restait en français après un changement de mode de paiement. Le terme figurait déjà dans le lexique ; le défaut venait de la détection des changements de la page.
 
-Nous ne touchons jamais aux montants, dates, références, numéros, codes et pourcentages, ni à ce que l’utilisateur a saisi dans un champ, ni au code, ni aux zones `contenteditable`, ni à ce qui porte `translate="no"` ou `.notranslate`. Les noms propres et les marques (Amina, Safinum Pay, MTN) restent en place. Le placeholder d’un champ, lui, peut être traduit.
+Nous ne touchons jamais aux montants, dates, références, numéros, codes et pourcentages, ni à ce que l’utilisateur a saisi dans un champ, ni au code, ni aux zones `contenteditable`, ni à ce qui porte `translate="no"` ou `.notranslate`. Les noms propres et les marques (Amina, Safinum Pay, MTN) restent en place. Le texte indicatif d’un champ, lui, peut être traduit.
 
 La page de référence du hackathon, https://safinum.cm/hackathon-test, enchaîne cinq étapes : solde, frais, bénéficiaire, récapitulatif, confirmation. C’est ce parcours que montre la vidéo principale, d’abord en français, puis en éwondo, avec les mêmes montants.
 
-La vidéo bonus reprend cette page, puis un article de Wikipédia, pour montrer ce qui se passe ailleurs. Le lexique est surtout financier : sur une page générale, seuls les mots que nous connaissons changent.
+La vidéo bonus reprend cette page, puis un article de Wikipédia, pour montrer ce qui se passe ailleurs. Sur une page générale, seuls les termes présents dans le lexique sont traduits.
 
-Une démo CamFinance est aussi embarquée dans l’extension (bouton du popup). Ses règles de frais ne sont pas celles de la page de test, et la traduction ne les modifie pas non plus.
+Une démo CamFinance est aussi embarquée dans l’extension (bouton de la fenêtre de l’extension). Ses règles de frais ne sont pas celles de la page de test, et la traduction ne les modifie pas non plus.
 
 ## 4. Architecture
 
@@ -71,7 +69,7 @@ Malgré son nom, `ewondo_model.json` n’est pas le produit d’un entraînement
 
 Attesté : le mot se trouve dans une source consultée, avec ce sens. Calque : les mots sont attestés, mais le sens ou l’assemblage est élargi. À confirmer : nous n’avons pas trouvé de terme satisfaisant dans les sources obtenues, et nous avons retenu un calque ou un emprunt en attendant un locuteur natif.
 
-Le lexique livré reprend celui de la v5.1, corrigé sur les sources ci-dessous, et 192 entrées ajoutées ou réécrites pour la page de test (`lexique-v52.json` : 21 attestées, 63 calques, 108 « à confirmer »). L’extension embarque 499 expressions exactes et 265 mots. 118 clés y sont marquées « à confirmer » : à la fusion, nous avons ajouté des fragments de phrase (pour attraper un morceau affiché tel quel) et nous avons laissé l’étiquette v5.1 sur quatre entrées déjà présentes. Le détail de l’écart 108 / 118 est dans `docs/RAPPORT-COUVERTURE-v5.2.md`.
+Le lexique compte 500 expressions et 265 mots. 118 entrées sont marquées « à confirmer » ; les 21 termes de base correspondants sont listés au § 8. Détail dans le rapport de couverture.
 
 Nous n’avons utilisé que des copies libres ou ouvertement diffusées, plus quelques versets du Nouveau Testament éwondo lus en ligne (œuvre sous droits, non téléchargée). Les numéros de page sont ceux imprimés dans l’ouvrage.
 
@@ -91,44 +89,47 @@ Hartell, R. (éd.), *Alphabets of Africa*, fiche éwondo, 1993 (Rosetta Project)
 
 Alliance biblique du Cameroun, *Mkpamaŋ Amvoe* (Nouveau Testament éwondo, NTE12, 2012). Nous l’avons consulté en ligne seulement (bible.com, version 1854), sans télécharger le texte intégral. Il montre l’usage moderne : *Ovuma* « salut » (Lc 1,28 ; aussi Mt 26,49 et Mt 28,9), *mòni* (Ac 8,20 ; Lc 19,23), *ngaŋ* (Rm 1,8), la défense *Të mia-…* (Mt 7,6), *Boan okala* « prenez garde » (Mt 6,1 ; Mt 24,4), la place de *tɔ eyɔŋ* en fin de proposition (Jn 6,35, 10,28, 13,8), *kalara ekola* (Col 2,14), *baŋ* « banque » (Lc 19,23), *makogëlan ai wa na…* (Ac 21,39).
 
-Nous n’avons pas pu consulter Tsala, Théodore, *Dictionnaire ewondo-français*, 1955. L’œuvre est encore protégée (Tsala est mort en 1979). Nous ne l’avons trouvée que sur Calaméo ou Scribd, mise en ligne par une bibliothèque privée, et nous ne l’avons ni téléchargée ni relue pour la v5.2. Des versions antérieures de l’extension le citaient ; nous n’avons pas pu revérifier ces citations dans l’ouvrage. C’est pourtant le dictionnaire qui nous aiderait le plus à trancher les termes encore « à confirmer », avec l’avis d’un locuteur natif.
+Le *Dictionnaire ewondo-français* de Tsala (1955), encore protégé, n’a pas été consulté ; il serait la référence principale pour trancher les termes à confirmer.
 
-Nous n’avons pas non plus obtenu, sous une forme libre, les dictionnaires ou grammaires d’Essono, Abega, Angenot, ni les ressources SIL en ligne, le lexique Gallica, Webonary, PanLex ou Glosbe. Nous ne les avons donc pas utilisés.
+## Matériel de traduction
+
+Le lexique et ses sources sont publiés dans `lexique/`. Chaque entrée cite l’ouvrage et la page dont elle est tirée. Les ouvrages eux-mêmes ne sont pas inclus, pour des raisons de droits.
 
 ## 6. Résultats des tests (v5.2.1)
 
-Les mesures de la 5.2.1 datent du 12 novembre 2026, de 20:03:33 à 20:06:18, heure de Douala (UTC+1), sur le ZIP 5.2.1 dézippé. Nous avons relu les chiffres dans `resultat-couverture-final-v5.2.1.json`. La liste blanche n’a pas été élargie.
+Mesures du 12 novembre 2026 sur le paquet 5.2.1 ; résultats détaillés dans `hackathon-test/resultat-couverture-final-v5.2.1.json`. La liste d’exceptions n’a pas été élargie.
 
 | Test | Résultat |
 |---|---|
-| Couverture de la page de test | 100,0 % (1 425 / 1 425 occurrences, 0 mot français restant). Le dénominateur monte par rapport aux 1 180 de la 5.2.0 : nous avons ajouté, après traduction déjà active, les modes Autre banque, les seuils minimum et les erreurs d’étape 2 |
+| Couverture de la page de test | 100,0 % (1 425 / 1 425 occurrences, 0 mot français restant). Le dénominateur monte par rapport aux 1 180 de la mesure précédente : nous avons ajouté, après traduction déjà active, les modes Autre banque, les seuils minimum et les erreurs d’étape 2 |
 | Panneau jury (`?jury=1`), hors critère | 90,08 %. Les valeurs saisies, les codes d’erreur et certains textes soumis restent en français, volontairement |
 | Audit des 113 chaînes de la démo CamFinance | 113 / 113, 38 contrôles de protection, 0 altération, 0 erreur console, retour au français identique |
 | Grammaire | 38 / 38 |
 | Frais gelés (démo CamFinance : MTN 1,5 %, Orange 1 %, banque 500 F, Wave 0, minimum 500 F) | 74 / 74, avant et après traduction |
 | Sources du lexique de couverture | 0 défaut (77 entrées utilisées sur la page) |
 | Protection des montants et parcours | 24 cas de frais et 3 parcours complets, 0 anomalie |
+| Changement de mode, lecture immédiate (toutes les 20 ms, 400 ms) | la ligne des frais reste un instant en français sur la mesure précédente ; sur la 5.2.1, aucun français, dès 0 ms |
 | Page réelle https://safinum.cm/hackathon-test | montants identiques : 250 000, −12 500, +180 000 ; frais 375 F sur 25 000 F en Mobile Money |
 
-Le détail de la cause, du correctif et de l’écart 108 / 118 est dans `docs/RAPPORT-COUVERTURE-v5.2.md`.
+Le détail de la cause, du correctif et de l’écart 108 / 118 est dans `docs/RAPPORT-COUVERTURE-v5.2.1.md`.
 
 ## 7. Limites
 
-Environ 64 % des mots éwondo affichés sur la page de test viennent d’entrées « à confirmer » (3 394 jetons sur 5 304 dans la mesure 5.2.1, soit 63,99 % ; c’était 2 771 / 4 384, soit 63,2 %, sur le ZIP 5.2.0). Une couverture à 100 % veut dire : plus aucun mot français restant sur le périmètre jugé. Cela ne veut pas dire que tous les termes sont attestés.
+Environ 64 % des mots éwondo affichés sur la page de test viennent d’entrées « à confirmer » (3 394 mots sur 5 304, soit 63,99 %). Une couverture à 100 % veut dire : plus aucun mot français restant sur le périmètre jugé. Cela ne veut pas dire que tous les termes sont attestés. Les 118 entrées « à confirmer » et les 21 termes de base du § 8 en font partie.
 
 Le panneau jury (`?jury=1`) est à environ 90 % et reste hors critère.
 
 Aucun locuteur natif n’a encore validé le lexique.
 
-Nous n’avons pas consulté le dictionnaire de Tsala 1955, encore sous droits.
+Le *Dictionnaire ewondo-français* de Tsala (1955), encore protégé, n’a pas été consulté.
 
-Le lexique est avant tout financier. Sur une page d’actualité ou une encyclopédie, seuls les mots connus sont traduits. Le reste du français reste en place. Ce n’est pas un dysfonctionnement.
+Sur une page générale, seuls les termes présents dans le lexique sont traduits.
 
 Les tons ne sont pas notés. L’accord de classe des possessifs n’est vraiment sûr que pour les noms de classe I. Quelques mots hérités de versions antérieures restent étiquetés « non attesté » dans le lexique v5.1. Nous ne les avons pas inventés en v5.2 ; ils restent à revoir.
 
 ## 8. Calques et emprunts à confirmer
 
-Les 21 termes ci-dessous n’ont pas d’équivalent attesté satisfaisant dans les sources que nous avons consultées. Le 12 novembre 2026, nous avons décidé de les rendre par un calque ou un emprunt, tous en certitude « à confirmer ». Il faudra les faire valider par un locuteur natif. La source qui permettrait le plus clairement de trancher est Tsala 1955.
+Ces 21 termes sont rendus par un calque ou un emprunt, en attente de validation par un locuteur natif.
 
 | Français | Rendu proposé | Nature | Remarque (morceaux sourcés, pas le terme composé) |
 |---|---|---|---|
@@ -154,18 +155,17 @@ Les 21 termes ci-dessous n’ont pas d’équivalent attesté satisfaisant dans 
 | mois abrégés (nov., oct., …) | ngɔn 11, ngɔn 10, … | calque | *ngɔn* « mois » (Pichon p. 115 ; Nekes 1913) + le numéro (chiffre protégé). Aucun nom de mois attesté. |
 | hackathon (nom commun) ; base ; hook | Hackathon SAFINUM Innovate (nom propre) ; *mam ma osu* ; *nlɔb* | nom propre / calque | « Retour au hackathon » → *Dugan a Hackathon SAFINUM Innovate*. *nlɔb* « hameçon » (Pichon p. 113 ; NT Mt 17,27). |
 
-La liste complète des 118 clés « à confirmer » est dans `registre-des-manques.json`.
+La liste complète des 118 clés « à confirmer » est dans `hackathon-test/registre-des-manques.json`.
 
 ## 9. Équipe Numerid
 
-Ce travail est présenté par l’équipe Numerid, pour le SAFINUM Innovate Challenge 2026.
+Ce travail est présenté par l’équipe Numerid, pour le SAFINUM Innovate Challenge 2026. Nous sommes trois.
 
 | Nom | Rôle |
 |---|---|
-| Gervais Azanga | à confirmer par Emmanuel |
-| Emmanuel ATANGANA | à confirmer par Emmanuel |
-
-Nous n’avons pas figé les rôles dans ce document. Emmanuel les confirmera.
+| ATANGANA ABOGO Emmanuel | développement de l’extension, tests |
+| [coéquipière, nom en attente] | développement de l’extension |
+| Gervais Azanga | linguistique et sources |
 
 ## 10. Prochaines étapes
 
@@ -177,4 +177,4 @@ Ensuite, une version vocale des messages importants (solde, frais, alertes de s�
 
 Nous avons consulté Pichon (1950), Redden (1979, microfiche ERIC), Nekes (1911 et 1913) et Heepe (1919) sur des dépôts publics (Internet Archive / ERIC). L’AGLC 1984 est diffusé par le SIL sous licence CC BY-NC-SA 3.0. Le Nouveau Testament éwondo *Mkpamaŋ Amvoe* (2012) reste sous droits : nous n’en avons cité que quelques versets, à partir de la consultation en ligne.
 
-Cette extension est un prototype, préparé pour le SAFINUM Innovate Challenge 2026. Ce n’est pas un produit linguistique achevé.
+Cette extension est un prototype. Sa prochaine étape est la validation du lexique par des locuteurs natifs (voir § 10).

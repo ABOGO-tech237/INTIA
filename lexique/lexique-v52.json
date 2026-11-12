@@ -1,0 +1,3843 @@
+{
+ "version": "5.2",
+ "orthographe": "AGLC sans tons (ò→ɔ, è→ɛ, ë→ə, ṅ/ñ→ŋ)",
+ "abreviations": {
+  "P": "Pichon 1950",
+  "R": "Redden 1979 (dict. p.188-257)",
+  "N 1911/1913": "Nekes",
+  "H": "Heepe 1919",
+  "NT": "Mkpamaŋ Amvoe, NTE12, bible.com/bible/1854 (consulté en ligne)"
+ },
+ "nb_entrees": 192,
+ "entrees": [
+  {
+   "fr": "Environnement de test — données fictives, aucune transaction réelle.",
+   "ewondo": "Hom kiege — mam məsiki bəbəla, bayi ki lom mɔni.",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [
+    "P p.19-20 négation : verbe + kik ; ki devant le complément ; -siki pour « ne pas être »",
+    "P p.23 futur : ma-/wa-/a-/bi-/mi-/ba- + yi + verbe (« bayi », « ayi »)"
+   ],
+   "remarque": "Littéralement : « Lieu d'essai — les choses ne sont pas vraies, on n'enverra pas d'argent. »",
+   "a_confirmer": [],
+   "source": [
+    "Hom = endroit, lieu : P p.112 « endroit, hom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4819) ; NT Lc 19,5 « hom te » [calque]",
+    "kiege = essayer, éprouver : R p.213 « kiege taste, test, try » (redden-1979-dictionary-pages-188-257.tesseract.txt:1472) ; N 1911 « kiege probieren » (lehrbuchderjaund00nekeuoft.ia-ocr.txt:10388) [calque]",
+    "mam = choses, affaires (pluriel de dzam) : NT 1 Th 5,21 « mam mësë » ; Lc 19,11 « e mam ma » ; P p.109 « affaire, dzam » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4643) [attesté]",
+    "məsiki = ne sont pas (accord de mam/me-) : P p.20 « Mendim mesiki mbèn » (l'eau n'est pas bonne) (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:866) ; P p.19 « être » négatif : -sikik (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:806-811) [à confirmer]",
+    "bəbəla = vrai, vérité : P p.120 « vérité, vrai, bébéla » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5201) ; NT Ap 21,5 « bibug bi binë bëbëla » [attesté]",
+    "bayi = on (ils) va/vont… (futur, 3e pl.) : NT Lc 19,26 « bayi vë e mod » ; P p.23 futur (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt, « Futur des verbes » p.23) [à confirmer]",
+    "ki = ne… pas (devant le complément / au futur) : P p.20 « mayen ki mintomba… Mayi ki nyu mendim » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:867-868) ; NT Ac 20,24 « madaṅ ki » [attesté]",
+    "lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]",
+    "mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]"
+   ]
+  },
+  {
+   "fr": "Protocole de test",
+   "ewondo": "Mbol kiege",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [
+    "P p.34 complément du nom : au singulier, pas de préfixe répété (juxtaposition, ton haut non noté)"
+   ],
+   "remarque": "« Manière d'essayer ».",
+   "a_confirmer": [
+    "protocole (pas de terme attesté ; rendu par mbol « manière »)"
+   ],
+   "source": [
+    "Mbol = manière, façon : P p.115 « manière, mbol » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4938) [calque]",
+    "kiege = essayer, éprouver : R p.213 « kiege taste, test, try » (redden-1979-dictionary-pages-188-257.tesseract.txt:1472) ; N 1911 « kiege probieren » (lehrbuchderjaund00nekeuoft.ia-ocr.txt:10388) [calque]"
+   ]
+  },
+  {
+   "fr": "Retour au hackathon",
+   "ewondo": "Dugan a Hackathon SAFINUM Innovate",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« Retourne au Hackathon SAFINUM Innovate » : le lien mène à la page de l'événement ; « hackathon » n'est gardé que dans le nom propre de l'événement (règle du projet). dugan « revenir » (P lexique ia-ocr.txt:4892) + a « à, dans » (P p.111).",
+   "a_confirmer": [
+    "hackathon (nom commun) : aucun terme attesté ; rendu par le nom propre de l'événement"
+   ],
+   "source": [
+    "Dugan = retourner ; refaire : P p.118 « retourner, dugan » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5112) ; R p.200 « dugan go back, return; do/be again/over » (redden-1979-dictionary-pages-188-257.tesseract.txt:827) ; NT Jn 20,21 « Yesus adugan dzo » (dit de nouveau) [attesté]",
+    "a = à, dans (locatif) : P p.111 « dans, a, etere » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4731) ; NT Lc 19,23 « vë mòni wama a baṅ » [attesté]"
+   ]
+  },
+  {
+   "fr": "Banque en ligne",
+   "ewondo": "Baŋ a nkoo",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« Banque sur la ligne (téléphone) » ; nkoo = ligne, téléphone (R).",
+   "a_confirmer": [
+    "en ligne (internet) : rendu par nkoo « ligne, téléphone »"
+   ],
+   "source": [
+    "Baŋ = banque (emprunt attesté) : NT Lc 19,23 « ndò asu dze waandzëki vë mòni wama a baṅ ? » [attesté]",
+    "a = à, dans (locatif) : P p.111 « dans, a, etere » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4731) ; NT Lc 19,23 « vë mòni wama a baṅ » [attesté]",
+    "nkoo = ligne, corde ; téléphone : R p.234 « ŋkoo line, cord, band; telephone » (redden-1979-dictionary-pages-188-257.tesseract.txt:2412) ; N 1913 « nkö(l) Strick, Telephon » (diesprachederjau00nekeuoft.ia-ocr.txt:6251) [calque]"
+   ]
+  },
+  {
+   "fr": "Solde",
+   "ewondo": "Mɔni wan",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [
+    "P p.43-44 tableau des possessifs (lu sur l'image de la page) : 1re/2e/6e cl. sg. wɔm « mon », woe « ton/son », wan « notre/votre », waban « leur »"
+   ],
+   "remarque": "« Votre argent ».",
+   "a_confirmer": [
+    "solde (pas de terme comptable attesté)"
+   ],
+   "source": [
+    "Mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]",
+    "wan = votre, notre (possessif, 1re/2e/6e classe sg.) : P p.43-44 tableau des possessifs, lu sur l'image PDF p.45-46 (pichon-1950-petite-grammaire-ewondo.pdf) : « 1re cl. mòn wòm woe woe wan wan waban » [attesté]"
+   ]
+  },
+  {
+   "fr": "Frais",
+   "ewondo": "Mɔni ya lom",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« Argent de l'envoi » : aucun mot attesté pour « frais/commission ».",
+   "a_confirmer": [
+    "frais / commission : aucun mot attesté"
+   ],
+   "source": [
+    "Mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]",
+    "ya = de (connectif) : P p.111 « de, ya » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4734) [attesté]",
+    "lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]"
+   ]
+  },
+  {
+   "fr": "Bénéficiaire",
+   "ewondo": "Mod ayi bələ mɔni",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [
+    "P p.23 futur : ma-/wa-/a-/bi-/mi-/ba- + yi + verbe (« bayi », « ayi »)"
+   ],
+   "remarque": "« La personne qui recevra l'argent ».",
+   "a_confirmer": [],
+   "source": [
+    "Mod = personne, homme : P p.113 « homme, mot (1) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4870) ; NT Lc 19,8 « mod ziṅ » [attesté]",
+    "ayi = il/elle va… (futur, 3e sg.) : NT Mt 6,4 « ayi yaan ai wa » ; P p.23 futur [à confirmer]",
+    "bələ = avoir, recevoir : P p.118 « recevoir, bêlé » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5094) ; P p.94 « bèlè, avoir, recevoir » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:4717) ; NT Jn 16,24 « miayi bëlë » [attesté]",
+    "mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]"
+   ]
+  },
+  {
+   "fr": "Récapitulatif",
+   "ewondo": "Mam məsə",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« Toutes les choses » (NT 1 Th 5,21 « mam mësë »).",
+   "a_confirmer": [
+    "récapitulatif (pas de terme attesté)"
+   ],
+   "source": [
+    "Mam = choses, affaires (pluriel de dzam) : NT 1 Th 5,21 « mam mësë » ; Lc 19,11 « e mam ma » ; P p.109 « affaire, dzam » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4643) [attesté]",
+    "məsə = tous (accord de mam) : NT 1 Th 5,21 « mam mësë » [attesté]"
+   ]
+  },
+  {
+   "fr": "Confirmation",
+   "ewondo": "Aman ya",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "« C'est achevé » (NT Jn 19,30), étape finale du parcours.",
+   "a_confirmer": [],
+   "source": [
+    "Aman = c'est achevé (aman ya) : NT Jn 19,30 « aman ya » (Tout est accompli) ; P p.119 « terminer, mana » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5143) ; R p.218 « man finish, complete » (redden-1979-dictionary-pages-188-257.tesseract.txt:1692) [attesté]",
+    "ya = de (connectif) : P p.111 « de, ya » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4734) [attesté]"
+   ]
+  },
+  {
+   "fr": "Votre compte",
+   "ewondo": "Mɔni wan a baŋ",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [
+    "P p.43-44 tableau des possessifs (lu sur l'image de la page) : 1re/2e/6e cl. sg. wɔm « mon », woe « ton/son », wan « notre/votre », waban « leur »"
+   ],
+   "remarque": "« Votre argent à la banque ».",
+   "a_confirmer": [
+    "compte : aucun mot attesté (mfɛ non attesté)"
+   ],
+   "source": [
+    "Mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]",
+    "wan = votre, notre (possessif, 1re/2e/6e classe sg.) : P p.43-44 tableau des possessifs, lu sur l'image PDF p.45-46 (pichon-1950-petite-grammaire-ewondo.pdf) : « 1re cl. mòn wòm woe woe wan wan waban » [attesté]",
+    "a = à, dans (locatif) : P p.111 « dans, a, etere » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4731) ; NT Lc 19,23 « vë mòni wama a baṅ » [attesté]",
+    "baŋ = banque (emprunt attesté) : NT Lc 19,23 « ndò asu dze waandzëki vë mòni wama a baṅ ? » [attesté]"
+   ]
+  },
+  {
+   "fr": "Bonjour, Amina",
+   "ewondo": "Ovuma, Amina",
+   "type": "phrase",
+   "certitude": "attesté",
+   "regles": [],
+   "remarque": "Salutation du NT Lc 1,28 « Ovuma ».",
+   "a_confirmer": [],
+   "source": [
+    "Ovuma = salut ! (à une personne) : NT Lc 1,28 « Ovuma » (Je te salue) [attesté]"
+   ]
+  },
+  {
+   "fr": "Bonjour",
+   "ewondo": "Ovuma",
+   "type": "phrase",
+   "certitude": "attesté",
+   "regles": [],
+   "remarque": "NT Lc 1,28.",
+   "a_confirmer": [],
+   "source": [
+    "Ovuma = salut ! (à une personne) : NT Lc 1,28 « Ovuma » (Je te salue) [attesté]"
+   ]
+  },
+  {
+   "fr": "Consultez votre solde et lancez un transfert en toute sécurité.",
+   "ewondo": "Yənə mɔni wan, otari lom mɔni ai mvɔɛ.",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [
+    "P p.63-64 impératif (sg. -ak/-k, pl. -an/-gan)",
+    "P p.65 double impératif : le 2e ordre se met au subjonctif (o- au sg., P p.62 « que tu aimes, odin »)",
+    "P p.43-44 tableau des possessifs (lu sur l'image de la page) : 1re/2e/6e cl. sg. wɔm « mon », woe « ton/son », wan « notre/votre », waban « leur »"
+   ],
+   "remarque": "« Regarde ton argent, commence à envoyer de l'argent en paix/sûreté. »",
+   "a_confirmer": [],
+   "source": [
+    "Yənə = vois ! regarde ! (impératif de yen) : NT Ap 21,5 « Yënë, mabò byem bisë mimkpamaṅ » ; Lc 19,8 « yënë » ; P p.15 « yen, voir » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:456) [à confirmer]",
+    "mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]",
+    "wan = votre, notre (possessif, 1re/2e/6e classe sg.) : P p.43-44 tableau des possessifs, lu sur l'image PDF p.45-46 (pichon-1950-petite-grammaire-ewondo.pdf) : « 1re cl. mòn wòm woe woe wan wan waban » [attesté]",
+    "otari = que tu commences (subjonctif 2e sg. de tari) : P p.65 double impératif → subjonctif (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:3083-3085) ; P p.62 « que tu aimes, odiñ » (ia-ocr.txt:2944) [à confirmer]",
+    "lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]",
+    "ai = avec, et : P p.14 (PDF p.16) vocabulaire « ai, et, avec » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:553) ; P p.112 « et, di, ayi » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4799) ; NT Jn 20,21 « Mvoè ai mina » [attesté]",
+    "mvɔɛ = paix, santé, sûreté : P p.116 « paix, mvòè (V) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4974) ; NT Jn 20,21 « Mvoè ai mina » [attesté]"
+   ]
+  },
+  {
+   "fr": "Solde disponible",
+   "ewondo": "Mɔni wan etetəg nyɔ",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [
+    "P p.43-44 tableau des possessifs (lu sur l'image de la page) : 1re/2e/6e cl. sg. wɔm « mon », woe « ton/son », wan « notre/votre », waban « leur »"
+   ],
+   "remarque": "« Votre argent maintenant ».",
+   "a_confirmer": [
+    "disponible : rendu par « maintenant »"
+   ],
+   "source": [
+    "Mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]",
+    "wan = votre, notre (possessif, 1re/2e/6e classe sg.) : P p.43-44 tableau des possessifs, lu sur l'image PDF p.45-46 (pichon-1950-petite-grammaire-ewondo.pdf) : « 1re cl. mòn wòm woe woe wan wan waban » [attesté]",
+    "etetəg = maintenant (avec nyɔ) : P p.114 « maintenant, etëtëg nyò » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4922) ; N 1911 « e'teteg-no jetzt » (lehrbuchderjaund00nekeuoft.ia-ocr.txt:2530) [attesté]",
+    "nyɔ = ce…-ci (dans etetəg nyɔ) : P p.114 « etëtëg nyò » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4922) [attesté]"
+   ]
+  },
+  {
+   "fr": "Numéro de compte",
+   "ewondo": "Taŋ baŋ",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [
+    "P p.34 complément du nom : au singulier, pas de préfixe répété (juxtaposition, ton haut non noté)"
+   ],
+   "remarque": "« Numéro de banque ».",
+   "a_confirmer": [
+    "compte : voir « Votre compte »"
+   ],
+   "source": [
+    "Taŋ = nombre, numéro : R p.243 « táŋ number » (image PDF 247 ; l'OCR redden-1979-dictionary-pages-188-257.tesseract.txt:2793 a perdu le ŋ) ; P p.115 « nombre, tañ (V) » (image PDF 117 ; OCR pichon-1950-petite-grammaire-ewondo.tesseract.txt:4966 « fan ») ; NT Lc 14,28 « amana bò taṅ » ; N 1913 « Zahl tän » (diesprachederjau00nekeuoft.ia-ocr.txt:8147) [attesté]",
+    "baŋ = banque (emprunt attesté) : NT Lc 19,23 « ndò asu dze waandzëki vë mòni wama a baṅ ? » [attesté]"
+   ]
+  },
+  {
+   "fr": "Compte courant",
+   "ewondo": "Mɔni a baŋ",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« Argent à la banque ».",
+   "a_confirmer": [
+    "courant (type de compte) : non rendu"
+   ],
+   "source": [
+    "Mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]",
+    "a = à, dans (locatif) : P p.111 « dans, a, etere » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4731) ; NT Lc 19,23 « vë mòni wama a baṅ » [attesté]",
+    "baŋ = banque (emprunt attesté) : NT Lc 19,23 « ndò asu dze waandzëki vë mòni wama a baṅ ? » [attesté]"
+   ]
+  },
+  {
+   "fr": "Effectuer un transfert",
+   "ewondo": "Lom mɔni",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "« Envoyer de l'argent ».",
+   "a_confirmer": [],
+   "source": [
+    "Lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]",
+    "mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]"
+   ]
+  },
+  {
+   "fr": "Consulter les frais",
+   "ewondo": "Yənə mɔni ya lom",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [
+    "P p.63-64 impératif (sg. -ak/-k, pl. -an/-gan)"
+   ],
+   "remarque": "« Regarde l'argent de l'envoi ».",
+   "a_confirmer": [
+    "frais : voir « Frais »"
+   ],
+   "source": [
+    "Yənə = vois ! regarde ! (impératif de yen) : NT Ap 21,5 « Yënë, mabò byem bisë mimkpamaṅ » ; Lc 19,8 « yënë » ; P p.15 « yen, voir » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:456) [à confirmer]",
+    "mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]",
+    "ya = de (connectif) : P p.111 « de, ya » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4734) [attesté]",
+    "lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]"
+   ]
+  },
+  {
+   "fr": "Transactions récentes",
+   "ewondo": "Mɔni woe etetəg nyɔ ai mvus",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "Approximation : « ton argent maintenant et après » — à revoir.",
+   "a_confirmer": [
+    "transactions récentes : aucun terme attesté"
+   ],
+   "source": [
+    "Mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]",
+    "woe = ton, ta (accord de mɔni) : NT Lc 19,16 et 19,20 « nsaṅ mòni woe » ; NT Mt 6,4 « Esya woe » [attesté]",
+    "etetəg = maintenant (avec nyɔ) : P p.114 « maintenant, etëtëg nyò » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4922) ; N 1911 « e'teteg-no jetzt » (lehrbuchderjaund00nekeuoft.ia-ocr.txt:2530) [attesté]",
+    "nyɔ = ce…-ci (dans etetəg nyɔ) : P p.114 « etëtëg nyò » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4922) [attesté]",
+    "ai = avec, et : P p.14 (PDF p.16) vocabulaire « ai, et, avec » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:553) ; P p.112 « et, di, ayi » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4799) ; NT Jn 20,21 « Mvoè ai mina » [attesté]",
+    "mvus = derrière, après : P p.111 « derrière… mvus » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4756) ; R p.193 « amvus back, behind; later after(wards) » (redden-1979-dictionary-pages-188-257.tesseract.txt:457) [attesté]"
+   ]
+  },
+  {
+   "fr": "Paiement marchand",
+   "ewondo": "Yan bod bə mekit",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "« Payer les commerçants » (NT Lc 19,45 « bod bë mëkit »).",
+   "a_confirmer": [],
+   "source": [
+    "Yan = payer : P p.116 « payer, yan » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5003) ; R gramm. « yan pay » (redden-1979-grammar-ewondo-ERIC-ED185833.ia-ocr.txt:7813) ; N 1913 « yän bezahlen » [attesté]",
+    "bod = gens (pluriel de mod) : NT Lc 19,45 « bod bë mëkit » ; P p.113 « homme, mot (1) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4870) [attesté]",
+    "bə = connectif pluriel (classe bo-/bə-) : NT Lc 19,45 « bod bë mëkit » ; P p.34 « Bòn be nkukuma » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:1547) [attesté]",
+    "mekit = commerce, marchandises : NT Lc 19,45 « bod bë mëkit » (les vendeurs) ; Lc 19,13 « Boan mëkit » (faites du commerce) [attesté]"
+   ]
+  },
+  {
+   "fr": "Salaire reçu",
+   "ewondo": "Bələ maan",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "« Recevoir le salaire ».",
+   "a_confirmer": [],
+   "source": [
+    "Bələ = avoir, recevoir : P p.118 « recevoir, bêlé » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5094) ; P p.94 « bèlè, avoir, recevoir » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:4717) ; NT Jn 16,24 « miayi bëlë » [attesté]",
+    "maan = salaire, paie : NT Mt 20,8 « ovë bò maan » ; Lc 10,7 « maan moe » ; P p.116 « paiement (salaire), mân » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5005) ; N 1913 « man Lohn » (diesprachederjau00nekeuoft.ia-ocr.txt:1008) [attesté]"
+   ]
+  },
+  {
+   "fr": "Transfert reçu",
+   "ewondo": "Bələ mɔni",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "« Recevoir de l'argent ».",
+   "a_confirmer": [],
+   "source": [
+    "Bələ = avoir, recevoir : P p.118 « recevoir, bêlé » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5094) ; P p.94 « bèlè, avoir, recevoir » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:4717) ; NT Jn 16,24 « miayi bëlë » [attesté]",
+    "mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]"
+   ]
+  },
+  {
+   "fr": "Facture électricité",
+   "ewondo": "Kalara ekola mfie",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [
+    "P p.34 complément du nom : au singulier, pas de préfixe répété (juxtaposition, ton haut non noté)"
+   ],
+   "remarque": "« Acte de dette de la lumière » : kalara ekola (NT Col 2,14) + mfie « lumière » (R p.184 ; P p.114).",
+   "a_confirmer": [
+    "électricité : rendu par mfie « lumière, lampe »"
+   ],
+   "source": [
+    "Kalara = papier, lettre ; « kalara ekola » = acte de dette : P p.99 « kalara (I), papier, lettre » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4184) ; NT Col 2,14 « kalara ekola » ; NT Lc 16,6 « Nòṅò kalara woe » [attesté]",
+    "ekola = dette : P p.95 « ekola (IV), dette » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:5044) ; NT Mt 18,28 « Dugan ma ekola dzama » [attesté]",
+    "mfie = lumière, lampe : R p.184 « mfie light, lamp » (redden-1979-dictionary-pages-188-257.tesseract.txt:26) ; P p.114 « lumière, mfyé » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4909) [calque]"
+   ]
+  },
+  {
+   "fr": "Sécurité",
+   "ewondo": "Mvɔɛ",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "mvɔɛ = paix, santé ; sens élargi à « sûreté ».",
+   "a_confirmer": [],
+   "source": [
+    "Mvɔɛ = paix, santé, sûreté : P p.116 « paix, mvòè (V) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4974) ; NT Jn 20,21 « Mvoè ai mina » [attesté]"
+   ]
+  },
+  {
+   "fr": "Vérifiez toujours le nom et le numéro du bénéficiaire avant de confirmer un transfert.",
+   "ewondo": "Bindigan abog asə dzoe ai taŋ mod ayi bələ mɔni, osu ya lom.",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [
+    "P p.63-64 impératif (sg. -ak/-k, pl. -an/-gan)",
+    "P p.23 futur : ma-/wa-/a-/bi-/mi-/ba- + yi + verbe (« bayi », « ayi »)"
+   ],
+   "remarque": "« Vérifiez toujours le nom et le numéro de la personne qui recevra l'argent, avant d'envoyer. »",
+   "a_confirmer": [],
+   "source": [
+    "Bindigan = vérifiez ! (impératif pluriel de bindi) : NT 1 Th 5,21 ; 2 Co 13,5 (forme attestée telle quelle) ; P p.64 impératif pluriel en -gan (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:3008-3020) [attesté]",
+    "abog = temps, moment : NT 1 Th 5,16 « Taan abog asë » (soyez toujours…) ; P p.119 « temps, abok » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5140) [attesté]",
+    "asə = tout (accord de abog) : NT 1 Th 5,16 « abog asë » [attesté]",
+    "dzoe = nom : P p.115 « nom, dzoe » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4965) ; R p.202 « dzoe nose; name » (redden-1979-dictionary-pages-188-257.tesseract.txt:886) ; NT Jn 10,3 « a dzoe » [attesté]",
+    "ai = avec, et : P p.14 (PDF p.16) vocabulaire « ai, et, avec » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:553) ; P p.112 « et, di, ayi » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4799) ; NT Jn 20,21 « Mvoè ai mina » [attesté]",
+    "taŋ = nombre, numéro : R p.243 « táŋ number » (image PDF 247 ; l'OCR redden-1979-dictionary-pages-188-257.tesseract.txt:2793 a perdu le ŋ) ; P p.115 « nombre, tañ (V) » (image PDF 117 ; OCR pichon-1950-petite-grammaire-ewondo.tesseract.txt:4966 « fan ») ; NT Lc 14,28 « amana bò taṅ » ; N 1913 « Zahl tän » (diesprachederjau00nekeuoft.ia-ocr.txt:8147) [attesté]",
+    "mod = personne, homme : P p.113 « homme, mot (1) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4870) ; NT Lc 19,8 « mod ziṅ » [attesté]",
+    "ayi = il/elle va… (futur, 3e sg.) : NT Mt 6,4 « ayi yaan ai wa » ; P p.23 futur [à confirmer]",
+    "bələ = avoir, recevoir : P p.118 « recevoir, bêlé » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5094) ; P p.94 « bèlè, avoir, recevoir » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:4717) ; NT Jn 16,24 « miayi bëlë » [attesté]",
+    "mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]",
+    "osu = avant, devant : P p.109 « avant, osu » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4636) ; P p.111 « devant, osu » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4766) ; NT Lc 19,28 « akë ai dulu osu » [attesté]",
+    "ya = de (connectif) : P p.111 « de, ya » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4734) [attesté]",
+    "lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]"
+   ]
+  },
+  {
+   "fr": "Connexion sécurisée",
+   "ewondo": "Nkoo ai mvɔɛ",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« Ligne avec sûreté ».",
+   "a_confirmer": [
+    "connexion (internet) : rendu par nkoo « ligne »"
+   ],
+   "source": [
+    "Nkoo = ligne, corde ; téléphone : R p.234 « ŋkoo line, cord, band; telephone » (redden-1979-dictionary-pages-188-257.tesseract.txt:2412) ; N 1913 « nkö(l) Strick, Telephon » (diesprachederjau00nekeuoft.ia-ocr.txt:6251) [calque]",
+    "ai = avec, et : P p.14 (PDF p.16) vocabulaire « ai, et, avec » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:553) ; P p.112 « et, di, ayi » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4799) ; NT Jn 20,21 « Mvoè ai mina » [attesté]",
+    "mvɔɛ = paix, santé, sûreté : P p.116 « paix, mvòè (V) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4974) ; NT Jn 20,21 « Mvoè ai mina » [attesté]"
+   ]
+  },
+  {
+   "fr": "Safinum Pay — environnement de démonstration. Ne saisissez aucune donnée personnelle réelle.",
+   "ewondo": "Safinum Pay — hom ledə. Tə miatil dzom ziŋ ya bəbəla ya wamen.",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [
+    "NT Ph 4,6 / Lc 10,20 : défense tə + mia- + verbe"
+   ],
+   "remarque": "« Lieu pour montrer. N'écrivez aucune chose vraie de vous-même. »",
+   "a_confirmer": [],
+   "source": [
+    "hom = endroit, lieu : P p.112 « endroit, hom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4819) ; NT Lc 19,5 « hom te » [calque]",
+    "ledə = montrer : P p.115 « montrer, ledé » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4933) ; NT Lc 1,28 « malëdë » [attesté]",
+    "Tə = ne… pas (défense) : NT Ph 4,6 « Të miasaṅan » ; Lc 10,20 « të miadaṅ tag » [attesté]",
+    "miatil = (que) vous écriviez — forme de défense tə + mia- + til : NT Ph 4,6 « Të miasaṅan » (modèle tə mia-VERBE) ; P p.112 « écrire, til » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4814) [attesté]",
+    "dzom = chose : P p.110 « chose, dzom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4700) ; NT Jn 16,24 « dzom ziṅ » [attesté]",
+    "ziŋ = quelque, un certain, autre : NT Jn 16,24 « dzom ziṅ » ; Lc 19,8 « mod ziṅ » [attesté]",
+    "ya = de (connectif) : P p.111 « de, ya » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4734) [attesté]",
+    "bəbəla = vrai, vérité : P p.120 « vérité, vrai, bébéla » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5201) ; NT Ap 21,5 « bibug bi binë bëbëla » [attesté]",
+    "wamen = toi-même : P p.31 « wamen, toi-même » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:1025) ; NT Lc 19,22 « Wakpèè wamen » [attesté]"
+   ]
+  },
+  {
+   "fr": "Environnement de test — Hackathon SAFINUM Innovate 2026 - Safinum",
+   "ewondo": "Hom kiege — Hackathon SAFINUM Innovate 2026 - Safinum",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "Titre de l'onglet ; nom de l'événement gardé.",
+   "a_confirmer": [],
+   "source": [
+    "Hom = endroit, lieu : P p.112 « endroit, hom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4819) ; NT Lc 19,5 « hom te » [calque]",
+    "kiege = essayer, éprouver : R p.213 « kiege taste, test, try » (redden-1979-dictionary-pages-188-257.tesseract.txt:1472) ; N 1911 « kiege probieren » (lehrbuchderjaund00nekeuoft.ia-ocr.txt:10388) [calque]"
+   ]
+  },
+  {
+   "fr": "Environnement de test — Hackathon SAFINUM Innovate 2026",
+   "ewondo": "Hom kiege — Hackathon SAFINUM Innovate 2026",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "Titre sans suffixe.",
+   "a_confirmer": [],
+   "source": [
+    "Hom = endroit, lieu : P p.112 « endroit, hom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4819) ; NT Lc 19,5 « hom te » [calque]",
+    "kiege = essayer, éprouver : R p.213 « kiege taste, test, try » (redden-1979-dictionary-pages-188-257.tesseract.txt:1472) ; N 1911 « kiege probieren » (lehrbuchderjaund00nekeuoft.ia-ocr.txt:10388) [calque]"
+   ]
+  },
+  {
+   "fr": "Environnement de test — Hackathon SAFINUM Innovate",
+   "ewondo": "Hom kiege — Hackathon SAFINUM Innovate",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "Fragment du titre (le moteur coupe autour de « 2026 », protégé).",
+   "a_confirmer": [],
+   "source": [
+    "Hom = endroit, lieu : P p.112 « endroit, hom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4819) ; NT Lc 19,5 « hom te » [calque]",
+    "kiege = essayer, éprouver : R p.213 « kiege taste, test, try » (redden-1979-dictionary-pages-188-257.tesseract.txt:1472) ; N 1911 « kiege probieren » (lehrbuchderjaund00nekeuoft.ia-ocr.txt:10388) [calque]"
+   ]
+  },
+  {
+   "fr": "balance",
+   "ewondo": "mɔni wan",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [
+    "P p.43-44 tableau des possessifs (lu sur l'image de la page) : 1re/2e/6e cl. sg. wɔm « mon », woe « ton/son », wan « notre/votre », waban « leur »"
+   ],
+   "remarque": "Clé « balance » du journal des soumissions (= solde) : mɔni « argent » (P p.101) + wan « votre » (P p.43-44). Aucun mot attesté pour « solde ».",
+   "a_confirmer": [
+    "solde/balance : calque « votre argent »"
+   ],
+   "source": [
+    "mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]",
+    "wan = votre, notre (possessif, 1re/2e/6e classe sg.) : P p.43-44 tableau des possessifs, lu sur l'image PDF p.45-46 (pichon-1950-petite-grammaire-ewondo.pdf) : « 1re cl. mòn wòm woe woe wan wan waban » [attesté]"
+   ]
+  },
+  {
+   "fr": "total",
+   "ewondo": "mɔni osə",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "Clé « total » du journal des soumissions : mɔni « argent » (P p.101) + osə « tout » (NT Lc 19,47 « amos osë »). Aucun mot attesté pour « total ».",
+   "a_confirmer": [
+    "total : calque « tout l'argent »"
+   ],
+   "source": [
+    "mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]",
+    "osə = tout (accord classe 3, o-/w-) : NT Lc 19,47 « amos osë », 19,48 « nnam osë » [attesté]"
+   ]
+  },
+  {
+   "fr": "Délai de remboursement : 8 jours.",
+   "ewondo": "Abog dugan mɔni : 8 amos.",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "Chaîne de la démo CamFinance (tests/audit.py). « Temps de rendre l'argent : 8 jours » : abog « temps » (NT 1 Th 5,16) + dugan « rendre » (P p.118) + mɔni (P p.101) ; amos « jour » (R p.193 ; NT Lc 19,47). Le chiffre 8 est recopié tel quel.",
+   "a_confirmer": [
+    "délai : calque abog « temps »",
+    "remboursement : calque dugan mɔni « rendre l'argent »"
+   ],
+   "source": [
+    "Abog = temps, moment : NT 1 Th 5,16 « Taan abog asë » (soyez toujours…) ; P p.119 « temps, abok » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5140) [attesté]",
+    "dugan = retourner ; refaire : P p.118 « retourner, dugan » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5112) ; R p.200 « dugan go back, return; do/be again/over » (redden-1979-dictionary-pages-188-257.tesseract.txt:827) ; NT Jn 20,21 « Yesus adugan dzo » (dit de nouveau) [attesté]",
+    "mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]",
+    "amos = jour : R p.192 « amos day » (redden-1979-dictionary-pages-188-257.tesseract.txt:439) ; P p.49 « (e) amos zamgbala » (troisième jour) (pichon-1950-petite-grammaire-ewondo.tesseract.txt:1922) ; NT Lc 19,47 « amos osë » (chaque jour) [attesté]"
+   ]
+  },
+  {
+   "fr": "Avertissement de sécurité : tentative de connexion suspecte détectée sur votre compte.",
+   "ewondo": "Boan okala : mod a kiege nyan a mɔni wan a baŋ.",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "Chaîne de la démo CamFinance. « Prenez garde : quelqu'un essaie d'entrer dans votre argent à la banque » : boan okala (NT Mt 24,4) ; mod (P p.113) ; a + verbe = présent 3e sg. (P p.12 « a din ») ; kiege « essayer » (R p.213) ; nyan « entrer » (P p.112) ; mɔni wan a baŋ (P p.43-44 ; NT Lc 19,23).",
+   "a_confirmer": [
+    "suspecte, détectée : non rendus mot à mot (calque « quelqu'un essaie d'entrer »)"
+   ],
+   "source": [
+    "Boan = faites (dans boan okala = prenez garde) : NT Mt 24,4 « Boan okala na të badug mina » ; P p.63 impératif pluriel « bòan, faites » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:2996) [à confirmer]",
+    "okala = attention (dans boan okala) : NT Mt 24,4 ; P p.109 « attention (faire), kala » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4673) [attesté]",
+    "mod = personne, homme : P p.113 « homme, mot (1) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4870) ; NT Lc 19,8 « mod ziṅ » [attesté]",
+    "a = à, dans (locatif) : P p.111 « dans, a, etere » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4731) ; NT Lc 19,23 « vë mòni wama a baṅ » [attesté]",
+    "kiege = essayer, éprouver : R p.213 « kiege taste, test, try » (redden-1979-dictionary-pages-188-257.tesseract.txt:1472) ; N 1911 « kiege probieren » (lehrbuchderjaund00nekeuoft.ia-ocr.txt:10388) [calque]",
+    "nyan = entrer : P p.112 « entrer, nyan, nyi » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4777) ; NT Lc 19,1 « anganyian » [attesté]",
+    "mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]",
+    "wan = votre, notre (possessif, 1re/2e/6e classe sg.) : P p.43-44 tableau des possessifs, lu sur l'image PDF p.45-46 (pichon-1950-petite-grammaire-ewondo.pdf) : « 1re cl. mòn wòm woe woe wan wan waban » [attesté]",
+    "baŋ = banque (emprunt attesté) : NT Lc 19,23 « ndò asu dze waandzëki vë mòni wama a baṅ ? » [attesté]"
+   ]
+  },
+  {
+   "fr": "reçu de Express Union.",
+   "ewondo": "bələ ya Express Union.",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "Fragment de « Dépôt de 20 000 FCFA reçu de Express Union. » (le montant coupe la phrase). bələ « recevoir » (P p.118) + ya « de » (P p.111) ; Express Union = marque (nom propre, non traduit).",
+   "a_confirmer": [],
+   "source": [
+    "bələ = avoir, recevoir : P p.118 « recevoir, bêlé » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5094) ; P p.94 « bèlè, avoir, recevoir » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:4717) ; NT Jn 16,24 « miayi bëlë » [attesté]",
+    "ya = de (connectif) : P p.111 « de, ya » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4734) [attesté]"
+   ]
+  },
+  {
+   "fr": "· Réf.",
+   "ewondo": "· Taŋ.",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "Abréviation « Réf. » (référence) dans « TXN-… · Réf. TXN-… » : taŋ « numéro » (R p.243 ; P p.115).",
+   "a_confirmer": [
+    "référence : calque taŋ « numéro »"
+   ],
+   "source": [
+    "Taŋ = nombre, numéro : R p.243 « táŋ number » (image PDF 247 ; l'OCR redden-1979-dictionary-pages-188-257.tesseract.txt:2793 a perdu le ŋ) ; P p.115 « nombre, tañ (V) » (image PDF 117 ; OCR pichon-1950-petite-grammaire-ewondo.tesseract.txt:4966 « fan ») ; NT Lc 14,28 « amana bò taṅ » ; N 1913 « Zahl tän » (diesprachederjau00nekeuoft.ia-ocr.txt:8147) [attesté]"
+   ]
+  },
+  {
+   "fr": "Réf.",
+   "ewondo": "Taŋ.",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "Abréviation « Réf. » : taŋ « numéro » (R p.243 ; P p.115).",
+   "a_confirmer": [
+    "référence : calque taŋ « numéro »"
+   ],
+   "source": [
+    "Taŋ = nombre, numéro : R p.243 « táŋ number » (image PDF 247 ; l'OCR redden-1979-dictionary-pages-188-257.tesseract.txt:2793 a perdu le ŋ) ; P p.115 « nombre, tañ (V) » (image PDF 117 ; OCR pichon-1950-petite-grammaire-ewondo.tesseract.txt:4966 « fan ») ; NT Lc 14,28 « amana bò taṅ » ; N 1913 « Zahl tän » (diesprachederjau00nekeuoft.ia-ocr.txt:8147) [attesté]"
+   ]
+  },
+  {
+   "fr": "Safinum Pay",
+   "ewondo": "Safinum Pay",
+   "type": "phrase",
+   "certitude": "attesté",
+   "regles": [],
+   "remarque": "Nom de marque : ne se traduit pas (liste blanche : marques).",
+   "a_confirmer": [],
+   "source": []
+  },
+  {
+   "fr": "Frais de transfert",
+   "ewondo": "Mɔni ya lom",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "Voir « Frais ».",
+   "a_confirmer": [
+    "frais : aucun mot attesté"
+   ],
+   "source": [
+    "Mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]",
+    "ya = de (connectif) : P p.111 « de, ya » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4734) [attesté]",
+    "lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]"
+   ]
+  },
+  {
+   "fr": "Choisissez le type de transfert et le montant. Les frais sont calculés automatiquement.",
+   "ewondo": "Tɔbɔgan akyaɛ lom ai taŋ mɔni. Bayi laŋ mɔni ya lom.",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [
+    "P p.63-64 impératif (sg. -ak/-k, pl. -an/-gan)",
+    "P p.23 futur : ma-/wa-/a-/bi-/mi-/ba- + yi + verbe (« bayi », « ayi »)"
+   ],
+   "remarque": "« Choisissez la sorte d'envoi et le nombre d'argent. On comptera l'argent de l'envoi. »",
+   "a_confirmer": [
+    "automatiquement : non rendu"
+   ],
+   "source": [
+    "Tɔbɔgan = choisissez ! (impératif pluriel de tɔb) : P p.105 « tòb, choisir. = tòbòk, tòbògan » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:6087-6088) [attesté]",
+    "akyaɛ = sorte, espèce, manière : P p.112 « espèce, akyaè » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4794) ; P p.115 « manière, mbol, akyaè » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4938) [attesté]",
+    "lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]",
+    "ai = avec, et : P p.14 (PDF p.16) vocabulaire « ai, et, avec » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:553) ; P p.112 « et, di, ayi » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4799) ; NT Jn 20,21 « Mvoè ai mina » [attesté]",
+    "taŋ = nombre, numéro : R p.243 « táŋ number » (image PDF 247 ; l'OCR redden-1979-dictionary-pages-188-257.tesseract.txt:2793 a perdu le ŋ) ; P p.115 « nombre, tañ (V) » (image PDF 117 ; OCR pichon-1950-petite-grammaire-ewondo.tesseract.txt:4966 « fan ») ; NT Lc 14,28 « amana bò taṅ » ; N 1913 « Zahl tän » (diesprachederjau00nekeuoft.ia-ocr.txt:8147) [attesté]",
+    "mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]",
+    "Bayi = on (ils) va/vont… (futur, 3e pl.) : NT Lc 19,26 « bayi vë e mod » ; P p.23 futur (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt, « Futur des verbes » p.23) [à confirmer]",
+    "laŋ = compter, lire : P p.100 « lañ, compter, lire » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4232) ; R p.217 « láŋ count, read » (image PDF 221 ; OCR redden-1979-dictionary-pages-188-257.tesseract.txt:1617 « lan ») ; NT Phm 1,18 « laṅa ekola te a nlo wama » [attesté]",
+    "ya = de (connectif) : P p.111 « de, ya » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4734) [attesté]"
+   ]
+  },
+  {
+   "fr": "Type d'opération",
+   "ewondo": "Akyaɛ lom",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [
+    "P p.34 complément du nom : au singulier, pas de préfixe répété (juxtaposition, ton haut non noté)"
+   ],
+   "remarque": "« Sorte d'envoi ».",
+   "a_confirmer": [],
+   "source": [
+    "Akyaɛ = sorte, espèce, manière : P p.112 « espèce, akyaè » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4794) ; P p.115 « manière, mbol, akyaè » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4938) [attesté]",
+    "lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]"
+   ]
+  },
+  {
+   "fr": "Compte Safinum",
+   "ewondo": "Baŋ Safinum",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "Option du menu. ATTENTION : texte d'<option> (non traduit par v5.1.1 ; v5.2 traduit le texte, jamais la valeur).",
+   "a_confirmer": [],
+   "source": [
+    "Baŋ = banque (emprunt attesté) : NT Lc 19,23 « ndò asu dze waandzëki vë mòni wama a baṅ ? » [attesté]"
+   ]
+  },
+  {
+   "fr": "Autre banque",
+   "ewondo": "Baŋ ziŋ",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« Une autre banque » (ziŋ = quelque, un certain).",
+   "a_confirmer": [],
+   "source": [
+    "Baŋ = banque (emprunt attesté) : NT Lc 19,23 « ndò asu dze waandzëki vë mòni wama a baṅ ? » [attesté]",
+    "ziŋ = quelque, un certain, autre : NT Jn 16,24 « dzom ziṅ » ; Lc 19,8 « mod ziṅ » [attesté]"
+   ]
+  },
+  {
+   "fr": "Transfert instantané et gratuit",
+   "ewondo": "Lom avol, a zəzə",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "« Envoi rapide, gratuitement » (NT Mt 10,8 « a zëzë »).",
+   "a_confirmer": [],
+   "source": [
+    "Lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]",
+    "avol = vite, rapide : P p.118 « rapide, avol » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5087) ; R p.194 « avo(l) fast, quick » (redden-1979-dictionary-pages-188-257.tesseract.txt:515) [attesté]",
+    "a = à, dans (locatif) : P p.111 « dans, a, etere » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4731) ; NT Lc 19,23 « vë mòni wama a baṅ » [attesté]",
+    "zəzə = pour rien (a zəzə = gratuitement) : NT Mt 10,8 « Mingabi a zëzë, vaan a zëzë » (vous avez reçu gratuitement, donnez gratuitement) ; P p.17 « a zëzë, en vain, sans motif » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:554) [attesté]"
+   ]
+  },
+  {
+   "fr": "Montant à envoyer",
+   "ewondo": "Taŋ mɔni ya lom",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [
+    "P p.34 complément du nom : au singulier, pas de préfixe répété (juxtaposition, ton haut non noté)"
+   ],
+   "remarque": "« Nombre d'argent à envoyer ».",
+   "a_confirmer": [],
+   "source": [
+    "Taŋ = nombre, numéro : R p.243 « táŋ number » (image PDF 247 ; l'OCR redden-1979-dictionary-pages-188-257.tesseract.txt:2793 a perdu le ŋ) ; P p.115 « nombre, tañ (V) » (image PDF 117 ; OCR pichon-1950-petite-grammaire-ewondo.tesseract.txt:4966 « fan ») ; NT Lc 14,28 « amana bò taṅ » ; N 1913 « Zahl tän » (diesprachederjau00nekeuoft.ia-ocr.txt:8147) [attesté]",
+    "mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]",
+    "ya = de (connectif) : P p.111 « de, ya » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4734) [attesté]",
+    "lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]"
+   ]
+  },
+  {
+   "fr": "Gratuit",
+   "ewondo": "A zəzə",
+   "type": "phrase",
+   "certitude": "attesté",
+   "regles": [],
+   "remarque": "NT Mt 10,8 « Mingabi a zëzë, vaan a zëzë » (reçu gratuitement, donnez gratuitement).",
+   "a_confirmer": [],
+   "source": [
+    "A = à, dans (locatif) : P p.111 « dans, a, etere » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4731) ; NT Lc 19,23 « vë mòni wama a baṅ » [attesté]",
+    "zəzə = pour rien (a zəzə = gratuitement) : NT Mt 10,8 « Mingabi a zëzë, vaan a zëzë » (vous avez reçu gratuitement, donnez gratuitement) ; P p.17 « a zëzë, en vain, sans motif » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:554) [attesté]"
+   ]
+  },
+  {
+   "fr": "Total à débiter",
+   "ewondo": "Mɔni osə ya yan",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« Tout l'argent à payer ».",
+   "a_confirmer": [
+    "débiter : rendu par yan « payer »"
+   ],
+   "source": [
+    "Mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]",
+    "osə = tout (accord classe 3, o-/w-) : NT Lc 19,47 « amos osë », 19,48 « nnam osë » [attesté]",
+    "ya = de (connectif) : P p.111 « de, ya » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4734) [attesté]",
+    "yan = payer : P p.116 « payer, yan » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5003) ; R gramm. « yan pay » (redden-1979-grammar-ewondo-ERIC-ED185833.ia-ocr.txt:7813) ; N 1913 « yän bezahlen » [attesté]"
+   ]
+  },
+  {
+   "fr": "Solde après opération",
+   "ewondo": "Mɔni wan a mvus",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [
+    "P p.43-44 tableau des possessifs (lu sur l'image de la page) : 1re/2e/6e cl. sg. wɔm « mon », woe « ton/son », wan « notre/votre », waban « leur »"
+   ],
+   "remarque": "« Votre argent après ».",
+   "a_confirmer": [],
+   "source": [
+    "Mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]",
+    "wan = votre, notre (possessif, 1re/2e/6e classe sg.) : P p.43-44 tableau des possessifs, lu sur l'image PDF p.45-46 (pichon-1950-petite-grammaire-ewondo.pdf) : « 1re cl. mòn wòm woe woe wan wan waban » [attesté]",
+    "a = à, dans (locatif) : P p.111 « dans, a, etere » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4731) ; NT Lc 19,23 « vë mòni wama a baṅ » [attesté]",
+    "mvus = derrière, après : P p.111 « derrière… mvus » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4756) ; R p.193 « amvus back, behind; later after(wards) » (redden-1979-dictionary-pages-188-257.tesseract.txt:457) [attesté]"
+   ]
+  },
+  {
+   "fr": "Retour",
+   "ewondo": "Dugan",
+   "type": "phrase",
+   "certitude": "attesté",
+   "regles": [],
+   "remarque": "dugan = retourner (P, R).",
+   "a_confirmer": [],
+   "source": [
+    "Dugan = retourner ; refaire : P p.118 « retourner, dugan » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5112) ; R p.200 « dugan go back, return; do/be again/over » (redden-1979-dictionary-pages-188-257.tesseract.txt:827) ; NT Jn 20,21 « Yesus adugan dzo » (dit de nouveau) [attesté]"
+   ]
+  },
+  {
+   "fr": "Continuer",
+   "ewondo": "Kə osu",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "« Aller devant » (NT Lc 19,28 « akë … osu »).",
+   "a_confirmer": [],
+   "source": [
+    "Kə = aller : P p.109 « aller, kë » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4652) ; NT Lc 19,28 « akë … osu » [attesté]",
+    "osu = avant, devant : P p.109 « avant, osu » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4636) ; P p.111 « devant, osu » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4766) ; NT Lc 19,28 « akë ai dulu osu » [attesté]"
+   ]
+  },
+  {
+   "fr": "Frais de 1,5 % (min. 100 FCFA, max. 2 500 FCFA)",
+   "ewondo": "Mɔni ya lom 1,5 % (abot 100 FCFA, anen 2 500 FCFA)",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "min./max. rendus par abot « petitesse » / anen « grandeur » (P p.38). Chiffres intacts.",
+   "a_confirmer": [
+    "minimum / maximum : rendus par petitesse / grandeur"
+   ],
+   "source": [
+    "Mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]",
+    "ya = de (connectif) : P p.111 « de, ya » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4734) [attesté]",
+    "lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]",
+    "abot = petitesse, petit : P p.38 « grandeur, anen ; et petitesse, abòt » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:1670) [attesté]",
+    "anen = grandeur, grand : P p.38 « grandeur, anen » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:1670) ; P p.113 « grandeur, anen » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4843) [attesté]"
+   ]
+  },
+  {
+   "fr": "Frais de 2 % (min. 200 FCFA, max. 5 000 FCFA)",
+   "ewondo": "Mɔni ya lom 2 % (abot 200 FCFA, anen 5 000 FCFA)",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "Idem.",
+   "a_confirmer": [
+    "minimum / maximum"
+   ],
+   "source": [
+    "Mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]",
+    "ya = de (connectif) : P p.111 « de, ya » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4734) [attesté]",
+    "lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]",
+    "abot = petitesse, petit : P p.38 « grandeur, anen ; et petitesse, abòt » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:1670) [attesté]",
+    "anen = grandeur, grand : P p.38 « grandeur, anen » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:1670) ; P p.113 « grandeur, anen » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4843) [attesté]"
+   ]
+  },
+  {
+   "fr": "Une erreur est survenue",
+   "ewondo": "Evus dzia",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "« Une faute ».",
+   "a_confirmer": [],
+   "source": [
+    "Evus = faute, erreur : P p.112 « faute, evus (IV) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4822) [attesté]",
+    "dzia = un (accord classe e-) : P p.120 « un, … dzia » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5185) ; N 1911 « eye dziä ein Tuch » (lehrbuchderjaund00nekeuoft.ia-ocr.txt:5524) [attesté]"
+   ]
+  },
+  {
+   "fr": "Le montant doit être supérieur à zéro.",
+   "ewondo": "Mɔni ya lom odaŋ 0.",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« Le nombre d'argent doit dépasser 0 » (daŋ = dépasser, R).",
+   "a_confirmer": [
+    "devoir (obligation) : non rendu"
+   ],
+   "source": [
+    "Mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]",
+    "ya = de (connectif) : P p.111 « de, ya » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4734) [attesté]",
+    "lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]",
+    "odaŋ = dépasse (accord classe o- + daŋ) : R p.199 « daŋ … exceed » (image PDF 203 ; OCR redden-1979-dictionary-pages-188-257.tesseract.txt:754) ; NT Lc 19,16 accord o- (« nsaṅ mòni woe ») [à confirmer]"
+   ]
+  },
+  {
+   "fr": "Fermer",
+   "ewondo": "Dii",
+   "type": "phrase",
+   "certitude": "attesté",
+   "regles": [],
+   "remarque": "P p.113 « fermer, dii ».",
+   "a_confirmer": [],
+   "source": [
+    "Dii = fermer : P p.113 « fermer, dii » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4832) ; N 1913 « dii zumachen » (diesprachederjau00nekeuoft.ia-ocr.txt:2961) [attesté]"
+   ]
+  },
+  {
+   "fr": "Solde insuffisant pour effectuer ce transfert.",
+   "ewondo": "Mɔni wan osiki abui asu lom.",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [
+    "P p.19-20 négation : verbe + kik ; ki devant le complément ; -siki pour « ne pas être »"
+   ],
+   "remarque": "« Votre argent n'est pas beaucoup pour envoyer. »",
+   "a_confirmer": [],
+   "source": [
+    "Mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]",
+    "wan = votre, notre (possessif, 1re/2e/6e classe sg.) : P p.43-44 tableau des possessifs, lu sur l'image PDF p.45-46 (pichon-1950-petite-grammaire-ewondo.pdf) : « 1re cl. mòn wòm woe woe wan wan waban » [attesté]",
+    "osiki = n'est pas (accord classe 3 o-, sujet mɔni) : P p.19 « être » négatif -sikik : asikik, bisikik… (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:806-811) ; NT Lc 19,16 accord o- (« nsaṅ mòni woe obye ») [à confirmer]",
+    "abui = beaucoup : P p.109 « beaucoup, abui » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4665) [attesté]",
+    "asu = pour : P p.117 « pour, asu » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5031) ; NT Mt 20,2 « asu amos » [attesté]",
+    "lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]"
+   ]
+  },
+  {
+   "fr": "Renseignez les informations du destinataire. Vérifiez toujours le numéro avant de valider.",
+   "ewondo": "Tilig mam mod ayi bələ mɔni. Bindigan abog asə taŋ, osu ya lom.",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [
+    "P p.63-64 impératif (sg. -ak/-k, pl. -an/-gan)",
+    "P p.23 futur : ma-/wa-/a-/bi-/mi-/ba- + yi + verbe (« bayi », « ayi »)"
+   ],
+   "remarque": "« Écris les choses de la personne qui recevra l'argent. Vérifiez toujours le numéro avant d'envoyer. »",
+   "a_confirmer": [],
+   "source": [
+    "Tilig = écris ! (impératif singulier de til) : NT Ap 21,5 « Tilig » ; P p.112 « écrire, til » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4814) [attesté]",
+    "mam = choses, affaires (pluriel de dzam) : NT 1 Th 5,21 « mam mësë » ; Lc 19,11 « e mam ma » ; P p.109 « affaire, dzam » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4643) [attesté]",
+    "mod = personne, homme : P p.113 « homme, mot (1) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4870) ; NT Lc 19,8 « mod ziṅ » [attesté]",
+    "ayi = il/elle va… (futur, 3e sg.) : NT Mt 6,4 « ayi yaan ai wa » ; P p.23 futur [à confirmer]",
+    "bələ = avoir, recevoir : P p.118 « recevoir, bêlé » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5094) ; P p.94 « bèlè, avoir, recevoir » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:4717) ; NT Jn 16,24 « miayi bëlë » [attesté]",
+    "mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]",
+    "Bindigan = vérifiez ! (impératif pluriel de bindi) : NT 1 Th 5,21 ; 2 Co 13,5 (forme attestée telle quelle) ; P p.64 impératif pluriel en -gan (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:3008-3020) [attesté]",
+    "abog = temps, moment : NT 1 Th 5,16 « Taan abog asë » (soyez toujours…) ; P p.119 « temps, abok » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5140) [attesté]",
+    "asə = tout (accord de abog) : NT 1 Th 5,16 « abog asë » [attesté]",
+    "taŋ = nombre, numéro : R p.243 « táŋ number » (image PDF 247 ; l'OCR redden-1979-dictionary-pages-188-257.tesseract.txt:2793 a perdu le ŋ) ; P p.115 « nombre, tañ (V) » (image PDF 117 ; OCR pichon-1950-petite-grammaire-ewondo.tesseract.txt:4966 « fan ») ; NT Lc 14,28 « amana bò taṅ » ; N 1913 « Zahl tän » (diesprachederjau00nekeuoft.ia-ocr.txt:8147) [attesté]",
+    "osu = avant, devant : P p.109 « avant, osu » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4636) ; P p.111 « devant, osu » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4766) ; NT Lc 19,28 « akë ai dulu osu » [attesté]",
+    "ya = de (connectif) : P p.111 « de, ya » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4734) [attesté]",
+    "lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]"
+   ]
+  },
+  {
+   "fr": "Ce bénéficiaire n'a jamais été utilisé sur ce compte. Vérifiez le numéro avant de continuer.",
+   "ewondo": "Mod ayi bələ mɔni anə mkpamaŋ. Bindigan taŋ, osu ya kə osu.",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [
+    "P p.19-20 négation : verbe + kik ; ki devant le complément ; -siki pour « ne pas être »"
+   ],
+   "remarque": "Reformulé : « La personne qui recevra l'argent est nouvelle. Vérifiez le numéro avant de continuer. »",
+   "a_confirmer": [
+    "jamais utilisé sur ce compte : reformulé en « nouveau »"
+   ],
+   "source": [
+    "Mod = personne, homme : P p.113 « homme, mot (1) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4870) ; NT Lc 19,8 « mod ziṅ » [attesté]",
+    "ayi = il/elle va… (futur, 3e sg.) : NT Mt 6,4 « ayi yaan ai wa » ; P p.23 futur [à confirmer]",
+    "bələ = avoir, recevoir : P p.118 « recevoir, bêlé » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5094) ; P p.94 « bèlè, avoir, recevoir » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:4717) ; NT Jn 16,24 « miayi bëlë » [attesté]",
+    "mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]",
+    "anə = il/elle est : NT 2 Co 5,17 « anë mkpamaṅ » (il est nouveau) ; P p.10 « être » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt, indicatif présent) [à confirmer]",
+    "mkpamaŋ = nouveau, neuf : P p.115 « neuf (nouveau), mkpamañ » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4955) ; R p.223 « mkpamaŋ new » (redden-1979-dictionary-pages-188-257.tesseract.txt:1926) ; NT 2 Co 5,17 « mkpamaṅ » [attesté]",
+    "Bindigan = vérifiez ! (impératif pluriel de bindi) : NT 1 Th 5,21 ; 2 Co 13,5 (forme attestée telle quelle) ; P p.64 impératif pluriel en -gan (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:3008-3020) [attesté]",
+    "taŋ = nombre, numéro : R p.243 « táŋ number » (image PDF 247 ; l'OCR redden-1979-dictionary-pages-188-257.tesseract.txt:2793 a perdu le ŋ) ; P p.115 « nombre, tañ (V) » (image PDF 117 ; OCR pichon-1950-petite-grammaire-ewondo.tesseract.txt:4966 « fan ») ; NT Lc 14,28 « amana bò taṅ » ; N 1913 « Zahl tän » (diesprachederjau00nekeuoft.ia-ocr.txt:8147) [attesté]",
+    "osu = avant, devant : P p.109 « avant, osu » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4636) ; P p.111 « devant, osu » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4766) ; NT Lc 19,28 « akë ai dulu osu » [attesté]",
+    "ya = de (connectif) : P p.111 « de, ya » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4734) [attesté]",
+    "kə = aller : P p.109 « aller, kë » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4652) ; NT Lc 19,28 « akë … osu » [attesté]"
+   ]
+  },
+  {
+   "fr": "Nom du bénéficiaire",
+   "ewondo": "Dzoe mod ayi bələ mɔni",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [
+    "P p.34 complément du nom : au singulier, pas de préfixe répété (juxtaposition, ton haut non noté)"
+   ],
+   "remarque": "Mot à mot : Dzoe « nom » (P p.115) ; mod « personne, homme » (P p.113) ; ayi « il/elle va… (futur, 3e sg.) » (NT Mt 6,4) ; bələ « avoir, recevoir » (P p.118) ; mɔni « argent » (N 1913).",
+   "a_confirmer": [],
+   "source": [
+    "Dzoe = nom : P p.115 « nom, dzoe » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4965) ; R p.202 « dzoe nose; name » (redden-1979-dictionary-pages-188-257.tesseract.txt:886) ; NT Jn 10,3 « a dzoe » [attesté]",
+    "mod = personne, homme : P p.113 « homme, mot (1) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4870) ; NT Lc 19,8 « mod ziṅ » [attesté]",
+    "ayi = il/elle va… (futur, 3e sg.) : NT Mt 6,4 « ayi yaan ai wa » ; P p.23 futur [à confirmer]",
+    "bələ = avoir, recevoir : P p.118 « recevoir, bêlé » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5094) ; P p.94 « bèlè, avoir, recevoir » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:4717) ; NT Jn 16,24 « miayi bëlë » [attesté]",
+    "mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]"
+   ]
+  },
+  {
+   "fr": "Numéro de téléphone",
+   "ewondo": "Taŋ nkoo",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [
+    "P p.34 complément du nom : au singulier, pas de préfixe répété (juxtaposition, ton haut non noté)"
+   ],
+   "remarque": "nkoo = téléphone (R, N 1913).",
+   "a_confirmer": [],
+   "source": [
+    "Taŋ = nombre, numéro : R p.243 « táŋ number » (image PDF 247 ; l'OCR redden-1979-dictionary-pages-188-257.tesseract.txt:2793 a perdu le ŋ) ; P p.115 « nombre, tañ (V) » (image PDF 117 ; OCR pichon-1950-petite-grammaire-ewondo.tesseract.txt:4966 « fan ») ; NT Lc 14,28 « amana bò taṅ » ; N 1913 « Zahl tän » (diesprachederjau00nekeuoft.ia-ocr.txt:8147) [attesté]",
+    "nkoo = ligne, corde ; téléphone : R p.234 « ŋkoo line, cord, band; telephone » (redden-1979-dictionary-pages-188-257.tesseract.txt:2412) ; N 1913 « nkö(l) Strick, Telephon » (diesprachederjau00nekeuoft.ia-ocr.txt:6251) [calque]"
+   ]
+  },
+  {
+   "fr": "Téléphone",
+   "ewondo": "Nkoo",
+   "type": "phrase",
+   "certitude": "attesté",
+   "regles": [],
+   "remarque": "R p.234 « ŋkoo … telephone » ; N 1913 « nkö(l) Telephon ».",
+   "a_confirmer": [],
+   "source": [
+    "Nkoo = ligne, corde ; téléphone : R p.234 « ŋkoo line, cord, band; telephone » (redden-1979-dictionary-pages-188-257.tesseract.txt:2412) ; N 1913 « nkö(l) Strick, Telephon » (diesprachederjau00nekeuoft.ia-ocr.txt:6251) [calque]"
+   ]
+  },
+  {
+   "fr": "Motif du transfert",
+   "ewondo": "Amu lom",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "amu = cause, parce que (P p.110 « cause (à… de), amu »).",
+   "a_confirmer": [],
+   "source": [
+    "Amu = cause, parce que : P p.110 « cause (à… de), amu » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4709) [attesté]",
+    "lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]"
+   ]
+  },
+  {
+   "fr": "Note (optionnel)",
+   "ewondo": "Foe (ngë wayi)",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« Message (si tu veux) ».",
+   "a_confirmer": [
+    "optionnel : rendu par « si tu veux »"
+   ],
+   "source": [
+    "Foe = nouvelle, message : P p.116 « nouvelle, foe » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4977) ; R p.204 « foe news » (redden-1979-dictionary-pages-188-257.tesseract.txt:1001) ; NT Lc 10,7 « mbëmbë foe » [attesté]",
+    "ngë = si, quand : P p.14 (PDF p.16) « ngè, si, quand » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:554) ; NT Mt 5,37 « ngë ki na » [attesté]",
+    "wayi = tu veux : P p.63 « Wayi na abò ya ? » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:2969) ; P p.120 « vouloir, yé » (tesseract.txt:5193) [à confirmer]"
+   ]
+  },
+  {
+   "fr": "J'ai vérifié le nom et le numéro du bénéficiaire.",
+   "ewondo": "Məngabindi dzoe ai taŋ mod ayi bələ mɔni.",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [
+    "P p.60 passé composé mə-nga- + verbe (mengadin, ongadin, angadin) ; NT Lc 14,18 « Mëngakus afub »"
+   ],
+   "remarque": "« J'ai vérifié le nom et le numéro de la personne qui reçoit l'argent » : passé mə-nga- (P p.60 « mengadin, j'ai aimé » ; NT Lc 14,18 « Mëngakus ») + bindi (NT 1 Th 5,21).",
+   "a_confirmer": [],
+   "source": [
+    "Məngabindi = j'ai vérifié (passé mə-nga- + bindi) : P p.60 passé « mengadin, ongadin, angadin… » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:2390) ; NT Lc 14,18 « Mëngakus afub » (j'ai acheté) ; NT 1 Th 5,21 « bindigan » (radical bindi) [à confirmer]",
+    "dzoe = nom : P p.115 « nom, dzoe » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4965) ; R p.202 « dzoe nose; name » (redden-1979-dictionary-pages-188-257.tesseract.txt:886) ; NT Jn 10,3 « a dzoe » [attesté]",
+    "ai = avec, et : P p.14 (PDF p.16) vocabulaire « ai, et, avec » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:553) ; P p.112 « et, di, ayi » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4799) ; NT Jn 20,21 « Mvoè ai mina » [attesté]",
+    "taŋ = nombre, numéro : R p.243 « táŋ number » (image PDF 247 ; l'OCR redden-1979-dictionary-pages-188-257.tesseract.txt:2793 a perdu le ŋ) ; P p.115 « nombre, tañ (V) » (image PDF 117 ; OCR pichon-1950-petite-grammaire-ewondo.tesseract.txt:4966 « fan ») ; NT Lc 14,28 « amana bò taṅ » ; N 1913 « Zahl tän » (diesprachederjau00nekeuoft.ia-ocr.txt:8147) [attesté]",
+    "mod = personne, homme : P p.113 « homme, mot (1) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4870) ; NT Lc 19,8 « mod ziṅ » [attesté]",
+    "ayi = il/elle va… (futur, 3e sg.) : NT Mt 6,4 « ayi yaan ai wa » ; P p.23 futur [à confirmer]",
+    "bələ = avoir, recevoir : P p.118 « recevoir, bêlé » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5094) ; P p.94 « bèlè, avoir, recevoir » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:4717) ; NT Jn 16,24 « miayi bëlë » [attesté]",
+    "mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]"
+   ]
+  },
+  {
+   "fr": "Veuillez renseigner le nom et le numéro du bénéficiaire.",
+   "ewondo": "Makogəlan ai wa na otilig dzoe ai taŋ mod ayi bələ mɔni.",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [
+    "P p.65 double impératif : le 2e ordre se met au subjonctif (o- au sg., P p.62 « que tu aimes, odin »)"
+   ],
+   "remarque": "« Je te prie d'écrire le nom et le numéro… » : formule NT Ac 21,39 « makogëlan ai wa na … » + subjonctif (P p.62).",
+   "a_confirmer": [],
+   "source": [
+    "Makogəlan = je (te) prie : NT Ac 21,39 « Ndò makogëlan ai wa na … » ; P p.117 « prier, kogelan » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5038) ; R p.214 « kogelan pray, beg, ask » (redden-1979-dictionary-pages-188-257.tesseract.txt:1524) [attesté]",
+    "ai = avec, et : P p.14 (PDF p.16) vocabulaire « ai, et, avec » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:553) ; P p.112 « et, di, ayi » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4799) ; NT Jn 20,21 « Mvoè ai mina » [attesté]",
+    "wa = toi : P p.52 « 2e » Wa, te ; mina, vous » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:2043) ; R p.247 « wa you (sg.) » (redden-1979-dictionary-pages-188-257.tesseract.txt:2972) ; NT Ac 21,39 « ai wa » [attesté]",
+    "na = que (conjonction) : P p.117 « pour que, na » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5032) ; NT Mt 24,4 « Boan okala na të badug mina » [attesté]",
+    "otilig = que tu écrives (subjonctif 2e sg. de tilig) : P p.62 subjonctif « medin, odiñ… » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:2944) ; NT Ap 21,5 « Tilig » [à confirmer]",
+    "dzoe = nom : P p.115 « nom, dzoe » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4965) ; R p.202 « dzoe nose; name » (redden-1979-dictionary-pages-188-257.tesseract.txt:886) ; NT Jn 10,3 « a dzoe » [attesté]",
+    "taŋ = nombre, numéro : R p.243 « táŋ number » (image PDF 247 ; l'OCR redden-1979-dictionary-pages-188-257.tesseract.txt:2793 a perdu le ŋ) ; P p.115 « nombre, tañ (V) » (image PDF 117 ; OCR pichon-1950-petite-grammaire-ewondo.tesseract.txt:4966 « fan ») ; NT Lc 14,28 « amana bò taṅ » ; N 1913 « Zahl tän » (diesprachederjau00nekeuoft.ia-ocr.txt:8147) [attesté]",
+    "mod = personne, homme : P p.113 « homme, mot (1) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4870) ; NT Lc 19,8 « mod ziṅ » [attesté]",
+    "ayi = il/elle va… (futur, 3e sg.) : NT Mt 6,4 « ayi yaan ai wa » ; P p.23 futur [à confirmer]",
+    "bələ = avoir, recevoir : P p.118 « recevoir, bêlé » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5094) ; P p.94 « bèlè, avoir, recevoir » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:4717) ; NT Jn 16,24 « miayi bëlë » [attesté]",
+    "mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]"
+   ]
+  },
+  {
+   "fr": "Alerte de sécurité",
+   "ewondo": "Boan okala",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "NT Mt 24,4 « Boan okala » (prenez garde), employé pour « alerte ».",
+   "a_confirmer": [],
+   "source": [
+    "Boan = faites (dans boan okala = prenez garde) : NT Mt 24,4 « Boan okala na të badug mina » ; P p.63 impératif pluriel « bòan, faites » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:2996) [à confirmer]",
+    "okala = attention (dans boan okala) : NT Mt 24,4 ; P p.109 « attention (faire), kala » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4673) [attesté]"
+   ]
+  },
+  {
+   "fr": "Alerte de sécurité : vérifiez le numéro du bénéficiaire avant de continuer.",
+   "ewondo": "Boan okala : bindigan taŋ mod ayi bələ mɔni, osu ya kə osu.",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [
+    "P p.63-64 impératif (sg. -ak/-k, pl. -an/-gan)"
+   ],
+   "remarque": "Mot à mot : Boan « faites (dans boan okala = prenez garde) » (NT Mt 24,4) ; okala « attention (dans boan okala) » (NT Mt 24,4) ; bindigan « vérifiez ! (impératif pluriel de bindi) » (NT 1 Th 5,21) ; taŋ « nombre, numéro » (R p.243) ; mod « personne, homme » (P p.113) ; ayi « il/elle va… (futur, 3e sg.) » (NT Mt 6,4) ; bələ « avoir, recevoir » (P p.118) ; mɔni « argent » (N 1913) ; osu « avant, devant » (P p.109) ; ya « de (connectif) » (P p.111) ; kə « aller » (P p.109).",
+   "a_confirmer": [],
+   "source": [
+    "Boan = faites (dans boan okala = prenez garde) : NT Mt 24,4 « Boan okala na të badug mina » ; P p.63 impératif pluriel « bòan, faites » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:2996) [à confirmer]",
+    "okala = attention (dans boan okala) : NT Mt 24,4 ; P p.109 « attention (faire), kala » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4673) [attesté]",
+    "bindigan = vérifiez ! (impératif pluriel de bindi) : NT 1 Th 5,21 ; 2 Co 13,5 (forme attestée telle quelle) ; P p.64 impératif pluriel en -gan (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:3008-3020) [attesté]",
+    "taŋ = nombre, numéro : R p.243 « táŋ number » (image PDF 247 ; l'OCR redden-1979-dictionary-pages-188-257.tesseract.txt:2793 a perdu le ŋ) ; P p.115 « nombre, tañ (V) » (image PDF 117 ; OCR pichon-1950-petite-grammaire-ewondo.tesseract.txt:4966 « fan ») ; NT Lc 14,28 « amana bò taṅ » ; N 1913 « Zahl tän » (diesprachederjau00nekeuoft.ia-ocr.txt:8147) [attesté]",
+    "mod = personne, homme : P p.113 « homme, mot (1) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4870) ; NT Lc 19,8 « mod ziṅ » [attesté]",
+    "ayi = il/elle va… (futur, 3e sg.) : NT Mt 6,4 « ayi yaan ai wa » ; P p.23 futur [à confirmer]",
+    "bələ = avoir, recevoir : P p.118 « recevoir, bêlé » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5094) ; P p.94 « bèlè, avoir, recevoir » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:4717) ; NT Jn 16,24 « miayi bëlë » [attesté]",
+    "mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]",
+    "osu = avant, devant : P p.109 « avant, osu » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4636) ; P p.111 « devant, osu » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4766) ; NT Lc 19,28 « akë ai dulu osu » [attesté]",
+    "ya = de (connectif) : P p.111 « de, ya » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4734) [attesté]",
+    "kə = aller : P p.109 « aller, kë » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4652) ; NT Lc 19,28 « akë … osu » [attesté]"
+   ]
+  },
+  {
+   "fr": "Alerte de sécurité : ce bénéficiaire n'a jamais été utilisé sur ce compte.",
+   "ewondo": "Boan okala : mod ayi bələ mɔni anə mkpamaŋ.",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« Prenez garde : la personne qui recevra l'argent est nouvelle. »",
+   "a_confirmer": [
+    "jamais utilisé : reformulé en « nouveau »"
+   ],
+   "source": [
+    "Boan = faites (dans boan okala = prenez garde) : NT Mt 24,4 « Boan okala na të badug mina » ; P p.63 impératif pluriel « bòan, faites » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:2996) [à confirmer]",
+    "okala = attention (dans boan okala) : NT Mt 24,4 ; P p.109 « attention (faire), kala » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4673) [attesté]",
+    "mod = personne, homme : P p.113 « homme, mot (1) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4870) ; NT Lc 19,8 « mod ziṅ » [attesté]",
+    "ayi = il/elle va… (futur, 3e sg.) : NT Mt 6,4 « ayi yaan ai wa » ; P p.23 futur [à confirmer]",
+    "bələ = avoir, recevoir : P p.118 « recevoir, bêlé » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5094) ; P p.94 « bèlè, avoir, recevoir » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:4717) ; NT Jn 16,24 « miayi bëlë » [attesté]",
+    "mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]",
+    "anə = il/elle est : NT 2 Co 5,17 « anë mkpamaṅ » (il est nouveau) ; P p.10 « être » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt, indicatif présent) [à confirmer]",
+    "mkpamaŋ = nouveau, neuf : P p.115 « neuf (nouveau), mkpamañ » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4955) ; R p.223 « mkpamaŋ new » (redden-1979-dictionary-pages-188-257.tesseract.txt:1926) ; NT 2 Co 5,17 « mkpamaṅ » [attesté]"
+   ]
+  },
+  {
+   "fr": "Erreur réseau : le service est temporairement indisponible. Réessayez.",
+   "ewondo": "Evus nkoo : esye esiki etetəg nyɔ. Dugan kiege.",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [
+    "P p.19-20 négation : verbe + kik ; ki devant le complément ; -siki pour « ne pas être »"
+   ],
+   "remarque": "« Faute de ligne : le service n'est pas là maintenant. Essaie de nouveau. » (dugan + verbe = refaire, NT Jn 20,21).",
+   "a_confirmer": [
+    "réseau : rendu par nkoo « ligne »"
+   ],
+   "source": [
+    "Evus = faute, erreur : P p.112 « faute, evus (IV) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4822) [attesté]",
+    "nkoo = ligne, corde ; téléphone : R p.234 « ŋkoo line, cord, band; telephone » (redden-1979-dictionary-pages-188-257.tesseract.txt:2412) ; N 1913 « nkö(l) Strick, Telephon » (diesprachederjau00nekeuoft.ia-ocr.txt:6251) [calque]",
+    "esye = travail, service : P p.120 « travail, esye » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5165) ; R p.209 « esie work, job » (redden-1979-dictionary-pages-188-257.tesseract.txt:1256) ; NT Ac 20,24 « esye ya Nti » [attesté]",
+    "esiki = n'est pas (accord classe e-, sujet esye) : P p.19-20 -siki (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:806-866) ; P p.38 accord e- « enòn mòngò enè abòt » (ia-ocr.txt:1675) [à confirmer]",
+    "etetəg = maintenant (avec nyɔ) : P p.114 « maintenant, etëtëg nyò » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4922) ; N 1911 « e'teteg-no jetzt » (lehrbuchderjaund00nekeuoft.ia-ocr.txt:2530) [attesté]",
+    "nyɔ = ce…-ci (dans etetəg nyɔ) : P p.114 « etëtëg nyò » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4922) [attesté]",
+    "Dugan = retourner ; refaire : P p.118 « retourner, dugan » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5112) ; R p.200 « dugan go back, return; do/be again/over » (redden-1979-dictionary-pages-188-257.tesseract.txt:827) ; NT Jn 20,21 « Yesus adugan dzo » (dit de nouveau) [attesté]",
+    "kiege = essayer, éprouver : R p.213 « kiege taste, test, try » (redden-1979-dictionary-pages-188-257.tesseract.txt:1472) ; N 1911 « kiege probieren » (lehrbuchderjaund00nekeuoft.ia-ocr.txt:10388) [calque]"
+   ]
+  },
+  {
+   "fr": "Vérifiez les informations avant de confirmer le transfert.",
+   "ewondo": "Bindigan mam məsə osu ya lom mɔni.",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [
+    "P p.63-64 impératif (sg. -ak/-k, pl. -an/-gan)"
+   ],
+   "remarque": "« Examinez toutes les choses avant d'envoyer l'argent » (NT 1 Th 5,21).",
+   "a_confirmer": [],
+   "source": [
+    "Bindigan = vérifiez ! (impératif pluriel de bindi) : NT 1 Th 5,21 ; 2 Co 13,5 (forme attestée telle quelle) ; P p.64 impératif pluriel en -gan (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:3008-3020) [attesté]",
+    "mam = choses, affaires (pluriel de dzam) : NT 1 Th 5,21 « mam mësë » ; Lc 19,11 « e mam ma » ; P p.109 « affaire, dzam » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4643) [attesté]",
+    "məsə = tous (accord de mam) : NT 1 Th 5,21 « mam mësë » [attesté]",
+    "osu = avant, devant : P p.109 « avant, osu » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4636) ; P p.111 « devant, osu » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4766) ; NT Lc 19,28 « akë ai dulu osu » [attesté]",
+    "ya = de (connectif) : P p.111 « de, ya » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4734) [attesté]",
+    "lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]",
+    "mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]"
+   ]
+  },
+  {
+   "fr": "Montant",
+   "ewondo": "Taŋ mɔni",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [
+    "P p.34 complément du nom : au singulier, pas de préfixe répété (juxtaposition, ton haut non noté)"
+   ],
+   "remarque": "« Nombre d'argent ».",
+   "a_confirmer": [],
+   "source": [
+    "Taŋ = nombre, numéro : R p.243 « táŋ number » (image PDF 247 ; l'OCR redden-1979-dictionary-pages-188-257.tesseract.txt:2793 a perdu le ŋ) ; P p.115 « nombre, tañ (V) » (image PDF 117 ; OCR pichon-1950-petite-grammaire-ewondo.tesseract.txt:4966 « fan ») ; NT Lc 14,28 « amana bò taṅ » ; N 1913 « Zahl tän » (diesprachederjau00nekeuoft.ia-ocr.txt:8147) [attesté]",
+    "mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]"
+   ]
+  },
+  {
+   "fr": "Total débité",
+   "ewondo": "Mɔni osə",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« Tout l'argent ».",
+   "a_confirmer": [
+    "débité : non rendu"
+   ],
+   "source": [
+    "Mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]",
+    "osə = tout (accord classe 3, o-/w-) : NT Lc 19,47 « amos osë », 19,48 « nnam osë » [attesté]"
+   ]
+  },
+  {
+   "fr": "Référence",
+   "ewondo": "Taŋ lom",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [
+    "P p.34 complément du nom : au singulier, pas de préfixe répété (juxtaposition, ton haut non noté)"
+   ],
+   "remarque": "« Numéro de l'envoi ».",
+   "a_confirmer": [
+    "référence : rendu par « numéro »"
+   ],
+   "source": [
+    "Taŋ = nombre, numéro : R p.243 « táŋ number » (image PDF 247 ; l'OCR redden-1979-dictionary-pages-188-257.tesseract.txt:2793 a perdu le ŋ) ; P p.115 « nombre, tañ (V) » (image PDF 117 ; OCR pichon-1950-petite-grammaire-ewondo.tesseract.txt:4966 « fan ») ; NT Lc 14,28 « amana bò taṅ » ; N 1913 « Zahl tän » (diesprachederjau00nekeuoft.ia-ocr.txt:8147) [attesté]",
+    "lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]"
+   ]
+  },
+  {
+   "fr": "Opération",
+   "ewondo": "Lom",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "« Envoi ».",
+   "a_confirmer": [],
+   "source": [
+    "Lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]"
+   ]
+  },
+  {
+   "fr": "Je confirme que les informations ci-dessus sont correctes.",
+   "ewondo": "Makad na mam ma a yob mənə bəbəla.",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« Je dis que les choses en haut sont vraies » (NT Lc 19,26 « Makad mina na… »).",
+   "a_confirmer": [],
+   "source": [
+    "Makad = je dis : NT Lc 19,26 « Makad mina na… » (je vous dis que…) ; P p.112 « dire, kad » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4774) [à confirmer]",
+    "na = que (conjonction) : P p.117 « pour que, na » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5032) ; NT Mt 24,4 « Boan okala na të badug mina » [attesté]",
+    "mam = choses, affaires (pluriel de dzam) : NT 1 Th 5,21 « mam mësë » ; Lc 19,11 « e mam ma » ; P p.109 « affaire, dzam » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4643) [attesté]",
+    "ma = ces (démonstratif, accord de mam) ; je (pronom) : NT Lc 19,11 « e mam ma » ; P p.114 « je, moi, ma, me » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4907) [attesté]",
+    "a = à, dans (locatif) : P p.111 « dans, a, etere » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4731) ; NT Lc 19,23 « vë mòni wama a baṅ » [attesté]",
+    "yob = haut (a yob = en haut, dessus) : P p.29 « a yob, sur, en haut » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:995) ; NT Lc 10,20 « ntilan a yob » [attesté]",
+    "mənə = (elles) sont — accord me-/mə- : P p.20 « menë ayo » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:864) ; NT Ap 21,5 « binë bëbëla » (même tournure, classe bi-) [à confirmer]",
+    "bəbəla = vrai, vérité : P p.120 « vérité, vrai, bébéla » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5201) ; NT Ap 21,5 « bibug bi binë bëbëla » [attesté]"
+   ]
+  },
+  {
+   "fr": "Modifier",
+   "ewondo": "Tsɛndɛ",
+   "type": "phrase",
+   "certitude": "attesté",
+   "regles": [],
+   "remarque": "R p.245 « tséndé change ».",
+   "a_confirmer": [],
+   "source": [
+    "Tsɛndɛ = changer : R p.245 « tséndé change, exchange » (redden-1979-dictionary-pages-188-257.tesseract.txt:2887) [attesté]"
+   ]
+  },
+  {
+   "fr": "Confirmer le transfert",
+   "ewondo": "Lom mɔni",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« Envoyer l'argent » (le bouton déclenche l'envoi).",
+   "a_confirmer": [
+    "confirmer : rendu par l'action « envoyer »"
+   ],
+   "source": [
+    "Lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]",
+    "mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]"
+   ]
+  },
+  {
+   "fr": "Vous devez confirmer les informations avant de valider le transfert.",
+   "ewondo": "Bindigan mam məsə osu ya lom mɔni.",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [
+    "P p.63-64 impératif (sg. -ak/-k, pl. -an/-gan)"
+   ],
+   "remarque": "Même sens que l'invite du récapitulatif.",
+   "a_confirmer": [
+    "devoir : non rendu"
+   ],
+   "source": [
+    "Bindigan = vérifiez ! (impératif pluriel de bindi) : NT 1 Th 5,21 ; 2 Co 13,5 (forme attestée telle quelle) ; P p.64 impératif pluriel en -gan (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:3008-3020) [attesté]",
+    "mam = choses, affaires (pluriel de dzam) : NT 1 Th 5,21 « mam mësë » ; Lc 19,11 « e mam ma » ; P p.109 « affaire, dzam » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4643) [attesté]",
+    "məsə = tous (accord de mam) : NT 1 Th 5,21 « mam mësë » [attesté]",
+    "osu = avant, devant : P p.109 « avant, osu » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4636) ; P p.111 « devant, osu » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4766) ; NT Lc 19,28 « akë ai dulu osu » [attesté]",
+    "ya = de (connectif) : P p.111 « de, ya » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4734) [attesté]",
+    "lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]",
+    "mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]"
+   ]
+  },
+  {
+   "fr": "Transfert effectué",
+   "ewondo": "Lom aman ya",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "« L'envoi est achevé » (NT Jn 19,30).",
+   "a_confirmer": [],
+   "source": [
+    "Lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]",
+    "aman = c'est achevé (aman ya) : NT Jn 19,30 « aman ya » (Tout est accompli) ; P p.119 « terminer, mana » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5143) ; R p.218 « man finish, complete » (redden-1979-dictionary-pages-188-257.tesseract.txt:1692) [attesté]",
+    "ya = de (connectif) : P p.111 « de, ya » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4734) [attesté]"
+   ]
+  },
+  {
+   "fr": "Votre transfert a été envoyé avec succès.",
+   "ewondo": "Lom mɔni wan aman ya.",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« Votre argent est achevé d'être envoyé. »",
+   "a_confirmer": [],
+   "source": [
+    "Lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]",
+    "mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]",
+    "wan = votre, notre (possessif, 1re/2e/6e classe sg.) : P p.43-44 tableau des possessifs, lu sur l'image PDF p.45-46 (pichon-1950-petite-grammaire-ewondo.pdf) : « 1re cl. mòn wòm woe woe wan wan waban » [attesté]",
+    "aman = c'est achevé (aman ya) : NT Jn 19,30 « aman ya » (Tout est accompli) ; P p.119 « terminer, mana » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5143) ; R p.218 « man finish, complete » (redden-1979-dictionary-pages-188-257.tesseract.txt:1692) [attesté]",
+    "ya = de (connectif) : P p.111 « de, ya » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4734) [attesté]"
+   ]
+  },
+  {
+   "fr": "Statut",
+   "ewondo": "Mbol",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« Manière, état ».",
+   "a_confirmer": [
+    "statut : rendu par mbol « manière »"
+   ],
+   "source": [
+    "Mbol = manière, façon : P p.115 « manière, mbol » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4938) [calque]"
+   ]
+  },
+  {
+   "fr": "Succès",
+   "ewondo": "Aman ya",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "NT Jn 19,30 « aman ya » (c'est achevé), employé pour « succès ».",
+   "a_confirmer": [],
+   "source": [
+    "Aman = c'est achevé (aman ya) : NT Jn 19,30 « aman ya » (Tout est accompli) ; P p.119 « terminer, mana » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5143) ; R p.218 « man finish, complete » (redden-1979-dictionary-pages-188-257.tesseract.txt:1692) [attesté]",
+    "ya = de (connectif) : P p.111 « de, ya » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4734) [attesté]"
+   ]
+  },
+  {
+   "fr": "Nouveau transfert",
+   "ewondo": "Lom mkpamaŋ",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "« Envoi nouveau ».",
+   "a_confirmer": [],
+   "source": [
+    "Lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]",
+    "mkpamaŋ = nouveau, neuf : P p.115 « neuf (nouveau), mkpamañ » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4955) ; R p.223 « mkpamaŋ new » (redden-1979-dictionary-pages-188-257.tesseract.txt:1926) ; NT 2 Co 5,17 « mkpamaṅ » [attesté]"
+   ]
+  },
+  {
+   "fr": "Message important",
+   "ewondo": "Foe mfaŋ",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "« Nouvelle importante ».",
+   "a_confirmer": [],
+   "source": [
+    "Foe = nouvelle, message : P p.116 « nouvelle, foe » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4977) ; R p.204 « foe news » (redden-1979-dictionary-pages-188-257.tesseract.txt:1001) ; NT Lc 10,7 « mbëmbë foe » [attesté]",
+    "mfaŋ = important, vrai : P p.114 « important, mfañ » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4892) ; R p.222 « mfan good, real, true, special, important » (redden-1979-dictionary-pages-188-257.tesseract.txt:1873) [attesté]"
+   ]
+  },
+  {
+   "fr": "Solde insuffisant",
+   "ewondo": "Mɔni wan osiki abui",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [
+    "P p.19-20 négation : verbe + kik ; ki devant le complément ; -siki pour « ne pas être »"
+   ],
+   "remarque": "Mot à mot : Mɔni « argent » (N 1913) ; wan « votre, notre (possessif, 1re/2e/6e classe sg.) » (P p.43-44) ; osiki « n'est pas (accord classe 3 o-, sujet mɔni) » (P p.19) ; abui « beaucoup » (P p.109).",
+   "a_confirmer": [],
+   "source": [
+    "Mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]",
+    "wan = votre, notre (possessif, 1re/2e/6e classe sg.) : P p.43-44 tableau des possessifs, lu sur l'image PDF p.45-46 (pichon-1950-petite-grammaire-ewondo.pdf) : « 1re cl. mòn wòm woe woe wan wan waban » [attesté]",
+    "osiki = n'est pas (accord classe 3 o-, sujet mɔni) : P p.19 « être » négatif -sikik : asikik, bisikik… (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:806-811) ; NT Lc 19,16 accord o- (« nsaṅ mòni woe obye ») [à confirmer]",
+    "abui = beaucoup : P p.109 « beaucoup, abui » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4665) [attesté]"
+   ]
+  },
+  {
+   "fr": "Erreur réseau",
+   "ewondo": "Evus nkoo",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [
+    "P p.34 complément du nom : au singulier, pas de préfixe répété (juxtaposition, ton haut non noté)"
+   ],
+   "remarque": "Mot à mot : Evus « faute, erreur » (P p.112) ; nkoo « ligne, corde ; téléphone » (R p.234).",
+   "a_confirmer": [],
+   "source": [
+    "Evus = faute, erreur : P p.112 « faute, evus (IV) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4822) [attesté]",
+    "nkoo = ligne, corde ; téléphone : R p.234 « ŋkoo line, cord, band; telephone » (redden-1979-dictionary-pages-188-257.tesseract.txt:2412) ; N 1913 « nkö(l) Strick, Telephon » (diesprachederjau00nekeuoft.ia-ocr.txt:6251) [calque]"
+   ]
+  },
+  {
+   "fr": "Français",
+   "ewondo": "Fransi",
+   "type": "phrase",
+   "certitude": "attesté",
+   "regles": [],
+   "remarque": "H 1919 « Fransi ».",
+   "a_confirmer": [],
+   "source": [
+    "Fransi = français (emprunt) : H 1919 « Fransi » (jaundetextevonka00heepuoft.ia-ocr.txt:23288) [attesté]"
+   ]
+  },
+  {
+   "fr": "Panneau jury",
+   "ewondo": "Esye bod bə nkat",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [
+    "P p.34 complément du nom : au singulier, pas de préfixe répété (juxtaposition, ton haut non noté)"
+   ],
+   "remarque": "« Travail des gens du jugement » : esye (NT Ac 20,24) ; jury = bod bə nkat (voir « Jury »).",
+   "a_confirmer": [
+    "jury : aucun terme attesté"
+   ],
+   "source": [
+    "Esye = travail, service : P p.120 « travail, esye » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5165) ; R p.209 « esie work, job » (redden-1979-dictionary-pages-188-257.tesseract.txt:1256) ; NT Ac 20,24 « esye ya Nti » [attesté]",
+    "bod = gens (pluriel de mod) : NT Lc 19,45 « bod bë mëkit » ; P p.113 « homme, mot (1) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4870) [attesté]",
+    "bə = connectif pluriel (classe bo-/bə-) : NT Lc 19,45 « bod bë mëkit » ; P p.34 « Bòn be nkukuma » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:1547) [attesté]",
+    "nkat = jugement : P p.103 « nkat (II), jugement » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4382) [attesté]"
+   ]
+  },
+  {
+   "fr": "Outil interne Safinum — non fourni aux équipes",
+   "ewondo": "Esye Safinum — bayi ki və bod.",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [
+    "P p.23 futur : ma-/wa-/a-/bi-/mi-/ba- + yi + verbe (« bayi », « ayi »)",
+    "P p.19-20 négation : verbe + kik ; ki devant le complément ; -siki pour « ne pas être »"
+   ],
+   "remarque": "« Travail de Safinum — on ne le donnera pas aux gens. »",
+   "a_confirmer": [
+    "outil interne / équipes : approximés"
+   ],
+   "source": [
+    "Esye = travail, service : P p.120 « travail, esye » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5165) ; R p.209 « esie work, job » (redden-1979-dictionary-pages-188-257.tesseract.txt:1256) ; NT Ac 20,24 « esye ya Nti » [attesté]",
+    "bayi = on (ils) va/vont… (futur, 3e pl.) : NT Lc 19,26 « bayi vë e mod » ; P p.23 futur (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt, « Futur des verbes » p.23) [à confirmer]",
+    "ki = ne… pas (devant le complément / au futur) : P p.20 « mayen ki mintomba… Mayi ki nyu mendim » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:867-868) ; NT Ac 20,24 « madaṅ ki » [attesté]",
+    "və = donner : P p.112 « donner, vê ou hë » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4783) ; NT Lc 19,26 « bayi vë » [attesté]",
+    "bod = gens (pluriel de mod) : NT Lc 19,45 « bod bë mëkit » ; P p.113 « homme, mot (1) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4870) [attesté]"
+   ]
+  },
+  {
+   "fr": "Contrôle",
+   "ewondo": "Bindi",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "Mot à mot : Bindi « examiner, vérifier » (NT 1 Th 5,21).",
+   "a_confirmer": [],
+   "source": [
+    "Bindi = examiner, vérifier : NT 1 Th 5,21 « bindigan mam mësë » (examinez toutes choses) ; 2 Co 13,5 « bindigan » [attesté]"
+   ]
+  },
+  {
+   "fr": "Soumissions",
+   "ewondo": "Lom",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "« Envois ».",
+   "a_confirmer": [],
+   "source": [
+    "Lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]"
+   ]
+  },
+  {
+   "fr": "Couverture",
+   "ewondo": "Timi",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "timi = traduire (P p.64).",
+   "a_confirmer": [
+    "couverture : rendu par « traduire »"
+   ],
+   "source": [
+    "Timi = traduire : P p.64 « timi, traduire ; impératif timini, timinan » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:3055) ; P p.119 « traduire, fimi » (tesseract.txt:5157, OCR) [attesté]"
+   ]
+  },
+  {
+   "fr": "Injecter du contenu inédit",
+   "ewondo": "Tilig foe mkpamaŋ",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [
+    "P p.63-64 impératif (sg. -ak/-k, pl. -an/-gan)"
+   ],
+   "remarque": "« Écris un message nouveau ».",
+   "a_confirmer": [],
+   "source": [
+    "Tilig = écris ! (impératif singulier de til) : NT Ap 21,5 « Tilig » ; P p.112 « écrire, til » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4814) [attesté]",
+    "foe = nouvelle, message : P p.116 « nouvelle, foe » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4977) ; R p.204 « foe news » (redden-1979-dictionary-pages-188-257.tesseract.txt:1001) ; NT Lc 10,7 « mbëmbë foe » [attesté]",
+    "mkpamaŋ = nouveau, neuf : P p.115 « neuf (nouveau), mkpamañ » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4955) ; R p.223 « mkpamaŋ new » (redden-1979-dictionary-pages-188-257.tesseract.txt:1926) ; NT 2 Co 5,17 « mkpamaṅ » [attesté]"
+   ]
+  },
+  {
+   "fr": "Texte affiché dans la page après chargement. L'extension doit le traduire sans hook dédié.",
+   "ewondo": "Foe ntilan a mvus. Bayi timi foe te tə ai nlɔb.",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [
+    "P p.23 futur : ma-/wa-/a-/bi-/mi-/ba- + yi + verbe (« bayi », « ayi »)"
+   ],
+   "remarque": "« Message écrit après ; on traduira ce message sans hameçon. » Sans hook = tə ai nlɔb (P p.118 « sans, të ai » ; P p.113 « hameçon, nlòb »).",
+   "a_confirmer": [
+    "page, chargement, extension : termes techniques non attestés, approximés"
+   ],
+   "source": [
+    "Foe = nouvelle, message : P p.116 « nouvelle, foe » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4977) ; R p.204 « foe news » (redden-1979-dictionary-pages-188-257.tesseract.txt:1001) ; NT Lc 10,7 « mbëmbë foe » [attesté]",
+    "ntilan = écrit (ce qui est écrit) : NT Lc 10,20 « moe mënë mina ntilan a yob » ; Lc 19,46 « Anë ntilan na » [attesté]",
+    "a = à, dans (locatif) : P p.111 « dans, a, etere » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4731) ; NT Lc 19,23 « vë mòni wama a baṅ » [attesté]",
+    "mvus = derrière, après : P p.111 « derrière… mvus » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4756) ; R p.193 « amvus back, behind; later after(wards) » (redden-1979-dictionary-pages-188-257.tesseract.txt:457) [attesté]",
+    "Bayi = on (ils) va/vont… (futur, 3e pl.) : NT Lc 19,26 « bayi vë e mod » ; P p.23 futur (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt, « Futur des verbes » p.23) [à confirmer]",
+    "timi = traduire : P p.64 « timi, traduire ; impératif timini, timinan » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:3055) ; P p.119 « traduire, fimi » (tesseract.txt:5157, OCR) [attesté]",
+    "foe = nouvelle, message : P p.116 « nouvelle, foe » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4977) ; R p.204 « foe news » (redden-1979-dictionary-pages-188-257.tesseract.txt:1001) ; NT Lc 10,7 « mbëmbë foe » [attesté]",
+    "te = ce…-là : NT Lc 10,7 « a nda te » ; Lc 19,5 « hom te » [attesté]",
+    "tə = ne… pas (défense) : NT Ph 4,6 « Të miasaṅan » ; Lc 10,20 « të miadaṅ tag » [attesté]",
+    "ai = avec, et : P p.14 (PDF p.16) vocabulaire « ai, et, avec » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:553) ; P p.112 « et, di, ayi » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4799) ; NT Jn 20,21 « Mvoè ai mina » [attesté]",
+    "nlɔb = hameçon (« hook ») : P p.113 « hameçon, nlòb (II) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4861) ; NT Mt 17,27 « këlë woa nlòb a maṅ » [calque]"
+   ]
+  },
+  {
+   "fr": "ex. Un message important pour les clients…",
+   "ewondo": "Foe mfaŋ asu bod…",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« Message important pour les gens… » (« ex. » omis).",
+   "a_confirmer": [
+    "ex. (par exemple) : omis"
+   ],
+   "source": [
+    "Foe = nouvelle, message : P p.116 « nouvelle, foe » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4977) ; R p.204 « foe news » (redden-1979-dictionary-pages-188-257.tesseract.txt:1001) ; NT Lc 10,7 « mbëmbë foe » [attesté]",
+    "mfaŋ = important, vrai : P p.114 « important, mfañ » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4892) ; R p.222 « mfan good, real, true, special, important » (redden-1979-dictionary-pages-188-257.tesseract.txt:1873) [attesté]",
+    "asu = pour : P p.117 « pour, asu » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5031) ; NT Mt 20,2 « asu amos » [attesté]",
+    "bod = gens (pluriel de mod) : NT Lc 19,45 « bod bë mëkit » ; P p.113 « homme, mot (1) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4870) [attesté]"
+   ]
+  },
+  {
+   "fr": "Injecter",
+   "ewondo": "Tilig",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "Mot à mot : Tilig « écris ! (impératif singulier de til) » (NT Ap 21,5).",
+   "a_confirmer": [],
+   "source": [
+    "Tilig = écris ! (impératif singulier de til) : NT Ap 21,5 « Tilig » ; P p.112 « écrire, til » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4814) [attesté]"
+   ]
+  },
+  {
+   "fr": "Aucun contenu injecté.",
+   "ewondo": "Foe ziŋ kik.",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [
+    "P p.19-20 négation : verbe + kik ; ki devant le complément ; -siki pour « ne pas être »"
+   ],
+   "remarque": "Mot à mot : Foe « nouvelle, message » (P p.116) ; ziŋ « quelque, un certain, autre » (NT Jn 16,24) ; kik « ne… pas (après le verbe) » (P p.20).",
+   "a_confirmer": [],
+   "source": [
+    "Foe = nouvelle, message : P p.116 « nouvelle, foe » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4977) ; R p.204 « foe news » (redden-1979-dictionary-pages-188-257.tesseract.txt:1001) ; NT Lc 10,7 « mbëmbë foe » [attesté]",
+    "ziŋ = quelque, un certain, autre : NT Jn 16,24 « dzom ziṅ » ; Lc 19,8 « mod ziṅ » [attesté]",
+    "kik = ne… pas (après le verbe) : P p.20 « madin kik… mayem kik » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:824-867) [attesté]"
+   ]
+  },
+  {
+   "fr": "Déclencher une erreur / alerte",
+   "ewondo": "Tari evus / boan okala",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "Mot à mot : Tari « commencer » (P p.111) ; evus « faute, erreur » (P p.112) ; boan « faites (dans boan okala = prenez garde) » (NT Mt 24,4) ; okala « attention (dans boan okala) » (NT Mt 24,4).",
+   "a_confirmer": [],
+   "source": [
+    "Tari = commencer : P p.111 « commencer, tari » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4719, OCR « fari ») ; NT Lc 19,45 « atari na atsidan » (il commença à chasser) [attesté]",
+    "evus = faute, erreur : P p.112 « faute, evus (IV) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4822) [attesté]",
+    "boan = faites (dans boan okala = prenez garde) : NT Mt 24,4 « Boan okala na të badug mina » ; P p.63 impératif pluriel « bòan, faites » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:2996) [à confirmer]",
+    "okala = attention (dans boan okala) : NT Mt 24,4 ; P p.109 « attention (faire), kala » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4673) [attesté]"
+   ]
+  },
+  {
+   "fr": "Modifier les valeurs canoniques",
+   "ewondo": "Tsɛndɛ taŋ",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« Changer les nombres ».",
+   "a_confirmer": [
+    "canoniques : non rendu"
+   ],
+   "source": [
+    "Tsɛndɛ = changer : R p.245 « tséndé change, exchange » (redden-1979-dictionary-pages-188-257.tesseract.txt:2887) [attesté]",
+    "taŋ = nombre, numéro : R p.243 « táŋ number » (image PDF 247 ; l'OCR redden-1979-dictionary-pages-188-257.tesseract.txt:2793 a perdu le ŋ) ; P p.115 « nombre, tañ (V) » (image PDF 117 ; OCR pichon-1950-petite-grammaire-ewondo.tesseract.txt:4966 « fan ») ; NT Lc 14,28 « amana bò taṅ » ; N 1913 « Zahl tän » (diesprachederjau00nekeuoft.ia-ocr.txt:8147) [attesté]"
+   ]
+  },
+  {
+   "fr": "Appliquer",
+   "ewondo": "Bɔ",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "bɔ = faire (P p.63).",
+   "a_confirmer": [],
+   "source": [
+    "Bɔ = faire : P p.63 « LE VERBE : BÒ, FAIRE » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:2992) ; P p.112 « faire, bò, kom » (tesseract.txt:4817) [attesté]"
+   ]
+  },
+  {
+   "fr": "Vérifier l'étape maintenant",
+   "ewondo": "Bindi etetəg nyɔ",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "Mot à mot : Bindi « examiner, vérifier » (NT 1 Th 5,21) ; etetəg « maintenant (avec nyɔ) » (P p.114) ; nyɔ « ce…-ci (dans etetəg nyɔ) » (P p.114).",
+   "a_confirmer": [
+    "étape : non rendu"
+   ],
+   "source": [
+    "Bindi = examiner, vérifier : NT 1 Th 5,21 « bindigan mam mësë » (examinez toutes choses) ; 2 Co 13,5 « bindigan » [attesté]",
+    "etetəg = maintenant (avec nyɔ) : P p.114 « maintenant, etëtëg nyò » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4922) ; N 1911 « e'teteg-no jetzt » (lehrbuchderjaund00nekeuoft.ia-ocr.txt:2530) [attesté]",
+    "nyɔ = ce…-ci (dans etetəg nyɔ) : P p.114 « etëtëg nyò » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4922) [attesté]"
+   ]
+  },
+  {
+   "fr": "Réinitialiser le test",
+   "ewondo": "Dugan tari kiege",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "« Recommencer l'essai ».",
+   "a_confirmer": [],
+   "source": [
+    "Dugan = retourner ; refaire : P p.118 « retourner, dugan » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5112) ; R p.200 « dugan go back, return; do/be again/over » (redden-1979-dictionary-pages-188-257.tesseract.txt:827) ; NT Jn 20,21 « Yesus adugan dzo » (dit de nouveau) [attesté]",
+    "tari = commencer : P p.111 « commencer, tari » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4719, OCR « fari ») ; NT Lc 19,45 « atari na atsidan » (il commença à chasser) [attesté]",
+    "kiege = essayer, éprouver : R p.213 « kiege taste, test, try » (redden-1979-dictionary-pages-188-257.tesseract.txt:1472) ; N 1911 « kiege probieren » (lehrbuchderjaund00nekeuoft.ia-ocr.txt:10388) [calque]"
+   ]
+  },
+  {
+   "fr": "Mode page réelle",
+   "ewondo": "Mbol bəbəla",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« Manière vraie ».",
+   "a_confirmer": [
+    "page : non rendu"
+   ],
+   "source": [
+    "Mbol = manière, façon : P p.115 « manière, mbol » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4938) [calque]",
+    "bəbəla = vrai, vérité : P p.120 « vérité, vrai, bébéla » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5201) ; NT Ap 21,5 « bibug bi binë bëbëla » [attesté]"
+   ]
+  },
+  {
+   "fr": "Contenu injecté",
+   "ewondo": "Foe ntilan",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "Mot à mot : Foe « nouvelle, message » (P p.116) ; ntilan « écrit (ce qui est écrit) » (NT Lc 10,20).",
+   "a_confirmer": [],
+   "source": [
+    "Foe = nouvelle, message : P p.116 « nouvelle, foe » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4977) ; R p.204 « foe news » (redden-1979-dictionary-pages-188-257.tesseract.txt:1001) ; NT Lc 10,7 « mbëmbë foe » [attesté]",
+    "ntilan = écrit (ce qui est écrit) : NT Lc 10,20 « moe mënë mina ntilan a yob » ; Lc 19,46 « Anë ntilan na » [attesté]"
+   ]
+  },
+  {
+   "fr": "Journal des soumissions",
+   "ewondo": "Kalara lom",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [
+    "P p.34 complément du nom : au singulier, pas de préfixe répété (juxtaposition, ton haut non noté)"
+   ],
+   "remarque": "« Papier des envois » (kalara = papier, P).",
+   "a_confirmer": [],
+   "source": [
+    "Kalara = papier, lettre ; « kalara ekola » = acte de dette : P p.99 « kalara (I), papier, lettre » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4184) ; NT Col 2,14 « kalara ekola » ; NT Lc 16,6 « Nòṅò kalara woe » [attesté]",
+    "lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]"
+   ]
+  },
+  {
+   "fr": "Compare les valeurs attendues, affichées et soumises. Un écart est signalé comme compromis.",
+   "ewondo": "Bindi taŋ məsə. Ngë evus ziŋ, bayi kad.",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [
+    "P p.23 futur : ma-/wa-/a-/bi-/mi-/ba- + yi + verbe (« bayi », « ayi »)"
+   ],
+   "remarque": "« Examine tous les nombres ; s'il y a une faute, on le dira. »",
+   "a_confirmer": [],
+   "source": [
+    "Bindi = examiner, vérifier : NT 1 Th 5,21 « bindigan mam mësë » (examinez toutes choses) ; 2 Co 13,5 « bindigan » [attesté]",
+    "taŋ = nombre, numéro : R p.243 « táŋ number » (image PDF 247 ; l'OCR redden-1979-dictionary-pages-188-257.tesseract.txt:2793 a perdu le ŋ) ; P p.115 « nombre, tañ (V) » (image PDF 117 ; OCR pichon-1950-petite-grammaire-ewondo.tesseract.txt:4966 « fan ») ; NT Lc 14,28 « amana bò taṅ » ; N 1913 « Zahl tän » (diesprachederjau00nekeuoft.ia-ocr.txt:8147) [attesté]",
+    "məsə = tous (accord de mam) : NT 1 Th 5,21 « mam mësë » [attesté]",
+    "Ngë = si, quand : P p.14 (PDF p.16) « ngè, si, quand » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:554) ; NT Mt 5,37 « ngë ki na » [attesté]",
+    "evus = faute, erreur : P p.112 « faute, evus (IV) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4822) [attesté]",
+    "ziŋ = quelque, un certain, autre : NT Jn 16,24 « dzom ziṅ » ; Lc 19,8 « mod ziṅ » [attesté]",
+    "bayi = on (ils) va/vont… (futur, 3e pl.) : NT Lc 19,26 « bayi vë e mod » ; P p.23 futur (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt, « Futur des verbes » p.23) [à confirmer]",
+    "kad = dire : P p.112 « dire, dzo, kad » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4774) [attesté]"
+   ]
+  },
+  {
+   "fr": "Exporter JSON",
+   "ewondo": "Lom JSON",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "JSON = sigle technique.",
+   "a_confirmer": [],
+   "source": [
+    "Lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]"
+   ]
+  },
+  {
+   "fr": "Vider",
+   "ewondo": "Fadi",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "fadi = enlever (P, NT).",
+   "a_confirmer": [],
+   "source": [
+    "Fadi = enlever : P p.112 « enlever, va ; … fadi » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4771) ; NT Lc 19,26 « bayi nyè fadi » [attesté]"
+   ]
+  },
+  {
+   "fr": "Alerte / erreur",
+   "ewondo": "Boan okala / evus",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "Mot à mot : Boan « faites (dans boan okala = prenez garde) » (NT Mt 24,4) ; okala « attention (dans boan okala) » (NT Mt 24,4) ; evus « faute, erreur » (P p.112).",
+   "a_confirmer": [],
+   "source": [
+    "Boan = faites (dans boan okala = prenez garde) : NT Mt 24,4 « Boan okala na të badug mina » ; P p.63 impératif pluriel « bòan, faites » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:2996) [à confirmer]",
+    "okala = attention (dans boan okala) : NT Mt 24,4 ; P p.109 « attention (faire), kala » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4673) [attesté]",
+    "evus = faute, erreur : P p.112 « faute, evus (IV) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4822) [attesté]"
+   ]
+  },
+  {
+   "fr": "Intègre",
+   "ewondo": "Bəbəla",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "Mot à mot : Bəbəla « vrai, vérité » (P p.120).",
+   "a_confirmer": [],
+   "source": [
+    "Bəbəla = vrai, vérité : P p.120 « vérité, vrai, bébéla » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5201) ; NT Ap 21,5 « bibug bi binë bëbëla » [attesté]"
+   ]
+  },
+  {
+   "fr": "Détail",
+   "ewondo": "Mam məsə",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "Mot à mot : Mam « choses, affaires (pluriel de dzam) » (NT 1 Th 5,21) ; məsə « tous (accord de mam) » (NT 1 Th 5,21).",
+   "a_confirmer": [],
+   "source": [
+    "Mam = choses, affaires (pluriel de dzam) : NT 1 Th 5,21 « mam mësë » ; Lc 19,11 « e mam ma » ; P p.109 « affaire, dzam » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4643) [attesté]",
+    "məsə = tous (accord de mam) : NT 1 Th 5,21 « mam mësë » [attesté]"
+   ]
+  },
+  {
+   "fr": "Reçu de transfert",
+   "ewondo": "Kalara lom mɔni",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [
+    "P p.34 complément du nom : au singulier, pas de préfixe répété (juxtaposition, ton haut non noté)"
+   ],
+   "remarque": "« Papier de l'envoi d'argent ».",
+   "a_confirmer": [],
+   "source": [
+    "Kalara = papier, lettre ; « kalara ekola » = acte de dette : P p.99 « kalara (I), papier, lettre » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4184) ; NT Col 2,14 « kalara ekola » ; NT Lc 16,6 « Nòṅò kalara woe » [attesté]",
+    "lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]",
+    "mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]"
+   ]
+  },
+  {
+   "fr": "Récapitulatif et confirmation",
+   "ewondo": "Mam məsə ai aman ya",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "Mot à mot : Mam « choses, affaires (pluriel de dzam) » (NT 1 Th 5,21) ; məsə « tous (accord de mam) » (NT 1 Th 5,21) ; ai « avec, et » (P p.112) ; aman « c'est achevé (aman ya) » (NT Jn 19,30) ; ya « de (connectif) » (P p.111).",
+   "a_confirmer": [],
+   "source": [
+    "Mam = choses, affaires (pluriel de dzam) : NT 1 Th 5,21 « mam mësë » ; Lc 19,11 « e mam ma » ; P p.109 « affaire, dzam » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4643) [attesté]",
+    "məsə = tous (accord de mam) : NT 1 Th 5,21 « mam mësë » [attesté]",
+    "ai = avec, et : P p.14 (PDF p.16) vocabulaire « ai, et, avec » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:553) ; P p.112 « et, di, ayi » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4799) ; NT Jn 20,21 « Mvoè ai mina » [attesté]",
+    "aman = c'est achevé (aman ya) : NT Jn 19,30 « aman ya » (Tout est accompli) ; P p.119 « terminer, mana » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5143) ; R p.218 « man finish, complete » (redden-1979-dictionary-pages-188-257.tesseract.txt:1692) [attesté]",
+    "ya = de (connectif) : P p.111 « de, ya » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4734) [attesté]"
+   ]
+  },
+  {
+   "fr": "Préparation du transfert",
+   "ewondo": "Kom lom",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "kom = préparer (P p.117).",
+   "a_confirmer": [],
+   "source": [
+    "Kom = préparer, arranger : P p.117 « préparer, kom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5036) [attesté]",
+    "lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]"
+   ]
+  },
+  {
+   "fr": "Consultation des frais",
+   "ewondo": "Yənə mɔni ya lom",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "Mot à mot : Yənə « vois ! regarde ! (impératif de yen) » (NT Ap 21,5) ; mɔni « argent » (N 1913) ; ya « de (connectif) » (P p.111) ; lom « envoyer » (P p.112).",
+   "a_confirmer": [
+    "frais"
+   ],
+   "source": [
+    "Yənə = vois ! regarde ! (impératif de yen) : NT Ap 21,5 « Yënë, mabò byem bisë mimkpamaṅ » ; Lc 19,8 « yënë » ; P p.15 « yen, voir » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:456) [à confirmer]",
+    "mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]",
+    "ya = de (connectif) : P p.111 « de, ya » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4734) [attesté]",
+    "lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]"
+   ]
+  },
+  {
+   "fr": "Couverture de traduction",
+   "ewondo": "Timi mam məsə",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "Mot à mot : Timi « traduire » (P p.64) ; mam « choses, affaires (pluriel de dzam) » (NT 1 Th 5,21) ; məsə « tous (accord de mam) » (NT 1 Th 5,21).",
+   "a_confirmer": [
+    "couverture"
+   ],
+   "source": [
+    "Timi = traduire : P p.64 « timi, traduire ; impératif timini, timinan » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:3055) ; P p.119 « traduire, fimi » (tesseract.txt:5157, OCR) [attesté]",
+    "mam = choses, affaires (pluriel de dzam) : NT 1 Th 5,21 « mam mësë » ; Lc 19,11 « e mam ma » ; P p.109 « affaire, dzam » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4643) [attesté]",
+    "məsə = tous (accord de mam) : NT 1 Th 5,21 « mam mësë » [attesté]"
+   ]
+  },
+  {
+   "fr": "Textes suivis",
+   "ewondo": "Foe bayi bindi",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [
+    "P p.23 futur : ma-/wa-/a-/bi-/mi-/ba- + yi + verbe (« bayi », « ayi »)"
+   ],
+   "remarque": "Mot à mot : Foe « nouvelle, message » (P p.116) ; bayi « on (ils) va/vont… (futur, 3e pl.) » (NT Lc 19,26) ; bindi « examiner, vérifier » (NT 1 Th 5,21).",
+   "a_confirmer": [],
+   "source": [
+    "Foe = nouvelle, message : P p.116 « nouvelle, foe » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4977) ; R p.204 « foe news » (redden-1979-dictionary-pages-188-257.tesseract.txt:1001) ; NT Lc 10,7 « mbëmbë foe » [attesté]",
+    "bayi = on (ils) va/vont… (futur, 3e pl.) : NT Lc 19,26 « bayi vë e mod » ; P p.23 futur (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt, « Futur des verbes » p.23) [à confirmer]",
+    "bindi = examiner, vérifier : NT 1 Th 5,21 « bindigan mam mësë » (examinez toutes choses) ; 2 Co 13,5 « bindigan » [attesté]"
+   ]
+  },
+  {
+   "fr": "Textes modifiés",
+   "ewondo": "Foe tsɛndɛ",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "Mot à mot : Foe « nouvelle, message » (P p.116) ; tsɛndɛ « changer » (R p.245).",
+   "a_confirmer": [],
+   "source": [
+    "Foe = nouvelle, message : P p.116 « nouvelle, foe » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4977) ; R p.204 « foe news » (redden-1979-dictionary-pages-188-257.tesseract.txt:1001) ; NT Lc 10,7 « mbëmbë foe » [attesté]",
+    "tsɛndɛ = changer : R p.245 « tséndé change, exchange » (redden-1979-dictionary-pages-188-257.tesseract.txt:2887) [attesté]"
+   ]
+  },
+  {
+   "fr": "Capturez la base sans extension, puis chargez votre extension et rescannez.",
+   "ewondo": "Bi mam ma osu, ndò timi, ndò dugan bindi.",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« Prends ces choses d'abord, puis traduis, puis vérifie de nouveau. »",
+   "a_confirmer": [
+    "extension, base : approximés"
+   ],
+   "source": [
+    "Bi = prendre : P p.117 « prendre, nôñ, bi » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5035) [attesté]",
+    "mam = choses, affaires (pluriel de dzam) : NT 1 Th 5,21 « mam mësë » ; Lc 19,11 « e mam ma » ; P p.109 « affaire, dzam » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4643) [attesté]",
+    "ma = ces (démonstratif, accord de mam) ; je (pronom) : NT Lc 19,11 « e mam ma » ; P p.114 « je, moi, ma, me » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4907) [attesté]",
+    "osu = avant, devant : P p.109 « avant, osu » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4636) ; P p.111 « devant, osu » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4766) ; NT Lc 19,28 « akë ai dulu osu » [attesté]",
+    "ndò = puis, alors : P p.109 « alors, ndù, ndù fé » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4654) ; NT Lc 19,4 « Ndò angakë » [attesté]",
+    "timi = traduire : P p.64 « timi, traduire ; impératif timini, timinan » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:3055) ; P p.119 « traduire, fimi » (tesseract.txt:5157, OCR) [attesté]",
+    "dugan = retourner ; refaire : P p.118 « retourner, dugan » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5112) ; R p.200 « dugan go back, return; do/be again/over » (redden-1979-dictionary-pages-188-257.tesseract.txt:827) ; NT Jn 20,21 « Yesus adugan dzo » (dit de nouveau) [attesté]",
+    "bindi = examiner, vérifier : NT 1 Th 5,21 « bindigan mam mësë » (examinez toutes choses) ; 2 Co 13,5 « bindigan » [attesté]"
+   ]
+  },
+  {
+   "fr": "Capturer la base",
+   "ewondo": "Bi mam ma osu",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "Mot à mot : Bi « prendre » (P p.117) ; mam « choses, affaires (pluriel de dzam) » (NT 1 Th 5,21) ; ma « ces (démonstratif, accord de mam) ; je (pronom) » (NT Lc 19,11) ; osu « avant, devant » (P p.109).",
+   "a_confirmer": [
+    "base"
+   ],
+   "source": [
+    "Bi = prendre : P p.117 « prendre, nôñ, bi » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5035) [attesté]",
+    "mam = choses, affaires (pluriel de dzam) : NT 1 Th 5,21 « mam mësë » ; Lc 19,11 « e mam ma » ; P p.109 « affaire, dzam » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4643) [attesté]",
+    "ma = ces (démonstratif, accord de mam) ; je (pronom) : NT Lc 19,11 « e mam ma » ; P p.114 « je, moi, ma, me » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4907) [attesté]",
+    "osu = avant, devant : P p.109 « avant, osu » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4636) ; P p.111 « devant, osu » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4766) ; NT Lc 19,28 « akë ai dulu osu » [attesté]"
+   ]
+  },
+  {
+   "fr": "Rescanner",
+   "ewondo": "Dugan bindi",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "Mot à mot : Dugan « retourner ; refaire » (P p.118) ; bindi « examiner, vérifier » (NT 1 Th 5,21).",
+   "a_confirmer": [],
+   "source": [
+    "Dugan = retourner ; refaire : P p.118 « retourner, dugan » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5112) ; R p.200 « dugan go back, return; do/be again/over » (redden-1979-dictionary-pages-188-257.tesseract.txt:827) ; NT Jn 20,21 « Yesus adugan dzo » (dit de nouveau) [attesté]",
+    "bindi = examiner, vérifier : NT 1 Th 5,21 « bindigan mam mësë » (examinez toutes choses) ; 2 Co 13,5 « bindigan » [attesté]"
+   ]
+  },
+  {
+   "fr": "Effacer la base",
+   "ewondo": "Fadi mam ma osu",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "Mot à mot : Fadi « enlever » (P p.112) ; mam « choses, affaires (pluriel de dzam) » (NT 1 Th 5,21) ; ma « ces (démonstratif, accord de mam) ; je (pronom) » (NT Lc 19,11) ; osu « avant, devant » (P p.109).",
+   "a_confirmer": [
+    "base"
+   ],
+   "source": [
+    "Fadi = enlever : P p.112 « enlever, va ; … fadi » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4771) ; NT Lc 19,26 « bayi nyè fadi » [attesté]",
+    "mam = choses, affaires (pluriel de dzam) : NT 1 Th 5,21 « mam mësë » ; Lc 19,11 « e mam ma » ; P p.109 « affaire, dzam » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4643) [attesté]",
+    "ma = ces (démonstratif, accord de mam) ; je (pronom) : NT Lc 19,11 « e mam ma » ; P p.114 « je, moi, ma, me » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4907) [attesté]",
+    "osu = avant, devant : P p.109 « avant, osu » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4636) ; P p.111 « devant, osu » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4766) ; NT Lc 19,28 « akë ai dulu osu » [attesté]"
+   ]
+  },
+  {
+   "fr": "Aucune soumission enregistrée.",
+   "ewondo": "Lom ziŋ kik.",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [
+    "P p.19-20 négation : verbe + kik ; ki devant le complément ; -siki pour « ne pas être »"
+   ],
+   "remarque": "Mot à mot : Lom « envoyer » (P p.112) ; ziŋ « quelque, un certain, autre » (NT Jn 16,24) ; kik « ne… pas (après le verbe) » (P p.20).",
+   "a_confirmer": [],
+   "source": [
+    "Lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]",
+    "ziŋ = quelque, un certain, autre : NT Jn 16,24 « dzom ziṅ » ; Lc 19,8 « mod ziṅ » [attesté]",
+    "kik = ne… pas (après le verbe) : P p.20 « madin kik… mayem kik » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:824-867) [attesté]"
+   ]
+  },
+  {
+   "fr": "Compromis",
+   "ewondo": "Evus",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "Mot à mot : Evus « faute, erreur » (P p.112).",
+   "a_confirmer": [],
+   "source": [
+    "Evus = faute, erreur : P p.112 « faute, evus (IV) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4822) [attesté]"
+   ]
+  },
+  {
+   "fr": "Attendu",
+   "ewondo": "Yanga",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "yanga = attendre (P p.109).",
+   "a_confirmer": [],
+   "source": [
+    "Yanga = attendre : P p.109 « attendre, yanga » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4672) [attesté]"
+   ]
+  },
+  {
+   "fr": "Affiché",
+   "ewondo": "Ledə",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "Mot à mot : Ledə « montrer » (P p.115).",
+   "a_confirmer": [],
+   "source": [
+    "Ledə = montrer : P p.115 « montrer, ledé » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4933) ; NT Lc 1,28 « malëdë » [attesté]"
+   ]
+  },
+  {
+   "fr": "Soumis",
+   "ewondo": "Lom",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "Mot à mot : Lom « envoyer » (P p.112).",
+   "a_confirmer": [],
+   "source": [
+    "Lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]"
+   ]
+  },
+  {
+   "fr": "Écarts détectés",
+   "ewondo": "Evus",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "Mot à mot : Evus « faute, erreur » (P p.112).",
+   "a_confirmer": [],
+   "source": [
+    "Evus = faute, erreur : P p.112 « faute, evus (IV) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4822) [attesté]"
+   ]
+  },
+  {
+   "fr": "Aucun écart détecté.",
+   "ewondo": "Evus ziŋ kik.",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [
+    "P p.19-20 négation : verbe + kik ; ki devant le complément ; -siki pour « ne pas être »"
+   ],
+   "remarque": "Mot à mot : Evus « faute, erreur » (P p.112) ; ziŋ « quelque, un certain, autre » (NT Jn 16,24) ; kik « ne… pas (après le verbe) » (P p.20).",
+   "a_confirmer": [],
+   "source": [
+    "Evus = faute, erreur : P p.112 « faute, evus (IV) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4822) [attesté]",
+    "ziŋ = quelque, un certain, autre : NT Jn 16,24 « dzom ziṅ » ; Lc 19,8 « mod ziṅ » [attesté]",
+    "kik = ne… pas (après le verbe) : P p.20 « madin kik… mayem kik » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:824-867) [attesté]"
+   ]
+  },
+  {
+   "fr": "Charge utile",
+   "ewondo": "Mbegə",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "mbegə = fardeau, charge (P p.112).",
+   "a_confirmer": [],
+   "source": [
+    "Mbegə = fardeau, charge : P p.112 « fardeau (charge), mbège » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4819) [attesté]"
+   ]
+  },
+  {
+   "fr": "Champ",
+   "ewondo": "Hom",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "« Endroit ».",
+   "a_confirmer": [],
+   "source": [
+    "Hom = endroit, lieu : P p.112 « endroit, hom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4819) ; NT Lc 19,5 « hom te » [calque]"
+   ]
+  },
+  {
+   "fr": "affichage",
+   "ewondo": "ledə",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "Mot à mot : ledə « montrer » (P p.115).",
+   "a_confirmer": [],
+   "source": [
+    "ledə = montrer : P p.115 « montrer, ledé » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4933) ; NT Lc 1,28 « malëdë » [attesté]"
+   ]
+  },
+  {
+   "fr": "soumission",
+   "ewondo": "lom",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "Mot à mot : lom « envoyer » (P p.112).",
+   "a_confirmer": [],
+   "source": [
+    "lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina » [attesté]"
+   ]
+  },
+  {
+   "fr": "Tableau de bord",
+   "ewondo": "Hom mɔni wan",
+   "type": "phrase",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "« Lieu de ton argent ».",
+   "a_confirmer": [],
+   "source": [
+    "Hom = endroit, lieu : P p.112 « endroit, hom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4819) ; NT Lc 19,5 « hom te » [calque]",
+    "mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni » [attesté]",
+    "wan = votre, notre (possessif, 1re/2e/6e classe sg.) : P p.43-44 tableau des possessifs, lu sur l'image PDF p.45-46 (pichon-1950-petite-grammaire-ewondo.pdf) : « 1re cl. mòn wòm woe woe wan wan waban » [attesté]"
+   ]
+  },
+  {
+   "fr": "Jury",
+   "ewondo": "Bod bə nkat",
+   "type": "phrase",
+   "certitude": "à confirmer",
+   "regles": [
+    "P p.34 complément du nom : au singulier, pas de préfixe répété (juxtaposition, ton haut non noté)"
+   ],
+   "remarque": "« Les gens du jugement » : bod (NT Lc 19,45) + bə (P p.34) + nkat « jugement » (P p.103). Aucun mot attesté pour « jury ».",
+   "a_confirmer": [
+    "jury : aucun terme attesté"
+   ],
+   "source": [
+    "Bod = gens (pluriel de mod) : NT Lc 19,45 « bod bë mëkit » ; P p.113 « homme, mot (1) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4870) [attesté]",
+    "bə = connectif pluriel (classe bo-/bə-) : NT Lc 19,45 « bod bë mëkit » ; P p.34 « Bòn be nkukuma » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:1547) [attesté]",
+    "nkat = jugement : P p.103 « nkat (II), jugement » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4382) [attesté]"
+   ]
+  },
+  {
+   "fr": "consulter",
+   "ewondo": "bebe",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "regarder (P p.118) ; à l'impératif l'NT a « yənə » (Ap 21,5).",
+   "a_confirmer": [],
+   "source": [
+    "bebe = regarder : P p.118 « regarder, bébé » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5096)"
+   ]
+  },
+  {
+   "fr": "lancer",
+   "ewondo": "tari",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "au sens « commencer » (P p.111 ; NT Lc 19,45 « atari »).",
+   "a_confirmer": [],
+   "source": [
+    "tari = commencer : P p.111 « commencer, tari » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4719, OCR « fari ») ; NT Lc 19,45 « atari na atsidan » (il commença à chasser)"
+   ]
+  },
+  {
+   "fr": "commencer",
+   "ewondo": "tari",
+   "type": "mot",
+   "certitude": "attesté",
+   "regles": [],
+   "remarque": "P p.111 ; NT Lc 19,45.",
+   "a_confirmer": [],
+   "source": [
+    "tari = commencer : P p.111 « commencer, tari » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4719, OCR « fari ») ; NT Lc 19,45 « atari na atsidan » (il commença à chasser)"
+   ]
+  },
+  {
+   "fr": "vérifier",
+   "ewondo": "bindi",
+   "type": "mot",
+   "certitude": "attesté",
+   "regles": [],
+   "remarque": "NT 1 Th 5,21 « bindigan mam mësë » ; l'ancienne locution fəb dzi (P p.114 « inspecter, fèb, dzi ») reste valable.",
+   "a_confirmer": [],
+   "source": [
+    "bindi = examiner, vérifier : NT 1 Th 5,21 « bindigan mam mësë » (examinez toutes choses) ; 2 Co 13,5 « bindigan »"
+   ]
+  },
+  {
+   "fr": "vérifiez",
+   "ewondo": "bindigan",
+   "type": "mot",
+   "certitude": "attesté",
+   "regles": [],
+   "remarque": "NT 1 Th 5,21 ; 2 Co 13,5 (impératif pluriel tel quel).",
+   "a_confirmer": [],
+   "source": [
+    "bindigan = vérifiez ! (impératif pluriel de bindi) : NT 1 Th 5,21 ; 2 Co 13,5 (forme attestée telle quelle) ; P p.64 impératif pluriel en -gan (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:3008-3020)"
+   ]
+  },
+  {
+   "fr": "toujours",
+   "ewondo": "abog asə",
+   "type": "mot",
+   "certitude": "attesté",
+   "regles": [],
+   "remarque": "NT 1 Th 5,16 « Taan abog asë ».",
+   "a_confirmer": [],
+   "source": [
+    "abog = temps, moment : NT 1 Th 5,16 « Taan abog asë » (soyez toujours…) ; P p.119 « temps, abok » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5140)",
+    "asə = tout (accord de abog) : NT 1 Th 5,16 « abog asë »"
+   ]
+  },
+  {
+   "fr": "avant",
+   "ewondo": "osu",
+   "type": "mot",
+   "certitude": "attesté",
+   "regles": [],
+   "remarque": "P p.109.",
+   "a_confirmer": [],
+   "source": [
+    "osu = avant, devant : P p.109 « avant, osu » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4636) ; P p.111 « devant, osu » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4766) ; NT Lc 19,28 « akë ai dulu osu »"
+   ]
+  },
+  {
+   "fr": "avant de",
+   "ewondo": "osu ya",
+   "type": "mot",
+   "certitude": "calque",
+   "regles": [],
+   "remarque": "osu (P p.109) + ya « de » (P p.111).",
+   "a_confirmer": [],
+   "source": [
+    "osu = avant, devant : P p.109 « avant, osu » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4636) ; P p.111 « devant, osu » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4766) ; NT Lc 19,28 « akë ai dulu osu »",
+    "ya = de (connectif) : P p.111 « de, ya » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4734)"
+   ]
+  },
+  {
+   "fr": "sécurisé",
+   "ewondo": "ai mvɔɛ",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« avec paix/sûreté » (P p.116 mvɔɛ ; ai P p.112).",
+   "a_confirmer": [],
+   "source": [
+    "ai = avec, et : P p.112 « et, di, ayi » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4799) ; NT Jn 20,21 « Mvoè ai mina »",
+    "mvɔɛ = paix, santé, sûreté : P p.116 « paix, mvòè (V) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4974) ; NT Jn 20,21 « Mvoè ai mina »"
+   ]
+  },
+  {
+   "fr": "sécurisée",
+   "ewondo": "ai mvɔɛ",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« avec paix, sûreté » : ai (P p.112) + mvɔɛ (P p.116 « paix »).",
+   "a_confirmer": [],
+   "source": [
+    "ai = avec, et : P p.112 « et, di, ayi » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4799) ; NT Jn 20,21 « Mvoè ai mina »",
+    "mvɔɛ = paix, santé, sûreté : P p.116 « paix, mvòè (V) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4974) ; NT Jn 20,21 « Mvoè ai mina »"
+   ]
+  },
+  {
+   "fr": "en toute sécurité",
+   "ewondo": "ai mvɔɛ",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« avec paix, sûreté » : ai (P p.112) + mvɔɛ (P p.116 « paix »).",
+   "a_confirmer": [],
+   "source": [
+    "ai = avec, et : P p.112 « et, di, ayi » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4799) ; NT Jn 20,21 « Mvoè ai mina »",
+    "mvɔɛ = paix, santé, sûreté : P p.116 « paix, mvòè (V) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4974) ; NT Jn 20,21 « Mvoè ai mina »"
+   ]
+  },
+  {
+   "fr": "salaire",
+   "ewondo": "maan",
+   "type": "mot",
+   "certitude": "attesté",
+   "regles": [],
+   "remarque": "NT Mt 20,8 ; Lc 10,7 ; P p.116 « mân ».",
+   "a_confirmer": [],
+   "source": [
+    "maan = salaire, paie : NT Mt 20,8 « ovë bò maan » ; Lc 10,7 « maan moe » ; P p.116 « paiement (salaire), mân » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5005) ; N 1913 « man Lohn » (diesprachederjau00nekeuoft.ia-ocr.txt:1008)"
+   ]
+  },
+  {
+   "fr": "électricité",
+   "ewondo": "mfie",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« lumière, lampe » (R p.184 ; P p.114) — pas de mot attesté pour l'électricité.",
+   "a_confirmer": [],
+   "source": [
+    "mfie = lumière, lampe : R p.184 « mfie light, lamp » (redden-1979-dictionary-pages-188-257.tesseract.txt:26) ; P p.114 « lumière, mfyé » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4909)"
+   ]
+  },
+  {
+   "fr": "facture",
+   "ewondo": "ekola",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« dette » (P ; NT Mt 18,28) — pas de mot attesté pour « facture ».",
+   "a_confirmer": [],
+   "source": [
+    "ekola = dette : P p.95 « ekola (IV), dette » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:5044) ; NT Mt 18,28 « Dugan ma ekola dzama »"
+   ]
+  },
+  {
+   "fr": "environnement",
+   "ewondo": "hom",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« endroit » (P p.112).",
+   "a_confirmer": [],
+   "source": [
+    "hom = endroit, lieu : P p.112 « endroit, hom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4819) ; NT Lc 19,5 « hom te »"
+   ]
+  },
+  {
+   "fr": "données",
+   "ewondo": "mam",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« choses » (NT 1 Th 5,21).",
+   "a_confirmer": [],
+   "source": [
+    "mam = choses, affaires (pluriel de dzam) : NT 1 Th 5,21 « mam mësë » ; Lc 19,11 « e mam ma » ; P p.109 « affaire, dzam » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4643)"
+   ]
+  },
+  {
+   "fr": "protocole",
+   "ewondo": "mbol",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« manière » (P p.115).",
+   "a_confirmer": [],
+   "source": [
+    "mbol = manière, façon : P p.115 « manière, mbol » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4938)"
+   ]
+  },
+  {
+   "fr": "test",
+   "ewondo": "kiege",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« essayer, éprouver » (R p.213 ; N 1911).",
+   "a_confirmer": [],
+   "source": [
+    "kiege = essayer, éprouver : R p.213 « kiege taste, test, try » (redden-1979-dictionary-pages-188-257.tesseract.txt:1472) ; N 1911 « kiege probieren » (lehrbuchderjaund00nekeuoft.ia-ocr.txt:10388)"
+   ]
+  },
+  {
+   "fr": "retour",
+   "ewondo": "dugan",
+   "type": "mot",
+   "certitude": "attesté",
+   "regles": [],
+   "remarque": "P p.118 ; R p.200.",
+   "a_confirmer": [],
+   "source": [
+    "dugan = retourner ; refaire : P p.118 « retourner, dugan » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5112) ; R p.200 « dugan go back, return; do/be again/over » (redden-1979-dictionary-pages-188-257.tesseract.txt:827) ; NT Jn 20,21 « Yesus adugan dzo » (dit de nouveau)"
+   ]
+  },
+  {
+   "fr": "connexion",
+   "ewondo": "nkoo",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« ligne, téléphone » (R p.234 ; N 1913).",
+   "a_confirmer": [],
+   "source": [
+    "nkoo = ligne, corde ; téléphone : R p.234 « ŋkoo line, cord, band; telephone » (redden-1979-dictionary-pages-188-257.tesseract.txt:2412) ; N 1913 « nkö(l) Strick, Telephon » (diesprachederjau00nekeuoft.ia-ocr.txt:6251)"
+   ]
+  },
+  {
+   "fr": "remboursement",
+   "ewondo": "dugan mɔni",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« rendre l'argent » : dugan « rendre » (P lexique éwondo-français, pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:4892 « dugan, 1) rendre, revenir » ; NT Mt 18,28 « Dugan ma ekola dzama »).",
+   "a_confirmer": [],
+   "source": [
+    "dugan = retourner ; refaire : P p.118 « retourner, dugan » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5112) ; R p.200 « dugan go back, return; do/be again/over » (redden-1979-dictionary-pages-188-257.tesseract.txt:827) ; NT Jn 20,21 « Yesus adugan dzo » (dit de nouveau)",
+    "mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni »"
+   ]
+  },
+  {
+   "fr": "délai",
+   "ewondo": "abog",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« temps, moment » (NT 1 Th 5,16 ; P p.119).",
+   "a_confirmer": [],
+   "source": [
+    "abog = temps, moment : NT 1 Th 5,16 « Taan abog asë » (soyez toujours…) ; P p.119 « temps, abok » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5140)"
+   ]
+  },
+  {
+   "fr": "avertissement",
+   "ewondo": "boan okala",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« prenez garde » (NT Mt 24,4).",
+   "a_confirmer": [],
+   "source": [
+    "boan = faites (dans boan okala = prenez garde) : NT Mt 24,4 « Boan okala na të badug mina » ; P p.63 impératif pluriel « bòan, faites » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:2996)",
+    "okala = attention (dans boan okala) : NT Mt 24,4 ; P p.109 « attention (faire), kala » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4673)"
+   ]
+  },
+  {
+   "fr": "tentative",
+   "ewondo": "kiege",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« essai » (R p.213).",
+   "a_confirmer": [],
+   "source": [
+    "kiege = essayer, éprouver : R p.213 « kiege taste, test, try » (redden-1979-dictionary-pages-188-257.tesseract.txt:1472) ; N 1911 « kiege probieren » (lehrbuchderjaund00nekeuoft.ia-ocr.txt:10388)"
+   ]
+  },
+  {
+   "fr": "dépôt",
+   "ewondo": "və mɔni a baŋ",
+   "type": "mot",
+   "certitude": "attesté",
+   "regles": [],
+   "remarque": "NT Lc 19,23 « vë mòni wama a baṅ » (placer l'argent à la banque).",
+   "a_confirmer": [],
+   "source": [
+    "və = donner : P p.112 « donner, vê ou hë » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4783) ; NT Lc 19,26 « bayi vë »",
+    "mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni »",
+    "a = à, dans (locatif) : P p.111 « dans, a, etere » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4731) ; NT Lc 19,23 « vë mòni wama a baṅ »",
+    "baŋ = banque (emprunt attesté) : NT Lc 19,23 « ndò asu dze waandzëki vë mòni wama a baṅ ? »"
+   ]
+  },
+  {
+   "fr": "reçu",
+   "ewondo": "bələ",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "participe « reçu » = bələ « recevoir » (P p.118) ; le NOM « reçu » (ticket) = kalara « papier » (P p.116).",
+   "a_confirmer": [],
+   "source": [
+    "bələ = avoir, recevoir : P p.118 « recevoir, bêlé » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5094) ; P p.94 « bèlè, avoir, recevoir » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:4717) ; NT Jn 16,24 « miayi bëlë »"
+   ]
+  },
+  {
+   "fr": "frais de",
+   "ewondo": "Mɔni ya lom",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« argent de l'envoi » : mɔni (P p.101) + ya (P p.111) + lom (P p.100) ; aucun mot attesté pour « frais » (faux ami evovoe = fraîcheur, écarté).",
+   "a_confirmer": [],
+   "source": [
+    "Mɔni = argent : N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920) ; R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936) ; NT Lc 19,23 « mòni »",
+    "ya = de (connectif) : P p.111 « de, ya » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4734)",
+    "lom = envoyer : P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779) ; P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247) ; NT Jn 20,21 « malom mina »"
+   ]
+  },
+  {
+   "fr": "min",
+   "ewondo": "abot",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« petitesse » (P p.38).",
+   "a_confirmer": [],
+   "source": [
+    "abot = petitesse, petit : P p.38 « grandeur, anen ; et petitesse, abòt » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:1670)"
+   ]
+  },
+  {
+   "fr": "max",
+   "ewondo": "anen",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« grandeur » (P p.38).",
+   "a_confirmer": [],
+   "source": [
+    "anen = grandeur, grand : P p.38 « grandeur, anen » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:1670) ; P p.113 « grandeur, anen » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4843)"
+   ]
+  },
+  {
+   "fr": "safinum",
+   "ewondo": "Safinum",
+   "type": "mot",
+   "certitude": "attesté",
+   "regles": [],
+   "remarque": "Marque SAFINUM : nom propre, non traduit (liste d'exceptions des marques, règle du projet, 12 novembre 2026).",
+   "a_confirmer": [],
+   "source": [
+    "SAFINUM : marque, nom propre (liste d'exceptions du projet)"
+   ]
+  },
+  {
+   "fr": "jamais",
+   "ewondo": "tɔ eyɔŋ",
+   "type": "mot",
+   "certitude": "attesté",
+   "regles": [],
+   "remarque": "P p.114 ; NT Jn 6,35 (en fin de proposition, avec ki).",
+   "a_confirmer": [],
+   "source": [
+    "tɔ = même (dans tɔ eyɔŋ = jamais) : R p.245 « tuɔ, tɔ same » (image PDF 249, relu) ; P p.114 « jamais, tò eyòn » (locution) (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4905)",
+    "eyɔŋ = fois (dans tɔ eyɔŋ = jamais) : P p.114 « jamais, tò eyòn » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:6911) ; NT Jn 6,35 ; 10,28 ; 13,8 « … ki … tò eyòṅ » (en fin de proposition)"
+   ]
+  },
+  {
+   "fr": "et",
+   "ewondo": "ai",
+   "type": "mot",
+   "certitude": "attesté",
+   "regles": [],
+   "remarque": "entre noms (P p.14, PDF p.16) ; « ban » entre deux personnes (P p.11) ; « ndò fə » entre deux phrases (P p.21).",
+   "a_confirmer": [],
+   "source": [
+    "ai = avec, et : P p.112 « et, di, ayi » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4799) ; NT Jn 20,21 « Mvoè ai mina »"
+   ]
+  },
+  {
+   "fr": "note",
+   "ewondo": "Foe",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« nouvelle, message » : foe (P p.116 ; R p.204).",
+   "a_confirmer": [],
+   "source": [
+    "Foe = nouvelle, message : P p.116 « nouvelle, foe » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4977) ; R p.204 « foe news » (redden-1979-dictionary-pages-188-257.tesseract.txt:1001) ; NT Lc 10,7 « mbëmbë foe »"
+   ]
+  },
+  {
+   "fr": "optionnel",
+   "ewondo": "ngë wayi",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« si tu veux » : ngë « si » + wayi (futur 2e sg., P p.23) — pas de mot attesté pour « optionnel ».",
+   "a_confirmer": [],
+   "source": [
+    "ngë = si, quand : P p.14 (PDF p.16) « ngè, si, quand » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:554) ; NT Mt 5,37 « ngë ki na »",
+    "wayi = tu veux : P p.63 « Wayi na abò ya ? » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:2969) ; P p.120 « vouloir, yé » (tesseract.txt:5193)"
+   ]
+  },
+  {
+   "fr": "(optionnel)",
+   "ewondo": "(ngë wayi)",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« si tu veux » : ngë « si » + wayi (futur 2e sg., P p.23) ; aucun mot attesté pour « optionnel ».",
+   "a_confirmer": [],
+   "source": [
+    "ngë = si, quand : P p.14 (PDF p.16) « ngè, si, quand » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:554) ; NT Mt 5,37 « ngë ki na »",
+    "wayi = tu veux : P p.63 « Wayi na abò ya ? » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:2969) ; P p.120 « vouloir, yé » (tesseract.txt:5193)"
+   ]
+  },
+  {
+   "fr": "janv",
+   "ewondo": "ngɔn 1",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« mois 1 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": [],
+   "source": [
+    "ngɔn = lune, mois : P p.103 « ngòn (V), 1) fille 2) lune, mois » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4370) ; P p.115 « mois, ngòn » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4969) ; N 1913 « Monat ngon » (diesprachederjau00nekeuoft.ia-ocr.txt:7380)"
+   ]
+  },
+  {
+   "fr": "janvier",
+   "ewondo": "ngɔn 1",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« mois 1 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": [],
+   "source": [
+    "ngɔn = lune, mois : P p.103 « ngòn (V), 1) fille 2) lune, mois » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4370) ; P p.115 « mois, ngòn » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4969) ; N 1913 « Monat ngon » (diesprachederjau00nekeuoft.ia-ocr.txt:7380)"
+   ]
+  },
+  {
+   "fr": "févr",
+   "ewondo": "ngɔn 2",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« mois 2 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": [],
+   "source": [
+    "ngɔn = lune, mois : P p.103 « ngòn (V), 1) fille 2) lune, mois » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4370) ; P p.115 « mois, ngòn » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4969) ; N 1913 « Monat ngon » (diesprachederjau00nekeuoft.ia-ocr.txt:7380)"
+   ]
+  },
+  {
+   "fr": "février",
+   "ewondo": "ngɔn 2",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« mois 2 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": [],
+   "source": [
+    "ngɔn = lune, mois : P p.103 « ngòn (V), 1) fille 2) lune, mois » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4370) ; P p.115 « mois, ngòn » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4969) ; N 1913 « Monat ngon » (diesprachederjau00nekeuoft.ia-ocr.txt:7380)"
+   ]
+  },
+  {
+   "fr": "mars",
+   "ewondo": "ngɔn 3",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« mois 3 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": [],
+   "source": [
+    "ngɔn = lune, mois : P p.103 « ngòn (V), 1) fille 2) lune, mois » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4370) ; P p.115 « mois, ngòn » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4969) ; N 1913 « Monat ngon » (diesprachederjau00nekeuoft.ia-ocr.txt:7380)"
+   ]
+  },
+  {
+   "fr": "avr",
+   "ewondo": "ngɔn 4",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« mois 4 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": [],
+   "source": [
+    "ngɔn = lune, mois : P p.103 « ngòn (V), 1) fille 2) lune, mois » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4370) ; P p.115 « mois, ngòn » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4969) ; N 1913 « Monat ngon » (diesprachederjau00nekeuoft.ia-ocr.txt:7380)"
+   ]
+  },
+  {
+   "fr": "avril",
+   "ewondo": "ngɔn 4",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« mois 4 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": [],
+   "source": [
+    "ngɔn = lune, mois : P p.103 « ngòn (V), 1) fille 2) lune, mois » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4370) ; P p.115 « mois, ngòn » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4969) ; N 1913 « Monat ngon » (diesprachederjau00nekeuoft.ia-ocr.txt:7380)"
+   ]
+  },
+  {
+   "fr": "mai",
+   "ewondo": "ngɔn 5",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« mois 5 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": [],
+   "source": [
+    "ngɔn = lune, mois : P p.103 « ngòn (V), 1) fille 2) lune, mois » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4370) ; P p.115 « mois, ngòn » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4969) ; N 1913 « Monat ngon » (diesprachederjau00nekeuoft.ia-ocr.txt:7380)"
+   ]
+  },
+  {
+   "fr": "juin",
+   "ewondo": "ngɔn 6",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« mois 6 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": [],
+   "source": [
+    "ngɔn = lune, mois : P p.103 « ngòn (V), 1) fille 2) lune, mois » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4370) ; P p.115 « mois, ngòn » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4969) ; N 1913 « Monat ngon » (diesprachederjau00nekeuoft.ia-ocr.txt:7380)"
+   ]
+  },
+  {
+   "fr": "juil",
+   "ewondo": "ngɔn 7",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« mois 7 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": [],
+   "source": [
+    "ngɔn = lune, mois : P p.103 « ngòn (V), 1) fille 2) lune, mois » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4370) ; P p.115 « mois, ngòn » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4969) ; N 1913 « Monat ngon » (diesprachederjau00nekeuoft.ia-ocr.txt:7380)"
+   ]
+  },
+  {
+   "fr": "juillet",
+   "ewondo": "ngɔn 7",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« mois 7 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": [],
+   "source": [
+    "ngɔn = lune, mois : P p.103 « ngòn (V), 1) fille 2) lune, mois » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4370) ; P p.115 « mois, ngòn » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4969) ; N 1913 « Monat ngon » (diesprachederjau00nekeuoft.ia-ocr.txt:7380)"
+   ]
+  },
+  {
+   "fr": "août",
+   "ewondo": "ngɔn 8",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« mois 8 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": [],
+   "source": [
+    "ngɔn = lune, mois : P p.103 « ngòn (V), 1) fille 2) lune, mois » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4370) ; P p.115 « mois, ngòn » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4969) ; N 1913 « Monat ngon » (diesprachederjau00nekeuoft.ia-ocr.txt:7380)"
+   ]
+  },
+  {
+   "fr": "sept",
+   "ewondo": "ngɔn 9",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« mois 9 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": [],
+   "source": [
+    "ngɔn = lune, mois : P p.103 « ngòn (V), 1) fille 2) lune, mois » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4370) ; P p.115 « mois, ngòn » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4969) ; N 1913 « Monat ngon » (diesprachederjau00nekeuoft.ia-ocr.txt:7380)"
+   ]
+  },
+  {
+   "fr": "septembre",
+   "ewondo": "ngɔn 9",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« mois 9 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": [],
+   "source": [
+    "ngɔn = lune, mois : P p.103 « ngòn (V), 1) fille 2) lune, mois » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4370) ; P p.115 « mois, ngòn » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4969) ; N 1913 « Monat ngon » (diesprachederjau00nekeuoft.ia-ocr.txt:7380)"
+   ]
+  },
+  {
+   "fr": "oct",
+   "ewondo": "ngɔn 10",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« mois 10 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": [],
+   "source": [
+    "ngɔn = lune, mois : P p.103 « ngòn (V), 1) fille 2) lune, mois » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4370) ; P p.115 « mois, ngòn » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4969) ; N 1913 « Monat ngon » (diesprachederjau00nekeuoft.ia-ocr.txt:7380)"
+   ]
+  },
+  {
+   "fr": "octobre",
+   "ewondo": "ngɔn 10",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« mois 10 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": [],
+   "source": [
+    "ngɔn = lune, mois : P p.103 « ngòn (V), 1) fille 2) lune, mois » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4370) ; P p.115 « mois, ngòn » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4969) ; N 1913 « Monat ngon » (diesprachederjau00nekeuoft.ia-ocr.txt:7380)"
+   ]
+  },
+  {
+   "fr": "nov",
+   "ewondo": "ngɔn 11",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« mois 11 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": [],
+   "source": [
+    "ngɔn = lune, mois : P p.103 « ngòn (V), 1) fille 2) lune, mois » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4370) ; P p.115 « mois, ngòn » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4969) ; N 1913 « Monat ngon » (diesprachederjau00nekeuoft.ia-ocr.txt:7380)"
+   ]
+  },
+  {
+   "fr": "novembre",
+   "ewondo": "ngɔn 11",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« mois 11 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": [],
+   "source": [
+    "ngɔn = lune, mois : P p.103 « ngòn (V), 1) fille 2) lune, mois » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4370) ; P p.115 « mois, ngòn » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4969) ; N 1913 « Monat ngon » (diesprachederjau00nekeuoft.ia-ocr.txt:7380)"
+   ]
+  },
+  {
+   "fr": "déc",
+   "ewondo": "ngɔn 12",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« mois 12 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": [],
+   "source": [
+    "ngɔn = lune, mois : P p.103 « ngòn (V), 1) fille 2) lune, mois » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4370) ; P p.115 « mois, ngòn » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4969) ; N 1913 « Monat ngon » (diesprachederjau00nekeuoft.ia-ocr.txt:7380)"
+   ]
+  },
+  {
+   "fr": "décembre",
+   "ewondo": "ngɔn 12",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« mois 12 » : ngòn « mois » (P p.115 ; N 1913) + numéro du mois (chiffre, donnée protégée). Aucun nom de mois attesté dans les sources.",
+   "a_confirmer": [],
+   "source": [
+    "ngɔn = lune, mois : P p.103 « ngòn (V), 1) fille 2) lune, mois » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4370) ; P p.115 « mois, ngòn » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4969) ; N 1913 « Monat ngon » (diesprachederjau00nekeuoft.ia-ocr.txt:7380)"
+   ]
+  },
+  {
+   "fr": "jury",
+   "ewondo": "Bod bə nkat",
+   "type": "mot",
+   "certitude": "à confirmer",
+   "regles": [],
+   "remarque": "« les gens du jugement » : bod (NT Lc 19,45) + bə connectif (P p.34) + nkat « jugement » (P p.103). Aucun mot attesté pour « jury ».",
+   "a_confirmer": [],
+   "source": [
+    "Bod = gens (pluriel de mod) : NT Lc 19,45 « bod bë mëkit » ; P p.113 « homme, mot (1) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4870)",
+    "bə = connectif pluriel (classe bo-/bə-) : NT Lc 19,45 « bod bë mëkit » ; P p.34 « Bòn be nkukuma » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:1547)",
+    "nkat = jugement : P p.103 « nkat (II), jugement » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4382)"
+   ]
+  },
+  {
+   "fr": "bonjour",
+   "ewondo": "Ovuma",
+   "type": "mot",
+   "certitude": "attesté",
+   "regles": [],
+   "remarque": "Salutation attestée NT Lc 1,28 ; « mbolo » écarté (non attesté comme salutation : N 1911 « Zeuge mbolo », témoin).",
+   "a_confirmer": [],
+   "source": [
+    "Ovuma = salut : NT Lc 1,28 « Ovuma » ; Mt 28,9 « Miavuma » (pluriel)"
+   ]
+  }
+ ],
+ "decision_emmanuel": "12/11/2026 17:03 : termes sans mot attesté = calque ou emprunt, certitude « à confirmer », listés dans registre-des-manques.json (résolus « à confirmer »).",
+ "glossaire": {
+  "a": {
+   "sens": "à, dans (locatif)",
+   "sources": [
+    "P p.111 « dans, a, etere » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4731)",
+    "NT Lc 19,23 « vë mòni wama a baṅ »"
+   ],
+   "certitude": "attesté"
+  },
+  "ai": {
+   "sens": "avec, et",
+   "sources": [
+    "P p.14 (PDF p.16) vocabulaire « ai, et, avec » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:553)",
+    "P p.112 « et, di, ayi » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4799)",
+    "NT Jn 20,21 « Mvoè ai mina »"
+   ],
+   "certitude": "attesté"
+  },
+  "ya": {
+   "sens": "de (connectif)",
+   "sources": [
+    "P p.111 « de, ya » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4734)"
+   ],
+   "certitude": "attesté"
+  },
+  "na": {
+   "sens": "que (conjonction)",
+   "sources": [
+    "P p.117 « pour que, na » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5032)",
+    "NT Mt 24,4 « Boan okala na të badug mina »"
+   ],
+   "certitude": "attesté"
+  },
+  "kik": {
+   "sens": "ne… pas (après le verbe)",
+   "sources": [
+    "P p.20 « madin kik… mayem kik » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:824-867)"
+   ],
+   "certitude": "attesté"
+  },
+  "ki": {
+   "sens": "ne… pas (devant le complément / au futur)",
+   "sources": [
+    "P p.20 « mayen ki mintomba… Mayi ki nyu mendim » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:867-868)",
+    "NT Ac 20,24 « madaṅ ki »"
+   ],
+   "certitude": "attesté"
+  },
+  "tə": {
+   "sens": "ne… pas (défense)",
+   "sources": [
+    "NT Ph 4,6 « Të miasaṅan » ; Lc 10,20 « të miadaṅ tag »"
+   ],
+   "certitude": "attesté"
+  },
+  "miatil": {
+   "sens": "(que) vous écriviez — forme de défense tə + mia- + til",
+   "sources": [
+    "NT Ph 4,6 « Të miasaṅan » (modèle tə mia-VERBE)",
+    "P p.112 « écrire, til » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4814)"
+   ],
+   "certitude": "attesté"
+  },
+  "mɔni": {
+   "sens": "argent",
+   "sources": [
+    "N 1913 « te ai moni ohne Geld » (diesprachederjau00nekeuoft.ia-ocr.txt:2920)",
+    "R dict. « moni money » (redden-1979-dictionary-pages-188-257.tesseract.txt:1936)",
+    "NT Lc 19,23 « mòni »"
+   ],
+   "certitude": "attesté"
+  },
+  "woe": {
+   "sens": "ton, ta (accord de mɔni)",
+   "sources": [
+    "NT Lc 19,16 et 19,20 « nsaṅ mòni woe »",
+    "NT Mt 6,4 « Esya woe »"
+   ],
+   "certitude": "attesté"
+  },
+  "baŋ": {
+   "sens": "banque (emprunt attesté)",
+   "sources": [
+    "NT Lc 19,23 « ndò asu dze waandzëki vë mòni wama a baṅ ? »"
+   ],
+   "certitude": "attesté"
+  },
+  "lom": {
+   "sens": "envoyer",
+   "sources": [
+    "P p.112 « envoyer, lom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4779)",
+    "P p.100 « lom, envoyer » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4247)",
+    "NT Jn 20,21 « malom mina »"
+   ],
+   "certitude": "attesté"
+  },
+  "bələ": {
+   "sens": "avoir, recevoir",
+   "sources": [
+    "P p.118 « recevoir, bêlé » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5094)",
+    "P p.94 « bèlè, avoir, recevoir » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:4717)",
+    "NT Jn 16,24 « miayi bëlë »"
+   ],
+   "certitude": "attesté"
+  },
+  "zəzə": {
+   "sens": "pour rien (a zəzə = gratuitement)",
+   "sources": [
+    "NT Mt 10,8 « Mingabi a zëzë, vaan a zëzë » (vous avez reçu gratuitement, donnez gratuitement)",
+    "P p.17 « a zëzë, en vain, sans motif » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:554)"
+   ],
+   "certitude": "attesté"
+  },
+  "maan": {
+   "sens": "salaire, paie",
+   "sources": [
+    "NT Mt 20,8 « ovë bò maan » ; Lc 10,7 « maan moe »",
+    "P p.116 « paiement (salaire), mân » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5005)",
+    "N 1913 « man Lohn » (diesprachederjau00nekeuoft.ia-ocr.txt:1008)"
+   ],
+   "certitude": "attesté"
+  },
+  "ekola": {
+   "sens": "dette",
+   "sources": [
+    "P p.95 « ekola (IV), dette » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:5044)",
+    "NT Mt 18,28 « Dugan ma ekola dzama »"
+   ],
+   "certitude": "attesté"
+  },
+  "mfie": {
+   "sens": "lumière, lampe",
+   "sources": [
+    "R p.184 « mfie light, lamp » (redden-1979-dictionary-pages-188-257.tesseract.txt:26)",
+    "P p.114 « lumière, mfyé » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4909)"
+   ],
+   "certitude": "calque"
+  },
+  "bod": {
+   "sens": "gens (pluriel de mod)",
+   "sources": [
+    "NT Lc 19,45 « bod bë mëkit »",
+    "P p.113 « homme, mot (1) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4870)"
+   ],
+   "certitude": "attesté"
+  },
+  "bə": {
+   "sens": "connectif pluriel (classe bo-/bə-)",
+   "sources": [
+    "NT Lc 19,45 « bod bë mëkit »",
+    "P p.34 « Bòn be nkukuma » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:1547)"
+   ],
+   "certitude": "attesté"
+  },
+  "mekit": {
+   "sens": "commerce, marchandises",
+   "sources": [
+    "NT Lc 19,45 « bod bë mëkit » (les vendeurs) ; Lc 19,13 « Boan mëkit » (faites du commerce)"
+   ],
+   "certitude": "attesté"
+  },
+  "mod": {
+   "sens": "personne, homme",
+   "sources": [
+    "P p.113 « homme, mot (1) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4870)",
+    "NT Lc 19,8 « mod ziṅ »"
+   ],
+   "certitude": "attesté"
+  },
+  "yan": {
+   "sens": "payer",
+   "sources": [
+    "P p.116 « payer, yan » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5003)",
+    "R gramm. « yan pay » (redden-1979-grammar-ewondo-ERIC-ED185833.ia-ocr.txt:7813)",
+    "N 1913 « yän bezahlen »"
+   ],
+   "certitude": "attesté"
+  },
+  "bindi": {
+   "sens": "examiner, vérifier",
+   "sources": [
+    "NT 1 Th 5,21 « bindigan mam mësë » (examinez toutes choses) ; 2 Co 13,5 « bindigan »"
+   ],
+   "certitude": "attesté"
+  },
+  "bindigan": {
+   "sens": "vérifiez ! (impératif pluriel de bindi)",
+   "sources": [
+    "NT 1 Th 5,21 ; 2 Co 13,5 (forme attestée telle quelle)",
+    "P p.64 impératif pluriel en -gan (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:3008-3020)"
+   ],
+   "certitude": "attesté"
+  },
+  "abog": {
+   "sens": "temps, moment",
+   "sources": [
+    "NT 1 Th 5,16 « Taan abog asë » (soyez toujours…)",
+    "P p.119 « temps, abok » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5140)"
+   ],
+   "certitude": "attesté"
+  },
+  "asə": {
+   "sens": "tout (accord de abog)",
+   "sources": [
+    "NT 1 Th 5,16 « abog asë »"
+   ],
+   "certitude": "attesté"
+  },
+  "osə": {
+   "sens": "tout (accord classe 3, o-/w-)",
+   "sources": [
+    "NT Lc 19,47 « amos osë », 19,48 « nnam osë »"
+   ],
+   "certitude": "attesté"
+  },
+  "məsə": {
+   "sens": "tous (accord de mam)",
+   "sources": [
+    "NT 1 Th 5,21 « mam mësë »"
+   ],
+   "certitude": "attesté"
+  },
+  "dzoe": {
+   "sens": "nom",
+   "sources": [
+    "P p.115 « nom, dzoe » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4965)",
+    "R p.202 « dzoe nose; name » (redden-1979-dictionary-pages-188-257.tesseract.txt:886)",
+    "NT Jn 10,3 « a dzoe »"
+   ],
+   "certitude": "attesté"
+  },
+  "osu": {
+   "sens": "avant, devant",
+   "sources": [
+    "P p.109 « avant, osu » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4636)",
+    "P p.111 « devant, osu » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4766)",
+    "NT Lc 19,28 « akë ai dulu osu »"
+   ],
+   "certitude": "attesté"
+  },
+  "mvus": {
+   "sens": "derrière, après",
+   "sources": [
+    "P p.111 « derrière… mvus » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4756)",
+    "R p.193 « amvus back, behind; later after(wards) » (redden-1979-dictionary-pages-188-257.tesseract.txt:457)"
+   ],
+   "certitude": "attesté"
+  },
+  "mvɔɛ": {
+   "sens": "paix, santé, sûreté",
+   "sources": [
+    "P p.116 « paix, mvòè (V) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4974)",
+    "NT Jn 20,21 « Mvoè ai mina »"
+   ],
+   "certitude": "attesté"
+  },
+  "tɔbɔgan": {
+   "sens": "choisissez ! (impératif pluriel de tɔb)",
+   "sources": [
+    "P p.105 « tòb, choisir. = tòbòk, tòbògan » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:6087-6088)"
+   ],
+   "certitude": "attesté"
+  },
+  "tɔb": {
+   "sens": "choisir",
+   "sources": [
+    "P p.105 « tòb, choisir » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:6087)",
+    "N 1911 « tɔb auswählen » (lehrbuchderjaund00nekeuoft.ia-ocr.txt:17660)",
+    "NT Lc 1,28 « Zamba angatòb »"
+   ],
+   "certitude": "attesté"
+  },
+  "akyaɛ": {
+   "sens": "sorte, espèce, manière",
+   "sources": [
+    "P p.112 « espèce, akyaè » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4794)",
+    "P p.115 « manière, mbol, akyaè » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4938)"
+   ],
+   "certitude": "attesté"
+  },
+  "mbol": {
+   "sens": "manière, façon",
+   "sources": [
+    "P p.115 « manière, mbol » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4938)"
+   ],
+   "certitude": "calque"
+  },
+  "avol": {
+   "sens": "vite, rapide",
+   "sources": [
+    "P p.118 « rapide, avol » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5087)",
+    "R p.194 « avo(l) fast, quick » (redden-1979-dictionary-pages-188-257.tesseract.txt:515)"
+   ],
+   "certitude": "attesté"
+  },
+  "kə": {
+   "sens": "aller",
+   "sources": [
+    "P p.109 « aller, kë » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4652)",
+    "NT Lc 19,28 « akë … osu »"
+   ],
+   "certitude": "attesté"
+  },
+  "dugan": {
+   "sens": "retourner ; refaire",
+   "sources": [
+    "P p.118 « retourner, dugan » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5112)",
+    "R p.200 « dugan go back, return; do/be again/over » (redden-1979-dictionary-pages-188-257.tesseract.txt:827)",
+    "NT Jn 20,21 « Yesus adugan dzo » (dit de nouveau)"
+   ],
+   "certitude": "attesté"
+  },
+  "evus": {
+   "sens": "faute, erreur",
+   "sources": [
+    "P p.112 « faute, evus (IV) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4822)"
+   ],
+   "certitude": "attesté"
+  },
+  "dzia": {
+   "sens": "un (accord classe e-)",
+   "sources": [
+    "P p.120 « un, … dzia » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5185)",
+    "N 1911 « eye dziä ein Tuch » (lehrbuchderjaund00nekeuoft.ia-ocr.txt:5524)"
+   ],
+   "certitude": "attesté"
+  },
+  "dii": {
+   "sens": "fermer",
+   "sources": [
+    "P p.113 « fermer, dii » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4832)",
+    "N 1913 « dii zumachen » (diesprachederjau00nekeuoft.ia-ocr.txt:2961)"
+   ],
+   "certitude": "attesté"
+  },
+  "tsɛndɛ": {
+   "sens": "changer",
+   "sources": [
+    "R p.245 « tséndé change, exchange » (redden-1979-dictionary-pages-188-257.tesseract.txt:2887)"
+   ],
+   "certitude": "attesté"
+  },
+  "foe": {
+   "sens": "nouvelle, message",
+   "sources": [
+    "P p.116 « nouvelle, foe » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4977)",
+    "R p.204 « foe news » (redden-1979-dictionary-pages-188-257.tesseract.txt:1001)",
+    "NT Lc 10,7 « mbëmbë foe »"
+   ],
+   "certitude": "attesté"
+  },
+  "mfaŋ": {
+   "sens": "important, vrai",
+   "sources": [
+    "P p.114 « important, mfañ » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4892)",
+    "R p.222 « mfan good, real, true, special, important » (redden-1979-dictionary-pages-188-257.tesseract.txt:1873)"
+   ],
+   "certitude": "attesté"
+  },
+  "nkoo": {
+   "sens": "ligne, corde ; téléphone",
+   "sources": [
+    "R p.234 « ŋkoo line, cord, band; telephone » (redden-1979-dictionary-pages-188-257.tesseract.txt:2412)",
+    "N 1913 « nkö(l) Strick, Telephon » (diesprachederjau00nekeuoft.ia-ocr.txt:6251)"
+   ],
+   "certitude": "calque"
+  },
+  "esye": {
+   "sens": "travail, service",
+   "sources": [
+    "P p.120 « travail, esye » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5165)",
+    "R p.209 « esie work, job » (redden-1979-dictionary-pages-188-257.tesseract.txt:1256)",
+    "NT Ac 20,24 « esye ya Nti »"
+   ],
+   "certitude": "attesté"
+  },
+  "etetəg": {
+   "sens": "maintenant (avec nyɔ)",
+   "sources": [
+    "P p.114 « maintenant, etëtëg nyò » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4922)",
+    "N 1911 « e'teteg-no jetzt » (lehrbuchderjaund00nekeuoft.ia-ocr.txt:2530)"
+   ],
+   "certitude": "attesté"
+  },
+  "nyɔ": {
+   "sens": "ce…-ci (dans etetəg nyɔ)",
+   "sources": [
+    "P p.114 « etëtëg nyò » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4922)"
+   ],
+   "certitude": "attesté"
+  },
+  "kiege": {
+   "sens": "essayer, éprouver",
+   "sources": [
+    "R p.213 « kiege taste, test, try » (redden-1979-dictionary-pages-188-257.tesseract.txt:1472)",
+    "N 1911 « kiege probieren » (lehrbuchderjaund00nekeuoft.ia-ocr.txt:10388)"
+   ],
+   "certitude": "calque"
+  },
+  "hom": {
+   "sens": "endroit, lieu",
+   "sources": [
+    "P p.112 « endroit, hom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4819)",
+    "NT Lc 19,5 « hom te »"
+   ],
+   "certitude": "calque"
+  },
+  "mkpamaŋ": {
+   "sens": "nouveau, neuf",
+   "sources": [
+    "P p.115 « neuf (nouveau), mkpamañ » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4955)",
+    "R p.223 « mkpamaŋ new » (redden-1979-dictionary-pages-188-257.tesseract.txt:1926)",
+    "NT 2 Co 5,17 « mkpamaṅ »"
+   ],
+   "certitude": "attesté"
+  },
+  "tilig": {
+   "sens": "écris ! (impératif singulier de til)",
+   "sources": [
+    "NT Ap 21,5 « Tilig »",
+    "P p.112 « écrire, til » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4814)"
+   ],
+   "certitude": "attesté"
+  },
+  "bəbəla": {
+   "sens": "vrai, vérité",
+   "sources": [
+    "P p.120 « vérité, vrai, bébéla » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5201)",
+    "NT Ap 21,5 « bibug bi binë bëbëla »"
+   ],
+   "certitude": "attesté"
+  },
+  "aman": {
+   "sens": "c'est achevé (aman ya)",
+   "sources": [
+    "NT Jn 19,30 « aman ya » (Tout est accompli)",
+    "P p.119 « terminer, mana » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5143)",
+    "R p.218 « man finish, complete » (redden-1979-dictionary-pages-188-257.tesseract.txt:1692)"
+   ],
+   "certitude": "attesté"
+  },
+  "ovuma": {
+   "sens": "salut ! (à une personne)",
+   "sources": [
+    "NT Lc 1,28 « Ovuma » (Je te salue)"
+   ],
+   "certitude": "attesté"
+  },
+  "boan": {
+   "sens": "faites (dans boan okala = prenez garde)",
+   "sources": [
+    "NT Mt 24,4 « Boan okala na të badug mina »",
+    "P p.63 impératif pluriel « bòan, faites » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:2996)"
+   ],
+   "certitude": "à confirmer"
+  },
+  "okala": {
+   "sens": "attention (dans boan okala)",
+   "sources": [
+    "NT Mt 24,4",
+    "P p.109 « attention (faire), kala » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4673)"
+   ],
+   "certitude": "attesté"
+  },
+  "ledə": {
+   "sens": "montrer",
+   "sources": [
+    "P p.115 « montrer, ledé » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4933)",
+    "NT Lc 1,28 « malëdë »"
+   ],
+   "certitude": "attesté"
+  },
+  "yənə": {
+   "sens": "vois ! regarde ! (impératif de yen)",
+   "sources": [
+    "NT Ap 21,5 « Yënë, mabò byem bisë mimkpamaṅ » ; Lc 19,8 « yënë »",
+    "P p.15 « yen, voir » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:456)"
+   ],
+   "certitude": "à confirmer"
+  },
+  "tari": {
+   "sens": "commencer",
+   "sources": [
+    "P p.111 « commencer, tari » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4719, OCR « fari »)",
+    "NT Lc 19,45 « atari na atsidan » (il commença à chasser)"
+   ],
+   "certitude": "attesté"
+  },
+  "mam": {
+   "sens": "choses, affaires (pluriel de dzam)",
+   "sources": [
+    "NT 1 Th 5,21 « mam mësë » ; Lc 19,11 « e mam ma »",
+    "P p.109 « affaire, dzam » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4643)"
+   ],
+   "certitude": "attesté"
+  },
+  "dzom": {
+   "sens": "chose",
+   "sources": [
+    "P p.110 « chose, dzom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4700)",
+    "NT Jn 16,24 « dzom ziṅ »"
+   ],
+   "certitude": "attesté"
+  },
+  "ziŋ": {
+   "sens": "quelque, un certain, autre",
+   "sources": [
+    "NT Jn 16,24 « dzom ziṅ » ; Lc 19,8 « mod ziṅ »"
+   ],
+   "certitude": "attesté"
+  },
+  "məsiki": {
+   "sens": "ne sont pas (accord de mam/me-)",
+   "sources": [
+    "P p.20 « Mendim mesiki mbèn » (l'eau n'est pas bonne) (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:866)",
+    "P p.19 « être » négatif : -sikik (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:806-811)"
+   ],
+   "certitude": "à confirmer"
+  },
+  "bayi": {
+   "sens": "on (ils) va/vont… (futur, 3e pl.)",
+   "sources": [
+    "NT Lc 19,26 « bayi vë e mod »",
+    "P p.23 futur (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt, « Futur des verbes » p.23)"
+   ],
+   "certitude": "à confirmer"
+  },
+  "ayi": {
+   "sens": "il/elle va… (futur, 3e sg.)",
+   "sources": [
+    "NT Mt 6,4 « ayi yaan ai wa »",
+    "P p.23 futur"
+   ],
+   "certitude": "à confirmer"
+  },
+  "kokoa": {
+   "sens": "non",
+   "sources": [
+    "P p.116 « non, kokoa » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4974)",
+    "NT Mt 5,37 « kokoa, kokoa »"
+   ],
+   "certitude": "attesté"
+  },
+  "owe": {
+   "sens": "oui",
+   "sources": [
+    "P p.116 « oui, owe » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5006)",
+    "NT Mt 5,37 « owe, owe »"
+   ],
+   "certitude": "attesté"
+  },
+  "abot": {
+   "sens": "petitesse, petit",
+   "sources": [
+    "P p.38 « grandeur, anen ; et petitesse, abòt » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:1670)"
+   ],
+   "certitude": "attesté"
+  },
+  "anen": {
+   "sens": "grandeur, grand",
+   "sources": [
+    "P p.38 « grandeur, anen » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:1670)",
+    "P p.113 « grandeur, anen » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4843)"
+   ],
+   "certitude": "attesté"
+  },
+  "yob": {
+   "sens": "haut (a yob = en haut, dessus)",
+   "sources": [
+    "P p.29 « a yob, sur, en haut » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:995)",
+    "NT Lc 10,20 « ntilan a yob »"
+   ],
+   "certitude": "attesté"
+  },
+  "nyan": {
+   "sens": "entrer",
+   "sources": [
+    "P p.112 « entrer, nyan, nyi » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4777)",
+    "NT Lc 19,1 « anganyian »"
+   ],
+   "certitude": "attesté"
+  },
+  "wamen": {
+   "sens": "toi-même",
+   "sources": [
+    "P p.31 « wamen, toi-même » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:1025)",
+    "NT Lc 19,22 « Wakpèè wamen »"
+   ],
+   "certitude": "attesté"
+  },
+  "mfi": {
+   "sens": "profit, utilité",
+   "sources": [
+    "P p.117 « profit, mfi » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5041)",
+    "NT Ac 20,24 « ai ma mfi »"
+   ],
+   "certitude": "attesté"
+  },
+  "ma": {
+   "sens": "ces (démonstratif, accord de mam) ; je (pronom)",
+   "sources": [
+    "NT Lc 19,11 « e mam ma »",
+    "P p.114 « je, moi, ma, me » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4907)"
+   ],
+   "certitude": "attesté"
+  },
+  "mayem": {
+   "sens": "je sais",
+   "sources": [
+    "P p.20 « Mayem kik » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:867)",
+    "P p.118 « savoir, yem » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5104)"
+   ],
+   "certitude": "à confirmer"
+  },
+  "mabindi": {
+   "sens": "j'ai vérifié / je vérifie (ma- + bindi)",
+   "sources": [
+    "NT 1 Th 5,21 (bindi)",
+    "P p.10 indicatif présent ma-din « j'aime » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:824)"
+   ],
+   "certitude": "à confirmer"
+  },
+  "makad": {
+   "sens": "je dis",
+   "sources": [
+    "NT Lc 19,26 « Makad mina na… » (je vous dis que…)",
+    "P p.112 « dire, kad » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4774)"
+   ],
+   "certitude": "à confirmer"
+  },
+  "fə": {
+   "sens": "aussi, encore",
+   "sources": [
+    "P p.109 « aussi, fé » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4628)",
+    "NT Lc 19,9 « fë »"
+   ],
+   "certitude": "attesté"
+  },
+  "Fransi": {
+   "sens": "français (emprunt)",
+   "sources": [
+    "H 1919 « Fransi » (jaundetextevonka00heepuoft.ia-ocr.txt:23288)"
+   ],
+   "certitude": "attesté"
+  },
+  "ngaŋ": {
+   "sens": "merci",
+   "sources": [
+    "P p.118 « remercier, ngañ » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5099)",
+    "NT Ph 4,6 « mvëṅan ngaṅ »"
+   ],
+   "certitude": "attesté"
+  },
+  "dzam": {
+   "sens": "affaire, chose",
+   "sources": [
+    "P p.109 « affaire, dzam » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4643)"
+   ],
+   "certitude": "attesté"
+  },
+  "ntilan": {
+   "sens": "écrit (ce qui est écrit)",
+   "sources": [
+    "NT Lc 10,20 « moe mënë mina ntilan a yob » ; Lc 19,46 « Anë ntilan na »"
+   ],
+   "certitude": "attesté"
+  },
+  "bebe": {
+   "sens": "regarder",
+   "sources": [
+    "P p.118 « regarder, bébé » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5096)"
+   ],
+   "certitude": "attesté"
+  },
+  "fadi": {
+   "sens": "enlever",
+   "sources": [
+    "P p.112 « enlever, va ; … fadi » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4771)",
+    "NT Lc 19,26 « bayi nyè fadi »"
+   ],
+   "certitude": "attesté"
+  },
+  "osiki": {
+   "sens": "n'est pas (accord classe 3 o-, sujet mɔni)",
+   "sources": [
+    "P p.19 « être » négatif -sikik : asikik, bisikik… (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:806-811)",
+    "NT Lc 19,16 accord o- (« nsaṅ mòni woe obye »)"
+   ],
+   "certitude": "à confirmer"
+  },
+  "esiki": {
+   "sens": "n'est pas (accord classe e-, sujet esye)",
+   "sources": [
+    "P p.19-20 -siki (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:806-866)",
+    "P p.38 accord e- « enòn mòngò enè abòt » (ia-ocr.txt:1675)"
+   ],
+   "certitude": "à confirmer"
+  },
+  "anə": {
+   "sens": "il/elle est",
+   "sources": [
+    "NT 2 Co 5,17 « anë mkpamaṅ » (il est nouveau)",
+    "P p.10 « être » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt, indicatif présent)"
+   ],
+   "certitude": "à confirmer"
+  },
+  "mənə": {
+   "sens": "(elles) sont — accord me-/mə-",
+   "sources": [
+    "P p.20 « menë ayo » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:864)",
+    "NT Ap 21,5 « binë bëbëla » (même tournure, classe bi-)"
+   ],
+   "certitude": "à confirmer"
+  },
+  "abui": {
+   "sens": "beaucoup",
+   "sources": [
+    "P p.109 « beaucoup, abui » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4665)"
+   ],
+   "certitude": "attesté"
+  },
+  "asu": {
+   "sens": "pour",
+   "sources": [
+    "P p.117 « pour, asu » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5031)",
+    "NT Mt 20,2 « asu amos »"
+   ],
+   "certitude": "attesté"
+  },
+  "amu": {
+   "sens": "cause, parce que",
+   "sources": [
+    "P p.110 « cause (à… de), amu » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4709)"
+   ],
+   "certitude": "attesté"
+  },
+  "ngë": {
+   "sens": "si, quand",
+   "sources": [
+    "P p.14 (PDF p.16) « ngè, si, quand » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:554)",
+    "NT Mt 5,37 « ngë ki na »"
+   ],
+   "certitude": "attesté"
+  },
+  "wayi": {
+   "sens": "tu veux",
+   "sources": [
+    "P p.63 « Wayi na abò ya ? » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:2969)",
+    "P p.120 « vouloir, yé » (tesseract.txt:5193)"
+   ],
+   "certitude": "à confirmer"
+  },
+  "te": {
+   "sens": "ce…-là",
+   "sources": [
+    "NT Lc 10,7 « a nda te » ; Lc 19,5 « hom te »"
+   ],
+   "certitude": "attesté"
+  },
+  "və": {
+   "sens": "donner",
+   "sources": [
+    "P p.112 « donner, vê ou hë » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4783)",
+    "NT Lc 19,26 « bayi vë »"
+   ],
+   "certitude": "attesté"
+  },
+  "timi": {
+   "sens": "traduire",
+   "sources": [
+    "P p.64 « timi, traduire ; impératif timini, timinan » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:3055)",
+    "P p.119 « traduire, fimi » (tesseract.txt:5157, OCR)"
+   ],
+   "certitude": "attesté"
+  },
+  "bɔ": {
+   "sens": "faire",
+   "sources": [
+    "P p.63 « LE VERBE : BÒ, FAIRE » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:2992)",
+    "P p.112 « faire, bò, kom » (tesseract.txt:4817)"
+   ],
+   "certitude": "attesté"
+  },
+  "kom": {
+   "sens": "préparer, arranger",
+   "sources": [
+    "P p.117 « préparer, kom » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5036)"
+   ],
+   "certitude": "attesté"
+  },
+  "kalara": {
+   "sens": "papier, lettre ; « kalara ekola » = acte de dette",
+   "sources": [
+    "P p.99 « kalara (I), papier, lettre » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4184)",
+    "NT Col 2,14 « kalara ekola »",
+    "NT Lc 16,6 « Nòṅò kalara woe »"
+   ],
+   "certitude": "attesté"
+  },
+  "kad": {
+   "sens": "dire",
+   "sources": [
+    "P p.112 « dire, dzo, kad » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4774)"
+   ],
+   "certitude": "attesté"
+  },
+  "bi": {
+   "sens": "prendre",
+   "sources": [
+    "P p.117 « prendre, nôñ, bi » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5035)"
+   ],
+   "certitude": "attesté"
+  },
+  "ndò": {
+   "sens": "puis, alors",
+   "sources": [
+    "P p.109 « alors, ndù, ndù fé » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4654)",
+    "NT Lc 19,4 « Ndò angakë »"
+   ],
+   "certitude": "attesté"
+  },
+  "yanga": {
+   "sens": "attendre",
+   "sources": [
+    "P p.109 « attendre, yanga » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4672)"
+   ],
+   "certitude": "attesté"
+  },
+  "mbegə": {
+   "sens": "fardeau, charge",
+   "sources": [
+    "P p.112 « fardeau (charge), mbège » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4819)"
+   ],
+   "certitude": "attesté"
+  },
+  "wan": {
+   "sens": "votre, notre (possessif, 1re/2e/6e classe sg.)",
+   "sources": [
+    "P p.43-44 tableau des possessifs, lu sur l'image PDF p.45-46 (pichon-1950-petite-grammaire-ewondo.pdf) : « 1re cl. mòn wòm woe woe wan wan waban »"
+   ],
+   "certitude": "attesté"
+  },
+  "otari": {
+   "sens": "que tu commences (subjonctif 2e sg. de tari)",
+   "sources": [
+    "P p.65 double impératif → subjonctif (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:3083-3085)",
+    "P p.62 « que tu aimes, odiñ » (ia-ocr.txt:2944)"
+   ],
+   "certitude": "à confirmer"
+  },
+  "eyɔŋ": {
+   "sens": "fois (dans tɔ eyɔŋ = jamais)",
+   "sources": [
+    "P p.114 « jamais, tò eyòn » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:6911)",
+    "NT Jn 6,35 ; 10,28 ; 13,8 « … ki … tò eyòṅ » (en fin de proposition)"
+   ],
+   "certitude": "attesté"
+  },
+  "tɔ": {
+   "sens": "même (dans tɔ eyɔŋ = jamais)",
+   "sources": [
+    "R p.245 « tuɔ, tɔ same » (image PDF 249, relu)",
+    "P p.114 « jamais, tò eyòn » (locution) (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4905)"
+   ],
+   "certitude": "attesté"
+  },
+  "ban": {
+   "sens": "et (entre deux personnes)",
+   "sources": [
+    "P p.11 « ban, et (entre 2 personnes) » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:383) ; ex. « Atangana ban Esomba » (ia-ocr.txt:400)"
+   ],
+   "certitude": "attesté"
+  },
+  "ngɔn": {
+   "sens": "lune, mois",
+   "sources": [
+    "P p.103 « ngòn (V), 1) fille 2) lune, mois » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4370)",
+    "P p.115 « mois, ngòn » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4969)",
+    "N 1913 « Monat ngon » (diesprachederjau00nekeuoft.ia-ocr.txt:7380)"
+   ],
+   "certitude": "attesté"
+  },
+  "nkat": {
+   "sens": "jugement",
+   "sources": [
+    "P p.103 « nkat (II), jugement » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4382)"
+   ],
+   "certitude": "attesté"
+  },
+  "taŋ": {
+   "sens": "nombre, numéro",
+   "sources": [
+    "R p.243 « táŋ number » (image PDF 247 ; l'OCR redden-1979-dictionary-pages-188-257.tesseract.txt:2793 a perdu le ŋ)",
+    "P p.115 « nombre, tañ (V) » (image PDF 117 ; OCR pichon-1950-petite-grammaire-ewondo.tesseract.txt:4966 « fan »)",
+    "NT Lc 14,28 « amana bò taṅ »",
+    "N 1913 « Zahl tän » (diesprachederjau00nekeuoft.ia-ocr.txt:8147)"
+   ],
+   "certitude": "attesté"
+  },
+  "laŋ": {
+   "sens": "compter, lire",
+   "sources": [
+    "P p.100 « lañ, compter, lire » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4232)",
+    "R p.217 « láŋ count, read » (image PDF 221 ; OCR redden-1979-dictionary-pages-188-257.tesseract.txt:1617 « lan »)",
+    "NT Phm 1,18 « laṅa ekola te a nlo wama »"
+   ],
+   "certitude": "attesté"
+  },
+  "daŋ": {
+   "sens": "dépasser, être plus que",
+   "sources": [
+    "R p.199 « daŋ cross(over), pass, surpass, exceed » (image PDF 203 ; OCR redden-1979-dictionary-pages-188-257.tesseract.txt:754 « dan »)"
+   ],
+   "certitude": "attesté"
+  },
+  "odaŋ": {
+   "sens": "dépasse (accord classe o- + daŋ)",
+   "sources": [
+    "R p.199 « daŋ … exceed » (image PDF 203 ; OCR redden-1979-dictionary-pages-188-257.tesseract.txt:754)",
+    "NT Lc 19,16 accord o- (« nsaṅ mòni woe »)"
+   ],
+   "certitude": "à confirmer"
+  },
+  "məngabindi": {
+   "sens": "j'ai vérifié (passé mə-nga- + bindi)",
+   "sources": [
+    "P p.60 passé « mengadin, ongadin, angadin… » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:2390)",
+    "NT Lc 14,18 « Mëngakus afub » (j'ai acheté)",
+    "NT 1 Th 5,21 « bindigan » (radical bindi)"
+   ],
+   "certitude": "à confirmer"
+  },
+  "makogəlan": {
+   "sens": "je (te) prie",
+   "sources": [
+    "NT Ac 21,39 « Ndò makogëlan ai wa na … »",
+    "P p.117 « prier, kogelan » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:5038)",
+    "R p.214 « kogelan pray, beg, ask » (redden-1979-dictionary-pages-188-257.tesseract.txt:1524)"
+   ],
+   "certitude": "attesté"
+  },
+  "wa": {
+   "sens": "toi",
+   "sources": [
+    "P p.52 « 2e » Wa, te ; mina, vous » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:2043)",
+    "R p.247 « wa you (sg.) » (redden-1979-dictionary-pages-188-257.tesseract.txt:2972)",
+    "NT Ac 21,39 « ai wa »"
+   ],
+   "certitude": "attesté"
+  },
+  "otilig": {
+   "sens": "que tu écrives (subjonctif 2e sg. de tilig)",
+   "sources": [
+    "P p.62 subjonctif « medin, odiñ… » (pichon-1950-petite-grammaire-ewondo.ia-ocr.txt:2944)",
+    "NT Ap 21,5 « Tilig »"
+   ],
+   "certitude": "à confirmer"
+  },
+  "nlɔb": {
+   "sens": "hameçon (« hook »)",
+   "sources": [
+    "P p.113 « hameçon, nlòb (II) » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4861)",
+    "NT Mt 17,27 « këlë woa nlòb a maṅ »"
+   ],
+   "certitude": "calque"
+  },
+  "eben": {
+   "sens": "de soi-même (« automatiquement »)",
+   "sources": [
+    "NT Mc 4,28 « Si eben yatari wum bibuma »",
+    "R p.196 « -been, -meen self » (redden-1979-dictionary-pages-188-257.tesseract.txt:609)"
+   ],
+   "certitude": "calque"
+  },
+  "laŋa": {
+   "sens": "compte (impératif de laŋ : « mets à mon compte »)",
+   "sources": [
+    "NT Phm 1,18 « laṅa ekola te a nlo wama »",
+    "P p.100 « lañ, compter » (pichon-1950-petite-grammaire-ewondo.tesseract.txt:4232)"
+   ],
+   "certitude": "à confirmer"
+  },
+  "amos": {
+   "sens": "jour",
+   "sources": [
+    "R p.192 « amos day » (redden-1979-dictionary-pages-188-257.tesseract.txt:439)",
+    "P p.49 « (e) amos zamgbala » (troisième jour) (pichon-1950-petite-grammaire-ewondo.tesseract.txt:1922)",
+    "NT Lc 19,47 « amos osë » (chaque jour)"
+   ],
+   "certitude": "attesté"
+  }
+ }
+}
