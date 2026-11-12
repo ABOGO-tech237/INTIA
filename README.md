@@ -163,9 +163,9 @@ Ce travail est présenté par l’équipe Numerid, pour le SAFINUM Innovate Chal
 
 | Nom | Rôle |
 |---|---|
+| AZANGA AYISSI GERVAIS | responsable de l’équipe, linguistique et sources |
 | ATANGANA ABOGO Emmanuel | développement de l’extension, tests |
-| [coéquipière, nom en attente] | développement de l’extension |
-| Gervais Azanga | linguistique et sources |
+| SIMO TAMBA IDE EVORA | développement de l’extension |
 
 ## 10. Prochaines étapes
 
