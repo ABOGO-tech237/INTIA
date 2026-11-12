@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SAFINUM Éwondo Translator</title>
+  <style>
+    :root{--green:#006b3f;--green-50:#e8f4ee;--green-100:#cfe8db;--red:#ce1021;--yellow:#fcd116;--yellow-50:#fff8d6;--ink:#14211b;--muted:#66756d;--line:#e3e9e5}
+    *{margin:0;padding:0;box-sizing:border-box}
+    body{width:340px;font-family:"Inter","Segoe UI",system-ui,-apple-system,Roboto,Arial,sans-serif;background:#f3f6f4;color:var(--ink);font-size:14px;line-height:1.4}
+    button{font:inherit;cursor:pointer}
+    :focus-visible{outline:3px solid var(--yellow);outline-offset:2px}
+    .header{background:linear-gradient(150deg,var(--green),#00804b);color:#fff;padding:16px 18px 18px;position:relative;overflow:hidden}
+    .header::before{content:"";position:absolute;right:-40px;top:-50px;width:140px;height:140px;border-radius:50%;background:rgba(252,209,22,.2)}
+    .header::after{content:"";position:absolute;left:0;right:0;bottom:0;height:4px;background:linear-gradient(90deg,var(--green) 0 33.3%,var(--red) 33.3% 66.6%,var(--yellow) 66.6%)}
+    .top{display:flex;align-items:center;gap:12px;position:relative}
+    .logo{width:40px;height:40px;border-radius:12px;background:var(--yellow);color:var(--green);display:grid;place-items:center;font-weight:900;font-size:15px}
+    h1{font-size:17px;font-weight:800;letter-spacing:-.01em}
+    .sub{font-size:12.5px;opacity:.88}
+    .ver{margin-left:auto;font-size:11px;font-weight:800;background:rgba(0,0,0,.2);padding:4px 8px;border-radius:999px}
+    .body{padding:14px}
+    .status{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;font-size:13px;color:var(--muted)}
+    .pill{font-size:12px;font-weight:800;padding:4px 10px;border-radius:999px;background:#e6ebe8;color:#4b5a52}
+    .pill.active{background:var(--yellow);color:#123d27}
+    .btn-main{width:100%;min-height:56px;border:0;border-radius:16px;background:var(--yellow);color:#123d27;font-weight:800;font-size:16px;display:flex;align-items:center;justify-content:center;gap:10px;box-shadow:0 4px 0 #c9a300}
+    .btn-main:active{transform:translateY(2px);box-shadow:0 2px 0 #c9a300}
+    .btn-main.active{background:#fff;color:var(--green);box-shadow:0 4px 0 #cfe0d6;border:2px solid var(--green-100)}
+    .btn-main[disabled]{opacity:.55;cursor:not-allowed}
+    .msg{display:none;margin-top:10px;font-size:12.5px;padding:9px 11px;border-radius:10px;background:#fdecee;color:#7d0d18;border:1px solid #f3b8bf}
+    .msg.show{display:block}
+    .card{background:#fff;border:1px solid #edf1ee;border-radius:14px;padding:12px 14px;margin-top:12px;box-shadow:0 1px 2px rgba(16,40,28,.05)}
+    .row{display:flex;align-items:center;justify-content:space-between;gap:12px}
+    .row-title{font-weight:700;font-size:13.5px}
+    .row-desc{font-size:12px;color:var(--muted)}
+    .switch{position:relative;width:46px;height:26px;flex:none}
+    .switch input{position:absolute;opacity:0;width:100%;height:100%;margin:0;cursor:pointer;z-index:1}
+    .slider{position:absolute;inset:0;background:#cbd5cf;border-radius:26px;transition:background .2s}
+    .slider::before{content:"";position:absolute;width:20px;height:20px;left:3px;top:3px;border-radius:50%;background:#fff;box-shadow:0 1px 3px rgba(0,0,0,.2);transition:transform .2s}
+    .switch input:checked+.slider{background:var(--green)}
+    .switch input:checked+.slider::before{transform:translateX(20px)}
+    .switch input:focus-visible+.slider{outline:3px solid var(--yellow);outline-offset:2px}
+    .protect{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+    .protect span{font-size:11.5px;font-weight:700;background:var(--yellow-50);color:#6a5300;border:1px solid #f1dc7a;padding:3px 8px;border-radius:999px}
+    h2{font-size:11.5px;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);font-weight:800}
+    .lex{margin-top:8px}
+    .lex-item{display:flex;justify-content:space-between;gap:10px;padding:6px 0;border-bottom:1px solid var(--line);font-size:13px}
+    .lex-item:last-child{border-bottom:0}
+    .lex-fr{color:#4b5a52}
+    .lex-ew{color:var(--green);font-weight:800;text-align:right}
+    .stats{margin-top:8px;font-size:12px;color:var(--muted)}
+    .btn-demo{width:100%;min-height:48px;margin-top:12px;border-radius:14px;border:2px solid var(--green);background:#fff;color:var(--green);font-weight:800;font-size:14.5px}
+    .btn-demo:hover{background:var(--green-50)}
+    .footer{padding:4px 14px 14px;text-align:center;font-size:11px;color:#7d8a83}
+  </style>
+</head>
+<body>
+  <div class="header">
+    <div class="top">
+      <div class="logo" aria-hidden="true">EW</div>
+      <div><h1>SAFINUM Éwondo</h1><div class="sub">Services financiers en langue nationale</div></div>
+      <span class="ver" id="ver">v5.1.1</span>
+    </div>
+  </div>
+
+  <div class="body">
+    <div class="status"><span>Page actuelle</span><span class="pill" id="statusPill">Français</span></div>
+
+    <button class="btn-main" id="mainToggle" aria-pressed="false">
+      <svg width="22" height="22" viewBox="0 0 24 24" aria-hidden="true"><g fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.8 3 2.8 15 0 18M12 3c-2.8 3-2.8 15 0 18"/></g></svg>
+      <span id="toggleLabel">Traduire cette page en Éwondo</span>
+    </button>
+    <div class="msg" id="msg" role="alert"></div>
+
+    <div class="card">
+      <div class="row">
+        <div><div class="row-title">Traduction automatique</div><div class="row-desc">Traduire chaque page à l'ouverture</div></div>
+        <label class="switch"><input type="checkbox" id="autoCheckbox" aria-label="Traduction automatique de chaque page"/><span class="slider"></span></label>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>Toujours protégés</h2>
+      <div class="protect"><span>🔒 Montants</span><span>🔒 Dates</span><span>🔒 Références</span><span>🔒 Téléphones</span><span>🔒 PIN</span><span>🔒 Taux</span></div>
+    </div>
+
+    <div class="card">
+      <h2>Lexique Éwondo — Finance</h2>
+      <div class="lex" id="lexique"></div>
+      <div class="stats" id="stats">Chargement du modèle…</div>
+    </div>
+
+    <button class="btn-demo" id="btnDemo">Ouvrir la démo CamFinance</button>
+  </div>
+
+  <div class="footer">SAFINUM Innovate Challenge 2026 · Gestock+ &amp; Numerid.tech<br/>gervais.azanga@facsciences-uy1.cm</div>
+  <script src="popup.js"></script>
+</body>
+</html>
